@@ -7,10 +7,10 @@ genres = {}
 for line in artistFile:
     tokens = re.split(r'\t', line.rstrip("\t"))
     for num in range(1, len(tokens)-1):
-        if genres.has_key(tokens[num]) == True:
-            genres[tokens[num]] += 1
+        if genres.has_key(tokens[num].lower()) == True:
+            genres[tokens[num].lower()] += 1
         else:
-            genres[tokens[num]] = 1
+            genres[tokens[num].lower()] = 1
 
 
 genresSorted = sorted(genres.iteritems(), key = operator.itemgetter(1), reverse = True)

@@ -50,17 +50,35 @@ tagLimit = 5
 
 # read title line
 artistFile.readline()
+jumpToLine = 0
+if len(sys.argv) == 2:
+    jumpToLine = int(sys.argv[1])
+else:
+    jumpToLine = 0
+#skips to a line
+for i in range(0, jumpToLine):
+    artistFile.readline()
+    
 
-artistOut = open("../mmtd/artistGenre.txt", "w")
+artistOut = open("../mmtd/artistGenre.txt", "a")
 
-for num in range(0, 10000):
+for num in range(jumpToLine, 10000):
     line = artistFile.readline()
     tokens = re.split(r'\t+', line.rstrip('\t'))
     if len(tokens) == 3:
         if tokens[2] != " " and len(tokens[2]) != 0 and tokens[2] != "" and tokens[2] != "\t" and tokens[2] != "\n" and tokens[2] != "\n\r" and tokens[2] != "\r":
-            artistName = tokens[2]
+            
+            try:
+                artistName = tokens[2].decode('utf-8')
+                artistName = artistName.encode("ascii", "ignore")
+            except:
+                print "Most likely unicode error on artist:" + str(num)
+                sys.exc_clear()
+                continue
+                pass
             nameList = re.split("\"", artistName)
             newName = ""
+            tags = []
             for part in nameList:
                 newName += part
             try:
@@ -69,14 +87,23 @@ for num in range(0, 10000):
             except:
                 print "Error with artist" + newName
                 sys.exc_clear()
+                continue
                 pass
             
             genre = []
             genreString = ""
             if len(tags) != 0:
                 for count in range(0, len(tags)):
-                    genre.append(tags[count].item.get_name())
-                    genreString += tags[count].item.get_name() + "\t"
+                    try:
+                        tagName = tags[count].item.get_name().decode('utf-8')
+                        tagName = tagName.encode("ascii", "ignore")
+                    except:
+                        print "Most likely unicode error on artist:" + str(num)
+                        sys.exc_clear()
+                        continue
+                        pass
+                    genre.append(tagName)
+                    genreString += tagName + "\t"
                 artistOut.write(tokens[0] + "\t" + genreString + "\n")
                 print tokens[0] + " " + genreString
             time.sleep(0.3)
