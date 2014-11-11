@@ -1,0 +1,15 @@
+TO DOS
+
+DATA
+ - genre tags getting in progress
+ - need to classify tweets (ID and location) by genre
+ - make a data type for passing to map
+
+UI
+ - add summary/description in jumbotron/top of page
+ - better size map window
+ - toggle bar on side for heatmaps
+ - popup information for find gig
+   > form for entering genre, location, etc.
+ - move find gig button
+ - flesh out About page

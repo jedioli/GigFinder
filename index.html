@@ -16,13 +16,123 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 	 
-	 <script type="text/javascript">
-		<!--
-		function findGig() {
-			alert("There's one!")
-		}
-		//-->
-		</script>
+	<script type="text/javascript">
+	//<!--
+	  function findGig() {
+	    alert("There's one!")
+	  }
+	//-->
+	</script>
+	
+	<!-- Google Maps API junk -->
+	<style type="text/css">
+      html, body, #map-canvas { height: 100%; margin: 10px; padding: 10px;}
+    </style>
+	
+	<script type="text/javascript"
+	  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYXSqhgc3UWswbqksgbrH_gCiuyN1aCkM"> 
+	</script>
+	<script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?libraries=visualization&sensor=true_or_false">
+    </script>
+    
+	<script type="text/javascript">
+	  function initialize() {
+	    var heatmapData = [
+          new google.maps.LatLng(37.782, -122.447),
+          new google.maps.LatLng(37.782, -122.445),
+          new google.maps.LatLng(37.782, -122.443),
+          new google.maps.LatLng(37.782, -122.441),
+          new google.maps.LatLng(37.782, -122.439),
+          new google.maps.LatLng(37.782, -122.437),
+          new google.maps.LatLng(37.782, -122.435),
+          new google.maps.LatLng(37.785, -122.447),
+          new google.maps.LatLng(37.785, -122.445),
+          new google.maps.LatLng(37.785, -122.443),
+          new google.maps.LatLng(37.785, -122.441),
+          new google.maps.LatLng(37.785, -122.439),
+          new google.maps.LatLng(37.785, -122.437),
+          new google.maps.LatLng(37.785, -122.435)
+        ];
+	    
+	    var sanFrancisco = new google.maps.LatLng(37.774546, -122.433523);
+/*
+        var anotherMap = new google.maps.Map(document.getElementById('map-canvas'), {
+          center: sanFrancisco,
+          zoom: 13,
+          //mapTypeId: google.maps.MapTypeId.HYBRID
+        });
+*/       
+        var mapOptions = {
+          zoom: 8,	//bigger numbers mean closer zoom
+          center: sanFrancisco,
+          //mapTypeId: google.maps.MapTypeId.SATELLITE
+        };
+
+        var map = new google.maps.Map(document.getElementById('map-canvas'),
+          mapOptions);
+
+        //var pointArray = new google.maps.MVCArray(taxiData);
+
+        var heatmap = new google.maps.visualization.HeatmapLayer({
+          data: heatmapData
+        });
+
+        heatmap.setMap(map);
+        
+        
+/*        
+        var heatmap = new google.maps.visualization.HeatmapLayer({
+          data: heatmapData
+        });
+        heatmap.setMap(anotherMap);
+*/
+        
+//        var mapOptions = {
+//          center: { lat: 30.6014, lng: -96.3144}, //centered at college station
+//          zoom: 8
+//        };
+//        var map = new google.maps.Map(document.getElementById('map-canvas'),
+//            mapOptions);
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+      
+      
+      /* Data points defined as an array of LatLng objects */
+      /*
+      var heatmapData = [
+        new google.maps.LatLng(37.782, -122.447),
+        new google.maps.LatLng(37.782, -122.445),
+        new google.maps.LatLng(37.782, -122.443),
+        new google.maps.LatLng(37.782, -122.441),
+        new google.maps.LatLng(37.782, -122.439),
+        new google.maps.LatLng(37.782, -122.437),
+        new google.maps.LatLng(37.782, -122.435),
+        new google.maps.LatLng(37.785, -122.447),
+        new google.maps.LatLng(37.785, -122.445),
+        new google.maps.LatLng(37.785, -122.443),
+        new google.maps.LatLng(37.785, -122.441),
+        new google.maps.LatLng(37.785, -122.439),
+        new google.maps.LatLng(37.785, -122.437),
+        new google.maps.LatLng(37.785, -122.435)
+      ];
+
+      var sanFrancisco = new google.maps.LatLng(37.774546, -122.433523);
+
+      var anotherMap = new google.maps.Map(document.getElementById('map-canvas'), {
+        center: sanFrancisco,
+        zoom: 13,
+        //mapTypeId: google.maps.MapTypeId.HYBRID
+      });
+
+      var heatmap = new google.maps.visualization.HeatmapLayer({
+        data: heatmapData
+      });
+      heatmap.setMap(anotherMap);
+      */
+      
+      
+	</script>
 	 
   </head>
   <body>
@@ -52,13 +162,16 @@
       </div>
     </nav>
 	 
-	 <div class="jumbotron">
-		<div class="container">
-		 <h1>GigFinder</h1>
-		 <p>
-			<button type="button" class="btn btn-primary btn-lg" onclick="findGig()">Find a Gig</button>
-		 </p>
-		</div>
+	<div class="jumbotron">
+	  <div class="container">
+		<h1>GigFinder</h1>
+		<p>
+		  <button type="button" class="btn btn-primary btn-lg" onclick="findGig()">Find a Gig</button>
+	    </p>
+	  </div>
+	</div>
+	<div class="heatmap" id="map-canvas">
+	
 	</div>
   </body>
 </html>
