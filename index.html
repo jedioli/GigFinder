@@ -26,7 +26,7 @@
 	
 	<!-- Google Maps API junk -->
 	<style type="text/css">
-      html, body, #map-canvas { height: 100%; margin: 10px; padding: 10px;}
+      html, body, #map-canvas { height: 90%; margin: 10px; padding: 10px;}
     </style>
 	
 	<script type="text/javascript"
@@ -155,8 +155,7 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#about" data-toggle="modal" data-target="#aboutModal">About</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -165,13 +164,55 @@
 	<div class="jumbotron">
 	  <div class="container">
 		<h1>GigFinder</h1>
-		<p>
-		  <button type="button" class="btn btn-primary btn-lg" onclick="findGig()">Find a Gig</button>
-	    </p>
+		<p>Find where you should play your next gig</p>
 	  </div>
 	</div>
 	<div class="heatmap" id="map-canvas">
 	
+	</div>
+	<div class="container-fluid">
+		<p>
+		  <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#findGigModal">Find a Gig</button>
+	   </p>
+	</div>
+	
+	<!-- Modal -->
+	<div class="modal fade" id="findGigModal" tabindex="-1" role="dialog" aria-labelledby="findGigModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+		 <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+			  <h4 class="modal-title" id="myModalLabel">Find Gig</h4>
+			</div>
+			<div class="modal-body">
+			  <p>
+					Enter information about your band
+			  </p>
+			</div>
+			<div class="modal-footer">
+			  <button type="button" class="btn btn-primary" onclick=findGig() data-dismiss="modal">Find Gig</button>
+			</div>
+		 </div>
+	  </div>
+	</div>
+	
+	<div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+		 <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+			  <h4 class="modal-title" id="myModalLabel">About</h4>
+			</div>
+			<div class="modal-body">
+			  <p>
+					This project was created by Garrett Goble, Oliver Hatfield, and Ryan Olivieri for Dr. Caverlee's CSCE 470 class.
+			  </p>
+			</div>
+			<div class="modal-footer">
+			  <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+			</div>
+		 </div>
+	  </div>
 	</div>
   </body>
 </html>
