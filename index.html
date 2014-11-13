@@ -19,7 +19,9 @@
 	<script type="text/javascript">
 	//<!--
 	  function findGig() {
-	    alert("There's one!")
+			var genre = document.getElementById("inputGenre1").value;
+			var country = document.getElementById("inputCountry1").value;
+			alert("Here is a " + genre + " gig in " + country + "!");
 	  }
 	//-->
 	</script>
@@ -223,6 +225,16 @@
 			  <p>
 					Enter information about your band
 			  </p>
+			  <form role="form">
+				  <div class="form-group">
+					 <label for="inputGenre1">Genre</label>
+					 <input type="text" class="form-control" id="inputGenre1" placeholder="Enter genre">
+				  </div>
+				  <div class="form-group">
+					 <label for="inputCountry1">Country</label>
+					 <input type="text" class="form-control" id="inputCountry1" placeholder="Country">
+				  </div>
+				</form>
 			</div>
 			<div class="modal-footer">
 			  <button type="button" class="btn btn-primary" onclick=findGig() data-dismiss="modal">Find Gig</button>
