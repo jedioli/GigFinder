@@ -30,133 +30,110 @@
 	  https://developers.google.com/maps/documentation/javascript/heatmaplayer
     -->
 	<style type="text/css">
-      html, body, #map-canvas { height: 90%; width: 90%; margin: 10px; padding: 10px;}
+      html, body,
+      #map-module {
+        padding: 10px;
+      } 
+      #map-canvas { 
+        height: 100%; 
+        width: 100%; 
+        float: left;
+        margin: auto auto;
+        padding: 200px;	
+      }
       #side_panel {
-/*        position: absolute;*/
-        top: 50%;
-        right: -5px;
-/*        margin-left: -180px;*/
+        margin-left: -20px;
+        margin-top: -250px;
         z-index: 5;
-        background-color: #fff;
-        padding: 5px;
-        border: 1px solid #999;
+        float: right;	
+        padding: 10px;
+      }
+      #find_gig {
+        margin: 15px auto;
+        padding: 10px;
       }
     </style>
 	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	
 	<script type="text/javascript"
-	  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYXSqhgc3UWswbqksgbrH_gCiuyN1aCkM"> 
+	  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYXSqhgc3UWswbqksgbrH_gCiuyN1aCkM&libraries=visualization&sensor=true_or_false"> 
 	</script>
-	<script type="text/javascript"
-      src="https://maps.googleapis.com/maps/api/js?libraries=visualization&sensor=true_or_false">
-    </script>
     
 	<script type="text/javascript">
-	  function initialize() {
-	    var heatmapData = [
-          new google.maps.LatLng(37.782, -122.447),
-          new google.maps.LatLng(37.782, -122.445),
-          new google.maps.LatLng(37.782, -122.443),
-          new google.maps.LatLng(37.782, -122.441),
-          new google.maps.LatLng(37.782, -122.439),
-          new google.maps.LatLng(37.782, -122.437),
-          new google.maps.LatLng(37.782, -122.435),
-          new google.maps.LatLng(37.785, -122.447),
-          new google.maps.LatLng(37.785, -122.445),
-          new google.maps.LatLng(37.785, -122.443),
-          new google.maps.LatLng(37.785, -122.441),
-          new google.maps.LatLng(37.785, -122.439),
-          new google.maps.LatLng(37.785, -122.437),
-          new google.maps.LatLng(37.785, -122.435)
+	  var map, heatmap, heatmapData;
+	  
+	  function initialize() {	    
+	    heatmapData = [
+	      new google.maps.LatLng(30.617619, -96.346636),
+	      new google.maps.LatLng(30.61762, -96.346637),
+	      new google.maps.LatLng(30.617615, -96.346639),
+	      new google.maps.LatLng(30.617949, -96.346292),
+	      new google.maps.LatLng(30.617949, -96.346292),
+	      new google.maps.LatLng(30.617949, -96.346292),
+	      new google.maps.LatLng(30.618118, -96.346054),
+	      new google.maps.LatLng(30.618852, -96.345765),
+	      new google.maps.LatLng(30.618852, -96.345766),
+	      new google.maps.LatLng(30.617172, -96.347162),
+	      new google.maps.LatLng(30.617175, -96.347163),
+	      new google.maps.LatLng(30.617173, -96.347161),
+	      new google.maps.LatLng(30.617178, -96.347160),
+	      new google.maps.LatLng(30.612271, -96.341497),
+	      new google.maps.LatLng(30.612272, -96.341496),
+	      new google.maps.LatLng(30.612275, -96.341501),
+	      new google.maps.LatLng(30.612277, -96.341493),
+	      new google.maps.LatLng(30.613317, -96.340693),
+	      new google.maps.LatLng(30.613317, -96.340693),
+	      new google.maps.LatLng(30.623406, -96.343441),
+	      new google.maps.LatLng(30.623405, -96.343439),
+	      new google.maps.LatLng(30.623412, -96.343438),
+	      new google.maps.LatLng(30.623406, -96.343441),
+	      new google.maps.LatLng(30.623405, -96.343439),
+	      new google.maps.LatLng(30.623412, -96.343438),
+	      new google.maps.LatLng(30.623412, -96.343438),
+	      new google.maps.LatLng(30.625200, -96.303024),
+	      new google.maps.LatLng(30.625200, -96.303024),
+	      new google.maps.LatLng(30.618162, -96.304022),
+	      new google.maps.LatLng(30.618161, -96.304024),
+	      new google.maps.LatLng(30.618169, -96.304025),
+	      new google.maps.LatLng(30.618165, -96.304020),
+	      new google.maps.LatLng(30.616684, -96.348882),
+	      new google.maps.LatLng(30.616685, -96.348887),
+	      new google.maps.LatLng(30.616689, -96.348885)
         ];
 	    
-	    var sanFrancisco = new google.maps.LatLng(37.774546, -122.433523);
-/*
-        var anotherMap = new google.maps.Map(document.getElementById('map-canvas'), {
-          center: sanFrancisco,
-          zoom: 13,
-          //mapTypeId: google.maps.MapTypeId.HYBRID
-        });
-*/       
+	    var cstat = new google.maps.LatLng(30.6014, -96.3144);
+	    var acadBldg = new google.maps.LatLng(30.615775, -96.340775);
+    
         var mapOptions = {
-          zoom: 8,	//bigger numbers mean closer zoom
-          center: sanFrancisco,
-          //mapTypeId: google.maps.MapTypeId.SATELLITE
+          zoom: 13,	//bigger numbers mean closer zoom
+          center: acadBldg
         };
 
-        var map = new google.maps.Map(document.getElementById('map-canvas'),
+        map = new google.maps.Map(document.getElementById('map-canvas'),
           mapOptions);
 
-        //var pointArray = new google.maps.MVCArray(taxiData);
-
-        var heatmap = new google.maps.visualization.HeatmapLayer({
-          data: heatmapData
+        heatmap = new google.maps.visualization.HeatmapLayer({
+          data: heatmapData,
+          radius: 25
         });
 
         heatmap.setMap(map);
-        
-        
-/*        
-        var heatmap = new google.maps.visualization.HeatmapLayer({
-          data: heatmapData
-        });
-        heatmap.setMap(anotherMap);
-*/
-        
-//        var mapOptions = {
-//          center: { lat: 30.6014, lng: -96.3144}, //centered at college station
-//          zoom: 8
-//        };
-//        var map = new google.maps.Map(document.getElementById('map-canvas'),
-//            mapOptions);
       }
+      
+      function toggleRock() {
+//        heatmap.setMap(boxstate ? map : null);	//only show if checked
+        heatmap.setMap(heatmap.getMap() ? null : map);
+      }
+      
       google.maps.event.addDomListener(window, 'load', initialize);
-      
-      
-      function toggleHeatmap() {
-        heatmap.setMap(heatmap.getMap() ? null : map);	//switch from null to map
-      }
-      
-      
-      /* Data points defined as an array of LatLng objects */
-      /*
-      var heatmapData = [
-        new google.maps.LatLng(37.782, -122.447),
-        new google.maps.LatLng(37.782, -122.445),
-        new google.maps.LatLng(37.782, -122.443),
-        new google.maps.LatLng(37.782, -122.441),
-        new google.maps.LatLng(37.782, -122.439),
-        new google.maps.LatLng(37.782, -122.437),
-        new google.maps.LatLng(37.782, -122.435),
-        new google.maps.LatLng(37.785, -122.447),
-        new google.maps.LatLng(37.785, -122.445),
-        new google.maps.LatLng(37.785, -122.443),
-        new google.maps.LatLng(37.785, -122.441),
-        new google.maps.LatLng(37.785, -122.439),
-        new google.maps.LatLng(37.785, -122.437),
-        new google.maps.LatLng(37.785, -122.435)
-      ];
-
-      var sanFrancisco = new google.maps.LatLng(37.774546, -122.433523);
-
-      var anotherMap = new google.maps.Map(document.getElementById('map-canvas'), {
-        center: sanFrancisco,
-        zoom: 13,
-        //mapTypeId: google.maps.MapTypeId.HYBRID
-      });
-
-      var heatmap = new google.maps.visualization.HeatmapLayer({
-        data: heatmapData
-      });
-      heatmap.setMap(anotherMap);
-      */
-      
       
 	</script>
 	 
   </head>
   <body>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="dist/js/bootstrap.min.js"></script>
 	 
@@ -186,30 +163,39 @@
 		<p>Find where you should play your next gig</p>
 	  </div>
 	</div>
-	
-	
-	<!-- try putting this within map div -->
-	<div id="side_panel">
-	  <label><input type='checkbox' onclick='toggleHeatMap();'>Rock</label>	<!-- http://stackoverflow.com/questions/4471401/getting-value-of-html-checkbox-from-onclick-onchange-events -->
-	</div>
-	
+
 	<!-- MAP DIVS -->
-	<div class="heatmap" id="map-canvas">
+	<div id="map-module">
 	
-	  
+      <div class="heatmap" id="map-canvas"></div>
 	
-	</div>
+      <div class="btn-group-vertical" id="side_panel" role="group" data-toggle="buttons" aria-label="..."> <!-- from http://getbootstrap.com/javascript/#buttons-checkbox-radio -->  
+        <label class="btn btn-primary" id="classical">	<!-- will want to change color probs -->
+          <input type="checkbox" autocomplete="off"> Classical
+        </label>
+        <label class="btn btn-success">
+          <input type="checkbox" autocomplete="off"> Country
+        </label>
+        <label class="btn btn-info">
+          <input type="checkbox" autocomplete="off"> Electronic
+        </label>
+        <label class="btn btn-warning">
+          <input type="checkbox" autocomplete="off"> Jazz
+        </label>
+        <label class="btn btn-danger active" onclick="toggleRock()"> <!--  id="rock"-->
+          <input type="checkbox" autocomplete="off" checked> Rock
+        </label>
+      </div>
 	
+    </div>
 	
 	
 	
 	
 	
 	<div class="container-fluid">
-		<p>
-		  <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#findGigModal">Find a Gig</button>
-	   </p>
-	</div>
+		<button id="find_gig" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#findGigModal">Find a Gig</button>
+    </div>
 	
 	<!-- Modal -->
 	<div class="modal fade" id="findGigModal" tabindex="-1" role="dialog" aria-labelledby="findGigModalLabel" aria-hidden="true">
