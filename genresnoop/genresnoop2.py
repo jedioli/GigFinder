@@ -29,10 +29,11 @@ track.add_tags(("awesome", "favorite"))
 '''
 
 import json
-import pylast
 import time
 import re
 import sys
+sys.path.append("../../.local/lib/python2.7/site-packages/")
+import pylast
 
 api_key = "5b859fc1368c4238acb1ba14ffc0c330"
 api_secret = "734ea732f54cd69aba43e81434046d59"
@@ -62,7 +63,7 @@ for i in range(0, jumpToLine):
 
 artistOut = open("../mmtd/artistGenre.txt", "a")
 
-for num in range(jumpToLine, 10000):
+for num in range(jumpToLine, 1000000):
     line = artistFile.readline()
     tokens = re.split(r'\t+', line.rstrip('\t'))
     if len(tokens) == 3:
@@ -106,9 +107,12 @@ for num in range(jumpToLine, 10000):
                     genreString += tagName + "\t"
                 artistOut.write(tokens[0] + "\t" + genreString + "\n")
                 print tokens[0] + " " + genreString
-            time.sleep(0.3)
+            time.sleep(0.2)
     else :
         print "No artist for id " + tokens[0]
+    if num % 100 == 0:
+	print "Flushing I/O buffer"
+	artistOut.flush()
 
 artistOut.close()
 
