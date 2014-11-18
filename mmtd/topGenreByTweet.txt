@@ -1,0 +1,51 @@
+rock	337999
+pop	336785
+hip-hop	237193
+female vocalists	227046
+alternative	197156
+indie	183032
+rap	170550
+hip hop	151070
+electronic	120784
+soul	112374
+alternative rock	96555
+singer-songwriter	95072
+dance	87881
+metal	51516
+german	51190
+80s	50558
+hard rock	44568
+indie rock	41627
+others	32689
+folk	31265
+punk	30646
+hardcore	27138
+house	24919
+electronica	23943
+punk rock	22225
+reggae	19650
+electro	18956
+heavy metal	18370
+french	16890
+blues	16396
+jazz	16176
+progressive rock	14068
+funk	13774
+trance	13441
+techno	11789
+chillout	11627
+ambient	10043
+experimental	9461
+japanese	8189
+black metal	8145
+swedish	7707
+psychedelic	5907
+industrial	5905
+drum and bass	5008
+instrumental	4744
+death metal	4644
+all	3751
+under 2000 listeners	3467
+noise	2011
+spotify	1802
+seen live	1172
