@@ -37,10 +37,10 @@ Dependencies
 Python libraries : pylast
     Can be installed with 'pip install pylast'.
 
-Dataset: the Million Musical Tweets Dataset (MMTD), found here: http://www.cp.jku.at/datasets/MMTD/. Due to the large size of the dataset, we request that you DOWNLOAD it yourself at the aforementioned link and PLACE it within 'mmtd/'.
+Dataset: the Million Musical Tweets Dataset (MMTD), found here: http://www.cp.jku.at/datasets/MMTD/. Due to the large size of 'mmtd.txt', we request that you DOWNLOAD it yourself at the aforementioned link and PLACE it within 'mmtd/'.
 
     'mmtd.txt'      contains tweets with location and artist data
-    'artist.txt'    contains all musical artists from the MMTD in a separate file
+    'artists.txt'    contains all musical artists from the MMTD in a separate file
 
 
 Instructions
