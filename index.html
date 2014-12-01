@@ -64,9 +64,83 @@
 	</script>
     
 	<script type="text/javascript">
-	  var map, heatmap, heatmapData;
+	  var map, rockmap, heatmapData;
+	  var testRockMapData = [];
+	  var jazzmap;
+	  var testJazzMapData = [];
+	  var classmap;
+	  var testClassMapData = [];
+	  var countrymap;
+	  var testCountryMapData = [];
+	  var elecmap;
+	  var testElecMapData = [];
 	  
-	  function initialize() {	    
+	  function mapDataParse(fileData, mapArray) {	//from here: http://stackoverflow.com/questions/7431268/how-to-read-data-from-csv-file-using-javascript/12289296#12289296
+        var fileLines = fileData.split(/\r\n|\n/);
+        //console.log('all split at lines');
+        //console.log(fileLines[1]);
+        for(var line = 1; line < (fileLines.length) / 10; ++line) {
+          var coords = fileLines[line].split('\t');
+          if (coords.length > 1) {
+            mapArray.push(new google.maps.LatLng(coords[1], coords[2]));
+          }
+        }
+        //console.log('length of mapArray: ' + mapArray.length);
+	  }
+	  
+	  function loadTest() {
+	    $.ajax({
+	      type: 'GET',
+	      url: 'mapData/spotifyMapData.txt',
+	      //url: 'mapData/electronicaMapData.txt',
+	      dataType: 'text',
+	      success: function(data) {mapDataParse(data, testRockMapData);}
+	    });
+	  }
+	  function loadTrial() {
+	    $.ajax({
+	      type: 'GET',
+	      url: 'mapData/allMapData.txt',
+	      dataType: 'text',
+	      success: function(data) {mapDataParse(data, testElecMapData);}
+	    });
+	  }
+	  function loadStudy() {
+	    $.ajax({
+	      type: 'GET',
+	      url: 'mapData/under\ 2000MapData.txt',
+	      dataType: 'text',
+	      success: function(data) {mapDataParse(data, testCountryMapData);}
+	    });
+	  }
+	  function loadVenture() {
+	    $.ajax({
+	      type: 'GET',
+	      url: 'mapData/seen\ liveMapData.txt',
+	      dataType: 'text',
+	      success: function(data) {mapDataParse(data, testClassMapData);}
+	    });
+	  }
+	  function loadAttempt() {
+	    $.ajax({
+	      type: 'GET',
+	      //url: 'mapData/spotifyMapData.txt',
+	      //url: 'mapData/electronicaMapData.txt',
+	      url: 'mapData/noiseMapData.txt',
+	      dataType: 'text',
+	      success: function(data) {mapDataParse(data, testJazzMapData);}
+	    });
+	  }
+	  
+	  function initialize() {	
+	  
+	    loadTest();	//POSSIBLY USE getBounds TO ONLY GET POINTS WITHIN MAP RANGE??
+	    loadTrial();
+	    loadStudy();
+	    loadVenture();
+	    loadAttempt();
+	    
+	    /*
 	    heatmapData = [
 	      new google.maps.LatLng(30.617619, -96.346636),
 	      new google.maps.LatLng(30.61762, -96.346637),
@@ -104,30 +178,215 @@
 	      new google.maps.LatLng(30.616685, -96.348887),
 	      new google.maps.LatLng(30.616689, -96.348885)
         ];
+        */
 	    
-	    var cstat = new google.maps.LatLng(30.6014, -96.3144);
-	    var acadBldg = new google.maps.LatLng(30.615775, -96.340775);
-    
+//	    var cstat = new google.maps.LatLng(30.6014, -96.3144);
+//	    var acadBldg = new google.maps.LatLng(30.615775, -96.340775);
+	    var austin = new google.maps.LatLng( 30.246, -97.753);
+        
+        /*
         var mapOptions = {
           zoom: 13,	//bigger numbers mean closer zoom
           center: acadBldg
         };
+        */
+        
+        var minimalStyle = [
+          {
+            featureType: "road",
+            stylers: [
+              { visibility: "off" }
+            ]
+          },
+          {
+            featureType: "transit",
+            stylers: [
+              { visibility: "off" }
+            ]
+          },
+          {
+            featureType: "poi",
+            stylers: [
+              { visibility: "off" }
+            ]
+          },
+          {
+            featureType: "landscape",
+            stylers: [
+              { visibility: "off" }
+            ]
+          }
+        ];
+        
+        
+        var mapOptions = {
+          zoom: 4,	//bigger numbers mean closer zoom
+          center: austin,
+          styles: minimalStyle	//from here: http://stackoverflow.com/questions/8406636/how-to-remove-all-from-google-map
+        };
+                
+        //map.setOptions({styles: styleArray});
+
+
 
         map = new google.maps.Map(document.getElementById('map-canvas'),
           mapOptions);
 
-        heatmap = new google.maps.visualization.HeatmapLayer({
-          data: heatmapData,
-          radius: 25
+        /*
+        var testGrad = [
+          'rgba(0,0,0,0)',
+          'rgba(255, 0, 0, 1)',
+          'rgba(128, 0, 128, 1)',
+          'rgba(0, 0, 255, 1)'
+        ];
+        
+        //more crazy
+        'rgba(255, 0, 0, 0)',
+        'rgba(255, 255, 0, 0.9)',
+        'rgba(0, 255, 0, 0.7)',
+        'rgba(173, 255, 47, 0.5)',
+        'rgba(152, 251, 152, 0)',
+        'rgba(152, 251, 152, 0)',
+        'rgba(0, 0, 238, 0.5)',
+        'rgba(186, 85, 211, 0.7)',
+        'rgba(255, 0, 255, 0.9)',
+        'rgba(255, 0, 0, 1)'
+        */
+        
+        var bluGrad = [
+          'rgba(0, 0, 255, 0)',
+          'rgba(0, 0, 255, 1)',
+//          'rgba(0, 255, 255, 1)',
+//          'rgba(255, 255, 255, 1)'
+        ];
+        var redGrad = [
+          'rgba(255, 0, 0, 0)',
+          'rgba(255, 0, 0, 1)'
+        ];
+        var cyanGrad = [
+          'rgba(0, 255, 255, 0)',
+          'rgba(0, 255, 255, 1)'
+        ];
+        var oranGrad = [
+          'rgba(255, 128, 0, 0)',
+          'rgba(255, 128, 0, 1)'
+        ];
+        var grnGrad = [
+          'rgba(0, 255, 0, 0)',
+          'rgba(0, 255, 0, 1)',
+//          'rgba(255, 255, 0, 1)',
+//          'rgba(255, 255, 255, 1)'
+        ];
+
+        rockmap = new google.maps.visualization.HeatmapLayer({
+          //data: heatmapData,
+          //data: rockMapData,
+          data: testRockMapData,
+          gradient: redGrad,	//from here: http://stackoverflow.com/questions/23878594/google-maps-api-heatmap-layer-single-gradient-two-extremes
+          //radius: 25	
+            //radius is in number of pixels
+          radius : 8
         });
 
-        heatmap.setMap(map);
+        rockmap.setMap(map);
+        
+        jazzmap = new google.maps.visualization.HeatmapLayer({
+          data: testJazzMapData,
+          gradient: oranGrad,
+          radius : 8
+        });
+        
+        //heatmap2.setMap(map);
+        jazzmap.setMap(null);
+        
+        elecmap = new google.maps.visualization.HeatmapLayer({
+          data: testElecMapData,
+          gradient: cyanGrad,
+          radius : 8
+        });
+        elecmap.setMap(null);
+        
+        countrymap = new google.maps.visualization.HeatmapLayer({
+          data: testCountryMapData,
+          gradient: grnGrad,
+          radius : 8
+        });
+        countrymap.setMap(null);
+        
+        classmap = new google.maps.visualization.HeatmapLayer({
+          data: testClassMapData,
+          gradient: bluGrad,
+          radius : 8
+        });
+        classmap.setMap(null);
+        
       }
       
       function toggleRock() {
 //        heatmap.setMap(boxstate ? map : null);	//only show if checked
-        heatmap.setMap(heatmap.getMap() ? null : map);
+        /*
+        var on = false;
+        
+        
+        $('#btn-group-vertical .btn.active').each(function() {	//from here: http://stackoverflow.com/questions/14035640/twitter-bootstrap-get-state-of-bootstrap-checkbox-buttons
+          if (this.name == "rock") {
+            on = this.value;
+          }
+        });
+        
+        if(on) {
+          heatmap.setMap(map);
+        }
+        else {
+          heatmap.setMap(null);
+        }
+        */
+        
+        //$('#rock')
+        //$('input').prop('checked', false);	//this is to UNCHECK the button!
+
+        rockmap.setMap(rockmap.getMap() ? null : map);
       }
+      
+      function toggleJazz() {
+//        heatmap.setMap(boxstate ? map : null);	//only show if checked
+        
+        /*
+        var on = false;
+        
+        
+        $('#btn-group-vertical .btn.active').each(function() {	//from here: http://stackoverflow.com/questions/14035640/twitter-bootstrap-get-state-of-bootstrap-checkbox-buttons
+          if (this.name == "jazz") {
+            on = this.value;
+          }
+        });
+        
+        if(on) {
+          heatmap2.setMap(map);
+        }
+        else {
+          heatmap2.setMap(null);
+        }
+        */
+        
+        jazzmap.setMap(jazzmap.getMap() ? null : map);
+      }
+      
+      function toggleClassical() {
+        
+        classmap.setMap(classmap.getMap() ? null : map);
+      }
+      function toggleCountry() {
+        
+        countrymap.setMap(countrymap.getMap() ? null : map);
+      }
+      function toggleElectronic() {
+        
+        elecmap.setMap(elecmap.getMap() ? null : map);
+      }
+      
+      
+      
       
       google.maps.event.addDomListener(window, 'load', initialize);
       
@@ -172,20 +431,20 @@
       <div class="heatmap" id="map-canvas"></div>
 	
       <div class="btn-group-vertical" id="side_panel" role="group" data-toggle="buttons" aria-label="..."> <!-- from http://getbootstrap.com/javascript/#buttons-checkbox-radio -->  
-        <label class="btn btn-primary" id="classical">	<!-- will want to change color probs -->
+        <label class="btn btn-primary" name="classical" onclick="toggleClassical()">	<!-- will want to change color probs -->
           <input type="checkbox" autocomplete="off"> Classical
         </label>
-        <label class="btn btn-success">
+        <label class="btn btn-success" name="country" onclick="toggleCountry()">
           <input type="checkbox" autocomplete="off"> Country
         </label>
-        <label class="btn btn-info">
+        <label class="btn btn-info" name="electronic" onclick="toggleElectronic()">
           <input type="checkbox" autocomplete="off"> Electronic
         </label>
-        <label class="btn btn-warning">
-          <input type="checkbox" autocomplete="off"> Jazz
+        <label class="btn btn-warning" name="jazz" onclick="toggleJazz()">
+          <input id="jazz" type="checkbox" autocomplete="off"> Jazz
         </label>
-        <label class="btn btn-danger active" onclick="toggleRock()"> <!--  id="rock"-->
-          <input type="checkbox" autocomplete="off" checked> Rock
+        <label class="btn btn-danger active" name="rock" onclick="toggleRock()"> <!--  id="rock"-->
+          <input id="rock" type="checkbox" autocomplete="off" checked> Rock
         </label>
       </div>
 	
