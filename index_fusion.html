@@ -4,7 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>GigFinder</title>
+    <title>GigFinder Fusion</title>
+
+<!-- 
+    other heatmap possibilities?
+    http://www.sethoscope.net/heatmap/
+    http://www.heatmapapi.com/FAQ.aspx
+    https://github.com/fredj/openlayers-heatmap
+-->
+
+
+
 
     <!-- Bootstrap -->
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -64,7 +74,18 @@
 	</script>
     
 	<script type="text/javascript">
-	  var map, rockmap, heatmapData;
+	  
+	  var map;
+	  var fusionLayer;
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+//	  var map, rockmap, heatmapData;
 	  var testRockMapData = [];
 	  var jazzmap;
 	  var testJazzMapData = [];
@@ -76,26 +97,27 @@
 	  var testElecMapData = [];
 	  
 	  function mapDataParse(fileData, mapArray) {	//from here: http://stackoverflow.com/questions/7431268/how-to-read-data-from-csv-file-using-javascript/12289296#12289296
+        /*
+        
         var fileLines = fileData.split(/\r\n|\n/);
         //console.log('all split at lines');
         //console.log(fileLines[1]);
-        for(var line = 1; line < (fileLines.length); ++line) {  //NOT SURE WHY I LEFT /10...
+        for(var line = 1; line < (fileLines.length) / 10; ++line) {
           var coords = fileLines[line].split('\t');
           if (coords.length > 1) {
             mapArray.push(new google.maps.LatLng(coords[1], coords[2]));
           }
         }
         //console.log('length of mapArray: ' + mapArray.length);
+        
+        */
 	  }
 	  
 	  function loadTest() {
 	    $.ajax({
 	      type: 'GET',
-	      //url: 'mapData/spotifyMapData.txt',
+	      url: 'mapData/spotifyMapData.txt',
 	      //url: 'mapData/electronicaMapData.txt',
-	      //url: 'mapData/electronicMapData.txt',
-	      //url: 'mapData/alternativeMapData.txt',
-	      url: 'mapData/rockMapData.txt',
 	      dataType: 'text',
 	      success: function(data) {mapDataParse(data, testRockMapData);}
 	    });
@@ -111,7 +133,7 @@
 	  function loadStudy() {
 	    $.ajax({
 	      type: 'GET',
-	      url: 'mapData/under\ 2000\ listenersMapData.txt',
+	      url: 'mapData/under\ 2000MapData.txt',
 	      dataType: 'text',
 	      success: function(data) {mapDataParse(data, testCountryMapData);}
 	    });
@@ -129,8 +151,7 @@
 	      type: 'GET',
 	      //url: 'mapData/spotifyMapData.txt',
 	      //url: 'mapData/electronicaMapData.txt',
-	      //url: 'mapData/noiseMapData.txt',
-	      url: 'mapData/popMapData.txt',
+	      url: 'mapData/noiseMapData.txt',
 	      dataType: 'text',
 	      success: function(data) {mapDataParse(data, testJazzMapData);}
 	    });
@@ -138,27 +159,34 @@
 	  
 	  function initialize() {	
 	  
+	  
+	  
+	    
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	    /*
 	    loadTest();	//POSSIBLY USE getBounds TO ONLY GET POINTS WITHIN MAP RANGE??
-/*
 	    loadTrial();
 	    loadStudy();
 	    loadVenture();
-	    
-*/	    
 	    loadAttempt();
-	    
-	   
-	    
-//	    var cstat = new google.maps.LatLng(30.6014, -96.3144);
-//	    var acadBldg = new google.maps.LatLng(30.615775, -96.340775);
+	    */
+
 	    var austin = new google.maps.LatLng( 30.246, -97.753);
         
-        /*
-        var mapOptions = {
-          zoom: 13,	//bigger numbers mean closer zoom
-          center: acadBldg
-        };
-        */
+
         
         var minimalStyle = [
           {
@@ -188,6 +216,49 @@
         ];
         
         
+        
+        
+        
+        
+        
+        
+        
+        
+        map = new google.maps.Map(document.getElementById('map-canvas'), {
+          center: austin,      //new google.maps.LatLng(10, -80),
+          zoom: 4,
+          styles: minimalStyle
+        });
+
+        fusionLayer = new google.maps.FusionTablesLayer({
+          query: {
+            select: 'Latitude',
+            from: '10U1uBoXr7N7Ef4j7sq1aSLHsHK38hKm8DtioMSO5'   //spotify
+                //https://www.google.com/fusiontables/DataSource?docid=10U1uBoXr7N7Ef4j7sq1aSLHsHK38hKm8DtioMSO5
+            //from: '12wG0itq6rJ8Jq4o9rvPPaPRg000cBXaVzLeSxUFI'   //rock
+                //https://www.google.com/fusiontables/DataSource?docid=12wG0itq6rJ8Jq4o9rvPPaPRg000cBXaVzLeSxUFI
+          },
+          /**
+          heatmap: {
+             enabled: true
+          }
+          /**/
+        });
+
+        fusionLayer.setMap(map);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        /*
         var mapOptions = {
           zoom: 4,	//bigger numbers mean closer zoom
           center: austin,
@@ -200,28 +271,11 @@
 
         map = new google.maps.Map(document.getElementById('map-canvas'),
           mapOptions);
-
-        /*
-        var testGrad = [
-          'rgba(0,0,0,0)',
-          'rgba(255, 0, 0, 1)',
-          'rgba(128, 0, 128, 1)',
-          'rgba(0, 0, 255, 1)'
-        ];
         
-        //more crazy
-        'rgba(255, 0, 0, 0)',
-        'rgba(255, 255, 0, 0.9)',
-        'rgba(0, 255, 0, 0.7)',
-        'rgba(173, 255, 47, 0.5)',
-        'rgba(152, 251, 152, 0)',
-        'rgba(152, 251, 152, 0)',
-        'rgba(0, 0, 238, 0.5)',
-        'rgba(186, 85, 211, 0.7)',
-        'rgba(255, 0, 255, 0.9)',
-        'rgba(255, 0, 0, 1)'
         */
+
         
+ /*       
         var bluGrad = [
           'rgba(0, 0, 255, 0)',
           'rgba(0, 0, 255, 1)',
@@ -247,6 +301,7 @@
 //          'rgba(255, 255, 255, 1)'
         ];
 
+
         rockmap = new google.maps.visualization.HeatmapLayer({
           //data: heatmapData,
           //data: rockMapData,
@@ -254,66 +309,46 @@
           gradient: redGrad,	//from here: http://stackoverflow.com/questions/23878594/google-maps-api-heatmap-layer-single-gradient-two-extremes
           //radius: 25	
             //radius is in number of pixels
-          radius : 6,
-          maxIntensity : 20
+          radius : 8
         });
 
         rockmap.setMap(map);
         
-        
         jazzmap = new google.maps.visualization.HeatmapLayer({
           data: testJazzMapData,
           gradient: oranGrad,
-          radius : 6,
-          maxIntensity : 20
+          radius : 8
         });
         
         //heatmap2.setMap(map);
         jazzmap.setMap(null);
         
-        /*
         elecmap = new google.maps.visualization.HeatmapLayer({
           data: testElecMapData,
           gradient: cyanGrad,
-          radius : 6
+          radius : 8
         });
         elecmap.setMap(null);
         
         countrymap = new google.maps.visualization.HeatmapLayer({
           data: testCountryMapData,
           gradient: grnGrad,
-          radius : 6
+          radius : 8
         });
         countrymap.setMap(null);
         
         classmap = new google.maps.visualization.HeatmapLayer({
           data: testClassMapData,
           gradient: bluGrad,
-          radius : 6
+          radius : 8
         });
         classmap.setMap(null);
-        */
+*/        
       }
       
       function toggleRock() {
 //        heatmap.setMap(boxstate ? map : null);	//only show if checked
-        /*
-        var on = false;
         
-        
-        $('#btn-group-vertical .btn.active').each(function() {	//from here: http://stackoverflow.com/questions/14035640/twitter-bootstrap-get-state-of-bootstrap-checkbox-buttons
-          if (this.name == "rock") {
-            on = this.value;
-          }
-        });
-        
-        if(on) {
-          heatmap.setMap(map);
-        }
-        else {
-          heatmap.setMap(null);
-        }
-        */
         
         //$('#rock')
         //$('input').prop('checked', false);	//this is to UNCHECK the button!
@@ -324,23 +359,7 @@
       function toggleJazz() {
 //        heatmap.setMap(boxstate ? map : null);	//only show if checked
         
-        /*
-        var on = false;
         
-        
-        $('#btn-group-vertical .btn.active').each(function() {	//from here: http://stackoverflow.com/questions/14035640/twitter-bootstrap-get-state-of-bootstrap-checkbox-buttons
-          if (this.name == "jazz") {
-            on = this.value;
-          }
-        });
-        
-        if(on) {
-          heatmap2.setMap(map);
-        }
-        else {
-          heatmap2.setMap(null);
-        }
-        */
         
         jazzmap.setMap(jazzmap.getMap() ? null : map);
       }
