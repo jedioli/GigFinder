@@ -41,22 +41,23 @@ for line_num,line in enumerate(mmtd_reader):
     artistId = line[3]
     longitude = line[8]
     latitude = line[9]
-    
+    continent = line[27]
+
     if artistId in artistDict:
         found = False
         for genre in artistDict[artistId]:
             if genre in topGenreDict:
-                topGenreDict[genre].append([tweetId,latitude,longitude])
+                topGenreDict[genre].append([tweetId,latitude,longitude,continent])
                 found = True
         if not found:
-            otherGenre.append([tweetId,latitude,longitude])
-        
+            otherGenre.append([tweetId,latitude,longitude,continent])
+
 topGenreDict["others"] = otherGenre
 genreTweets = {}
 for genre,tweets in topGenreDict.iteritems():
     fileName = "../mapData/"+ genre + "MapData.txt"
     outFile = open(fileName,'w')
-    outFile.write("Tweet Id \t Latitude \t Longitude\n")
+    outFile.write("Tweet Id \t Latitude \t Longitude \t Continent\n")
     for data in tweets:
         for item in data:
             outFile.write(item)
@@ -64,11 +65,11 @@ for genre,tweets in topGenreDict.iteritems():
         outFile.write('\n')
 
     outFile.close()
-    
+
     genreTweets[genre] = len(tweets)
-        
-        
-        
+
+
+
 genresSorted = sorted(genreTweets.iteritems(), key = operator.itemgetter(1), reverse = True)
 
 print genresSorted
@@ -79,8 +80,8 @@ for item in genresSorted:
     genreFile.write(item[0] + "\t")
     genreFile.write(str(item[1]))
     genreFile.write("\n")
-    
-genreFile.close()        
-        
-    
-    
+
+genreFile.close()
+
+
+
