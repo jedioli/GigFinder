@@ -88,20 +88,6 @@
         //console.log('length of mapArray: ' + mapArray.length);
 	  }
 	  
-	  function mapBasketParse(fileData, mapArray) {
-        var fileLines = fileData.split(/\r\n|\n/);
-        for(var line = 1; line < (fileLines.length); ++line) {  //NOT SURE WHY I LEFT /10...
-          var coords = fileLines[line].split('\t');
-          if (coords.length > 1) {
-            mapArray.push({location: new google.maps.LatLng(coords[0], coords[1]), weight: coords[2]});
-          }
-          else {
-            console.log("coord error");
-            console.log("line num = " + line);
-          }
-        }
-	  }
-	  
 	  function loadTest() {
 	    $.ajax({
 	      type: 'GET',
@@ -109,11 +95,9 @@
 	      //url: 'mapData/electronicaMapData.txt',
 	      //url: 'mapData/electronicMapData.txt',
 	      //url: 'mapData/alternativeMapData.txt',
-	      //url: 'mapData/rockMapData.txt',
-	      
-	      url: 'mapBaskets/rockBasket.txt',
+	      url: 'mapData/rockMapData.txt',
 	      dataType: 'text',
-	      success: function(data) {mapBasketParse(data, testRockMapData);}
+	      success: function(data) {mapDataParse(data, testRockMapData);}
 	    });
 	  }
 	  function loadTrial() {
@@ -158,9 +142,11 @@
 /*
 	    loadTrial();
 	    loadStudy();
-	    loadVenture();	    
-	    loadAttempt();
+	    loadVenture();
+	    
 */	    
+	    loadAttempt();
+	    
 	   
 	    
 //	    var cstat = new google.maps.LatLng(30.6014, -96.3144);
@@ -274,7 +260,7 @@
 
         rockmap.setMap(map);
         
-        /*
+        
         jazzmap = new google.maps.visualization.HeatmapLayer({
           data: testJazzMapData,
           gradient: oranGrad,
@@ -284,8 +270,6 @@
         
         //heatmap2.setMap(map);
         jazzmap.setMap(null);
-        */
-       
         
         /*
         elecmap = new google.maps.visualization.HeatmapLayer({
