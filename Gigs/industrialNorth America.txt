@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+industrial	North America	19.4325	-99.1534
