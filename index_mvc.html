@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>GigFinder</title>
+    <title>GigFinder MVC</title>
 
     <!-- Bootstrap -->
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -15,6 +15,16 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+	 
+	<script type="text/javascript">
+	//<!--
+	  function findGig() {
+			var genre = document.getElementById("inputGenre1").value;
+			var country = document.getElementById("inputCountry1").value;
+			alert("Here is a " + genre + " gig in " + country + "!");
+	  }
+	//-->
+	</script>
 	
 	<!-- Google Maps API junk -->
 	<!-- references:
@@ -55,26 +65,22 @@
     
 	<script type="text/javascript">
 	  var map, rockmap, heatmapData;
-	  var testRockMapData = [];
+	  var testArray = new Array();
+	  var testRockMapData = new google.maps.MVCArray();
 	  var jazzmap;
-	  var testJazzMapData = [];
+	  var testJazzMapData = new google.maps.MVCArray();
 	  var classmap;
-	  var testClassMapData = [];
+	  var testClassMapData = new google.maps.MVCArray();
 	  var countrymap;
-	  var testCountryMapData = [];
+	  var testCountryMapData = new google.maps.MVCArray();
 	  var elecmap;
-	  var testElecMapData = [];
-	  
-	  var gigLocation = [];
-	  var genres = ['industrial','all'];
-	  var continents = ['Africa','Asia','Europe','North America','Oceania','South America'];
-	  var contSelected;
+	  var testElecMapData = new google.maps.MVCArray();
 	  
 	  function mapDataParse(fileData, mapArray) {	//from here: http://stackoverflow.com/questions/7431268/how-to-read-data-from-csv-file-using-javascript/12289296#12289296
         var fileLines = fileData.split(/\r\n|\n/);
         //console.log('all split at lines');
         //console.log(fileLines[1]);
-        for(var line = 1; line < (fileLines.length); ++line) {  //NOT SURE WHY I LEFT /10...
+        for(var line = 1; line < (fileLines.length); ++line) {
           var coords = fileLines[line].split('\t');
           if (coords.length > 1) {
             mapArray.push(new google.maps.LatLng(coords[1], coords[2]));
@@ -83,32 +89,13 @@
         //console.log('length of mapArray: ' + mapArray.length);
 	  }
 	  
-	  function mapBasketParse(fileData, mapArray) {
-        var fileLines = fileData.split(/\r\n|\n/);
-        for(var line = 1; line < (fileLines.length); ++line) {  //NOT SURE WHY I LEFT /10...
-          var coords = fileLines[line].split('\t');
-          if (coords.length > 1) {
-            mapArray.push({location: new google.maps.LatLng(coords[0], coords[1]), weight: coords[2]});
-          }
-          else {
-            console.log("coord error");
-            console.log("line num = " + line);
-          }
-        }
-	  }
-	  
 	  function loadTest() {
 	    $.ajax({
 	      type: 'GET',
-	      //url: 'mapData/spotifyMapData.txt',
+	      url: 'mapData/spotifyMapData.txt',
 	      //url: 'mapData/electronicaMapData.txt',
-	      //url: 'mapData/electronicMapData.txt',
-	      //url: 'mapData/alternativeMapData.txt',
-	      //url: 'mapData/rockMapData.txt',
-	      
-	      url: 'mapBaskets/rockBasket.txt',
 	      dataType: 'text',
-	      success: function(data) {mapBasketParse(data, testRockMapData);}
+	      success: function(data) {mapDataParse(data, testRockMapData);}
 	    });
 	  }
 	  function loadTrial() {
@@ -140,8 +127,7 @@
 	      type: 'GET',
 	      //url: 'mapData/spotifyMapData.txt',
 	      //url: 'mapData/electronicaMapData.txt',
-	      //url: 'mapData/noiseMapData.txt',
-	      url: 'mapData/popMapData.txt',
+	      url: 'mapData/noiseMapData.txt',
 	      dataType: 'text',
 	      success: function(data) {mapDataParse(data, testJazzMapData);}
 	    });
@@ -150,31 +136,16 @@
 	  function initialize() {	
 	  
 	    loadTest();	//POSSIBLY USE getBounds TO ONLY GET POINTS WITHIN MAP RANGE??
-/*
 	    loadTrial();
 	    loadStudy();
-	    loadVenture();	    
+	    loadVenture();
 	    loadAttempt();
-*/
-
-		 for(var i = 0; i < genres.length; i++) {
-			 for(var j = 0; j < continents.length; j++) {
-				loadGigLocation(genres[i],continents[j]);
-			 }
-		 }
 	    
 	    
 //	    var cstat = new google.maps.LatLng(30.6014, -96.3144);
 //	    var acadBldg = new google.maps.LatLng(30.615775, -96.340775);
 	    var austin = new google.maps.LatLng( 30.246, -97.753);
-        
-        /*
-        var mapOptions = {
-          zoom: 13,	//bigger numbers mean closer zoom
-          center: acadBldg
-        };
-        */
-        
+       
         var minimalStyle = [
           {
             featureType: "road",
@@ -208,34 +179,11 @@
           center: austin,
           styles: minimalStyle	//from here: http://stackoverflow.com/questions/8406636/how-to-remove-all-from-google-map
         };
-                
-        //map.setOptions({styles: styleArray});
-
-
-
+           
         map = new google.maps.Map(document.getElementById('map-canvas'),
           mapOptions);
 
-        /*
-        var testGrad = [
-          'rgba(0,0,0,0)',
-          'rgba(255, 0, 0, 1)',
-          'rgba(128, 0, 128, 1)',
-          'rgba(0, 0, 255, 1)'
-        ];
-        
-        //more crazy
-        'rgba(255, 0, 0, 0)',
-        'rgba(255, 255, 0, 0.9)',
-        'rgba(0, 255, 0, 0.7)',
-        'rgba(173, 255, 47, 0.5)',
-        'rgba(152, 251, 152, 0)',
-        'rgba(152, 251, 152, 0)',
-        'rgba(0, 0, 238, 0.5)',
-        'rgba(186, 85, 211, 0.7)',
-        'rgba(255, 0, 255, 0.9)',
-        'rgba(255, 0, 0, 1)'
-        */
+       
         
         var bluGrad = [
           'rgba(0, 0, 255, 0)',
@@ -270,94 +218,51 @@
           //radius: 25	
             //radius is in number of pixels
           radius : 6,
-          maxIntensity : 20
+          opacity : 0.8,
         });
 
         rockmap.setMap(map);
         
-        /*
         jazzmap = new google.maps.visualization.HeatmapLayer({
           data: testJazzMapData,
           gradient: oranGrad,
-          radius : 6,
-          maxIntensity : 20
+          radius : 8
         });
         
         //heatmap2.setMap(map);
         jazzmap.setMap(null);
-        */
-       
         
-        /*
         elecmap = new google.maps.visualization.HeatmapLayer({
           data: testElecMapData,
           gradient: cyanGrad,
-          radius : 6
+          radius : 8
         });
         elecmap.setMap(null);
         
         countrymap = new google.maps.visualization.HeatmapLayer({
           data: testCountryMapData,
           gradient: grnGrad,
-          radius : 6
+          radius : 8
         });
         countrymap.setMap(null);
         
         classmap = new google.maps.visualization.HeatmapLayer({
           data: testClassMapData,
           gradient: bluGrad,
-          radius : 6
+          radius : 8
         });
         classmap.setMap(null);
-        */
+        
       }
       
       function toggleRock() {
-//        heatmap.setMap(boxstate ? map : null);	//only show if checked
-        /*
-        var on = false;
-        
-        
-        $('#btn-group-vertical .btn.active').each(function() {	//from here: http://stackoverflow.com/questions/14035640/twitter-bootstrap-get-state-of-bootstrap-checkbox-buttons
-          if (this.name == "rock") {
-            on = this.value;
-          }
-        });
-        
-        if(on) {
-          heatmap.setMap(map);
-        }
-        else {
-          heatmap.setMap(null);
-        }
-        */
-        
-        //$('#rock')
-        //$('input').prop('checked', false);	//this is to UNCHECK the button!
+
 
         rockmap.setMap(rockmap.getMap() ? null : map);
       }
       
       function toggleJazz() {
-//        heatmap.setMap(boxstate ? map : null);	//only show if checked
-        
-        /*
-        var on = false;
-        
-        
-        $('#btn-group-vertical .btn.active').each(function() {	//from here: http://stackoverflow.com/questions/14035640/twitter-bootstrap-get-state-of-bootstrap-checkbox-buttons
-          if (this.name == "jazz") {
-            on = this.value;
-          }
-        });
-        
-        if(on) {
-          heatmap2.setMap(map);
-        }
-        else {
-          heatmap2.setMap(null);
-        }
-        */
+
         
         jazzmap.setMap(jazzmap.getMap() ? null : map);
       }
@@ -375,48 +280,7 @@
         elecmap.setMap(elecmap.getMap() ? null : map);
       }
       
-		function dropGigPin() {
-			//loadGigLocation('industrial','Europe');
-			var genre = document.getElementById('inputGenre1').value;
-			var continent = document.getElementById('inputCountry1').value;
-			var point = gigLocation[mapArrayNum(genre,continent)];
-			//var point = new google.maps.LatLng(52.3871,13.1165);
-			var marker = new google.maps.Marker({
-				position: point,
-				map: map,
-				title: 'European Industrial Gig'
-			});
-			map.setCenter(marker.getPosition());		
-		}
-		
-      function loadGigLocation(genre,continent) {
-			$.ajax({
-				type: 'GET',
-				url: 'Gigs/' + genre + continent + '.txt',
-				dataType: 'text',
-				success: function(data) {gigParse(data, gigLocation, genre, continent);}
-			});
-		}
-		
-		function gigParse(fileData, mapArray, genre, continent) {	//from here: http://stackoverflow.com/questions/7431268/how-to-read-data-from-csv-file-using-javascript/12289296#12289296
-        var fileLines = fileData.split(/\r\n|\n/);
-		  var coords = fileLines[1].split('\t');
-		  mapArray[mapArrayNum(genre,continent)] = new google.maps.LatLng(coords[2],coords[3]);
-        console.log(mapArray);
-	  }
-	  
-		function mapArrayNum(genre,continent) {
-			for(var i = 0; i < genres.length; i++) {
-				if(genre == genres[i]) {
-					for(var j = 0; j < continents.length; j++) {
-						if(continent == continents[j]) {
-							return j + (i*continent.length);
-						}
-					}
-				}
-			}
-			return -1;
-		}
+      
       
       
       google.maps.event.addDomListener(window, 'load', initialize);
@@ -504,26 +368,16 @@
 			  <form role="form">
 				  <div class="form-group">
 					 <label for="inputGenre1">Genre</label>
-					 <select id="inputGenre1">
-						<option value="industrial">Industrial</option>
-						<option value="all">All</option>
-					</select>
+					 <input type="text" class="form-control" id="inputGenre1" placeholder="Enter genre">
 				  </div>
 				  <div class="form-group">
-					 <label for="inputCountry1">Continent</label>
-					 <select id="inputCountry1">
-						<option value="Africa">Africa</option>
-						<option value="Asia">Asia</option>
-						<option value="Europe">Europe</option>
-						<option value="North America">North America</option>
-						<option value="Oceania">Oceania</option>
-						<option value="South America">South America</option>
-					 </select>
+					 <label for="inputCountry1">Country</label>
+					 <input type="text" class="form-control" id="inputCountry1" placeholder="Country">
 				  </div>
 				</form>
 			</div>
 			<div class="modal-footer">
-			  <button type="button" class="btn btn-primary" onclick=dropGigPin() data-dismiss="modal">Find Gig</button>
+			  <button type="button" class="btn btn-primary" onclick=findGig() data-dismiss="modal">Find Gig</button>
 			</div>
 		 </div>
 	  </div>
