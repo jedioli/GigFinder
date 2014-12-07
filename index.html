@@ -15,16 +15,6 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-	 
-	<script type="text/javascript">
-	//<!--
-	  function findGig() {
-			var genre = document.getElementById("inputGenre1").value;
-			var country = document.getElementById("inputCountry1").value;
-			alert("Here is a " + genre + " gig in " + country + "!");
-	  }
-	//-->
-	</script>
 	
 	<!-- Google Maps API junk -->
 	<!-- references:
@@ -74,6 +64,11 @@
 	  var testCountryMapData = [];
 	  var elecmap;
 	  var testElecMapData = [];
+	  
+	  var gigLocation = [];
+	  var genres = ['industrial','all'];
+	  var continents = ['Africa','Asia','Europe','North America','Oceania','South America'];
+	  var contSelected;
 	  
 	  function mapDataParse(fileData, mapArray) {	//from here: http://stackoverflow.com/questions/7431268/how-to-read-data-from-csv-file-using-javascript/12289296#12289296
         var fileLines = fileData.split(/\r\n|\n/);
@@ -139,6 +134,11 @@
 	    loadStudy();
 	    loadVenture();
 	    loadAttempt();
+		 for(var i = 0; i < genres.length; i++) {
+			 for(var j = 0; j < continents.length; j++) {
+				loadGigLocation(genres[i],continents[j]);
+			 }
+		 }
 	    
 	    /*
 	    heatmapData = [
@@ -385,7 +385,48 @@
         elecmap.setMap(elecmap.getMap() ? null : map);
       }
       
-      
+		function dropGigPin() {
+			//loadGigLocation('industrial','Europe');
+			var genre = document.getElementById('inputGenre1').value;
+			var continent = document.getElementById('inputCountry1').value;
+			var point = gigLocation[mapArrayNum(genre,continent)];
+			//var point = new google.maps.LatLng(52.3871,13.1165);
+			var marker = new google.maps.Marker({
+				position: point,
+				map: map,
+				title: 'European Industrial Gig'
+			});
+			map.setCenter(marker.getPosition());		
+		}
+		
+      function loadGigLocation(genre,continent) {
+			$.ajax({
+				type: 'GET',
+				url: 'Gigs/' + genre + continent + '.txt',
+				dataType: 'text',
+				success: function(data) {gigParse(data, gigLocation, genre, continent);}
+			});
+		}
+		
+		function gigParse(fileData, mapArray, genre, continent) {	//from here: http://stackoverflow.com/questions/7431268/how-to-read-data-from-csv-file-using-javascript/12289296#12289296
+        var fileLines = fileData.split(/\r\n|\n/);
+		  var coords = fileLines[1].split('\t');
+		  mapArray[mapArrayNum(genre,continent)] = new google.maps.LatLng(coords[2],coords[3]);
+        console.log(mapArray);
+	  }
+	  
+		function mapArrayNum(genre,continent) {
+			for(var i = 0; i < genres.length; i++) {
+				if(genre == genres[i]) {
+					for(var j = 0; j < continents.length; j++) {
+						if(continent == continents[j]) {
+							return j + (i*continent.length);
+						}
+					}
+				}
+			}
+			return -1;
+		}
       
       
       google.maps.event.addDomListener(window, 'load', initialize);
@@ -473,16 +514,26 @@
 			  <form role="form">
 				  <div class="form-group">
 					 <label for="inputGenre1">Genre</label>
-					 <input type="text" class="form-control" id="inputGenre1" placeholder="Enter genre">
+					 <select id="inputGenre1">
+						<option value="industrial">Industrial</option>
+						<option value="all">All</option>
+					</select>
 				  </div>
 				  <div class="form-group">
-					 <label for="inputCountry1">Country</label>
-					 <input type="text" class="form-control" id="inputCountry1" placeholder="Country">
+					 <label for="inputCountry1">Continent</label>
+					 <select id="inputCountry1">
+						<option value="Africa">Africa</option>
+						<option value="Asia">Asia</option>
+						<option value="Europe">Europe</option>
+						<option value="North America">North America</option>
+						<option value="Oceania">Oceania</option>
+						<option value="South America">South America</option>
+					 </select>
 				  </div>
 				</form>
 			</div>
 			<div class="modal-footer">
-			  <button type="button" class="btn btn-primary" onclick=findGig() data-dismiss="modal">Find Gig</button>
+			  <button type="button" class="btn btn-primary" onclick=dropGigPin() data-dismiss="modal">Find Gig</button>
 			</div>
 		 </div>
 	  </div>
