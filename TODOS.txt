@@ -1,0 +1,42 @@
+TO DOS
+
+FOR FINAL DEMOS
+9 December 2014
+
+CODE
+ - Update ReadME for GitHub page
+   > Be sure to explain the compromised recommender!
+   > Be sure to explain the selection of 10 genres, and the
+       other genres located in mapData and mapBuckets!
+   > Be sure to warn about somewhat long load times, and to be patient!
+ - Remove API keys and make GitHub public
+ - Clean up code
+ - Clean up repository
+
+DEMO
+ - Write (and practice!!) 30-second pitch
+
+
+
+
+
+
+
+
+
+
+old todos
+
+DATA
+ - genre tags getting in progress
+ - need to classify tweets (ID and location) by genre
+ - make a data type for passing to map
+
+UI
+ - add summary/description in jumbotron/top of page
+ - better size map window
+ - toggle bar on side for heatmaps
+ - popup information for find gig
+   > form for entering genre, location, etc.
+ - move find gig button
+ - flesh out About page
