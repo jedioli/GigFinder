@@ -8,6 +8,7 @@
 
     <!-- Bootstrap -->
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+	 <link href="ButtonColors.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -414,21 +415,36 @@
       <div class="heatmap" id="map-canvas"></div>
 	
       <div class="btn-group-vertical" id="side_panel" role="group" data-toggle="buttons" aria-label="..."> <!-- from http://getbootstrap.com/javascript/#buttons-checkbox-radio -->  
-        <label class="btn btn-primary" name="classical" onclick="toggleClassical()">	<!-- will want to change color probs -->
-          <input type="checkbox" autocomplete="off"> Classical
+        <label class="btn btn-primary" name="rock" onclick="toggleRock()">	<!-- will want to change color probs -->
+          <input type="checkbox" autocomplete="off"> Rock
         </label>
-        <label class="btn btn-success" name="country" onclick="toggleCountry()">
-          <input type="checkbox" autocomplete="off"> Country
+        <label class="btn btn-success" name="singer-songwriter" onclick="toggleSinger-Songwriter()">
+          <input type="checkbox" autocomplete="off"> Singer-Songwriter
         </label>
-        <label class="btn btn-info" name="electronic" onclick="toggleElectronic()">
-          <input type="checkbox" autocomplete="off"> Electronic
+        <label class="btn btn-info" name="soul" onclick="toggleSoul()">
+          <input type="checkbox" autocomplete="off"> Soul
         </label>
-        <label class="btn btn-warning" name="jazz" onclick="toggleJazz()">
-          <input id="jazz" type="checkbox" autocomplete="off"> Jazz
+        <label class="btn btn-warning" name="alternative" onclick="toggleAlternative()">
+          <input id="jazz" type="checkbox" autocomplete="off"> Alternative
         </label>
-        <label class="btn btn-danger active" name="rock" onclick="toggleRock()"> <!--  id="rock"-->
-          <input id="rock" type="checkbox" autocomplete="off" checked> Rock
+        <label class="btn btn-danger active" name="dance" onclick="toggleDance()">
+          <input id="rock" type="checkbox" autocomplete="off" checked> Dance
         </label>
+		  <label class="btn btn-pink" name="electronic" onclick="toggleElectronic()">
+			<input id="electronic" type="checkbox" autocomplete="off"> Electronic
+		  </label>
+		  <label class="btn btn-purple" name="hip-hop" onclick="toggleHip-Hop()">
+			<input id="hip-hop" type="checkbox" autocomplete="off"> Hip-Hop
+		  </label>
+		  <label class="btn btn-grey" name="indie" onclick="toggleIndie()">
+			<input id="indie" type="checkbox" autocomplete="off"> Indie
+		  </label>
+		  <label class="btn btn-yellow" name="pop" onclick="togglePop()">
+			<input id="pop" type="checkbox" autocomplete="off"> Pop
+		  </label>
+		  <label class="btn btn-brown" name="rap" onclick="toggleRap()">
+			<input id="rap" type="checkbox" autocomplete="off"> Rap
+		  </label>
       </div>
 	
     </div>
