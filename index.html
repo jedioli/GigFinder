@@ -54,6 +54,7 @@
 	</script>
     
 	<script type="text/javascript">
+	  /*
 	  var map, rockmap, heatmapData;
 	  var testRockMapData = [];
 	  var jazzmap;
@@ -64,11 +65,34 @@
 	  var testCountryMapData = [];
 	  var elecmap;
 	  var testElecMapData = [];
+	  */
+	  
+	  var map;
+	  var altLocs,
+	    danceLocs,
+	    elecLocs,
+	    hipLocs,
+	    indieLocs,
+	    popLocs,
+	    rapLocs,
+	    rockLocs, 
+	    sing_songLocs,
+	    soulLocs;
+	  var altMap,
+	    danceMap,
+	    elecMap,
+	    hipMap,
+	    indieMap, 
+	    popMap,
+	    rapMap,
+	    rockMap,
+	    sing_songMap,
+	    soulMap;
 	  
 	  var marker;
 	  
 	  var gigLocation = [];
-	  var genres = ['rock','singer-songwriter','soul','alternative','dance','electronic','hip-hop','indie','pop','rap'];
+	  var genres = ['alternative','dance','electronic','hip-hop','indie','pop','rap','rock','singer-songwriter','soul'];
 	  var continents = ['Africa','Asia','Europe','North America','Oceania','South America'];
 	  var contSelected;
 	  
@@ -99,6 +123,16 @@
         }
 	  }
 	  
+	  function loadLocArray(filename, locArray) {
+	    $.ajax({
+	      type: 'GET',    
+	      url: filename,
+	      dataType: 'text',
+	      success: function(data) {mapBasketParse(data, locArray);}
+	    });
+	  }
+	  
+	  /*
 	  function loadTest() {
 	    $.ajax({
 	      type: 'GET',    
@@ -139,18 +173,41 @@
 	      success: function(data) {mapDataParse(data, testJazzMapData);}
 	    });
 	  }
+	  */
 	  
 	  function initialize() {	
-	  
+/*      
 	    loadTest();	//POSSIBLY USE getBounds TO ONLY GET POINTS WITHIN MAP RANGE??
-
 	    loadTrial();
-/*	    loadStudy();
+*	    loadStudy();
 	    loadVenture();	    
 	    loadAttempt();
 */
 
-		 for(var i = 0; i < genres.length; i++) {
+        
+        var locationsFile;
+        locationsFile = 'mapBaskets/' + genres[0] + 'Basket.txt';
+        loadLocArray(locationsFile, altLocs);
+        locationsFile = 'mapBaskets/' + genres[1] + 'Basket.txt';
+        loadLocArray(locationsFile, danceLocs);
+        locationsFile = 'mapBaskets/' + genres[2] + 'Basket.txt';
+        loadLocArray(locationsFile, elecLocs);
+        locationsFile = 'mapBaskets/' + genres[3] + 'Basket.txt';
+        loadLocArray(locationsFile, hipLocs);
+        locationsFile = 'mapBaskets/' + genres[4] + 'Basket.txt';
+        loadLocArray(locationsFile, indieLocs);
+        locationsFile = 'mapBaskets/' + genres[5] + 'Basket.txt';
+        loadLocArray(locationsFile, popLocs);
+        locationsFile = 'mapBaskets/' + genres[6] + 'Basket.txt';
+        loadLocArray(locationsFile, rapLocs);
+        locationsFile = 'mapBaskets/' + genres[7] + 'Basket.txt';
+        loadLocArray(locationsFile, rockLocs);
+        locationsFile = 'mapBaskets/' + genres[8] + 'Basket.txt';
+        loadLocArray(locationsFile, sing_songLocs);
+        locationsFile = 'mapBaskets/' + genres[9] + 'Basket.txt';
+        loadLocArray(locationsFile, soulLocs);
+
+	    for(var i = 0; i < genres.length; i++) {
 			 for(var j = 0; j < continents.length; j++) {
 				loadGigLocation(genres[i],continents[j]);
 			 }
@@ -197,7 +254,7 @@
         
         
         var mapOptions = {
-          zoom: 4,	//bigger numbers mean closer zoom
+          zoom: 3,	//bigger numbers mean closer zoom
           center: austin,
           styles: minimalStyle	//from here: http://stackoverflow.com/questions/8406636/how-to-remove-all-from-google-map
         };
@@ -255,6 +312,7 @@
 //          'rgba(255, 255, 255, 1)'
         ];
 
+/*
         rockmap = new google.maps.visualization.HeatmapLayer({
           //data: heatmapData,
           //data: rockMapData,
@@ -267,6 +325,85 @@
         });
 
         rockmap.setMap(map);
+*/        
+        
+        
+        
+        
+        altMap = new google.maps.visualization.HeatmapLayer({
+          data: altLocs,
+          gradient: bluGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        altMap.setMap(null);
+        danceMap = new google.maps.visualization.HeatmapLayer({
+          data: danceLocs,
+          gradient: grnGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        danceMap.setMap(null);
+        elecMap = new google.maps.visualization.HeatmapLayer({
+          data: elecLocs,
+          gradient: oranGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        elecMap.setMap(null);
+        hipMap = new google.maps.visualization.HeatmapLayer({
+          data: hipLocs,
+          gradient: cyanGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        hipMap.setMap(null);
+        indieMap = new google.maps.visualization.HeatmapLayer({
+          data: indieLocs,
+          gradient: redGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        indieMap.setMap(null);
+        popMap = new google.maps.visualization.HeatmapLayer({
+          data: popLocs,
+          gradient: grnGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        popMap.setMap(null);
+        rapMap = new google.maps.visualization.HeatmapLayer({
+          data: rapLocs,
+          gradient: cyanGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        rapMap.setMap(null);
+        rockMap = new google.maps.visualization.HeatmapLayer({
+          data: rockLocs,
+          gradient: redGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        rockMap.setMap(map);
+        sing_songMap = new google.maps.visualization.HeatmapLayer({
+          data: sing_songLocs,
+          gradient: bluGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        sing_songMap.setMap(null);
+        soulMap = new google.maps.visualization.HeatmapLayer({
+          data: soulLocs,
+          gradient: oranGrad,
+          radius : 6,
+          maxIntensity : 20
+        });
+        soulMap.setMap(null);
+        
+        
+        
+        
         
         /*
         jazzmap = new google.maps.visualization.HeatmapLayer({
@@ -279,9 +416,7 @@
         //heatmap2.setMap(map);
         jazzmap.setMap(null);
         */
-       
-        
-        
+        /*
         elecmap = new google.maps.visualization.HeatmapLayer({
           data: testElecMapData,
           gradient: cyanGrad,
@@ -289,7 +424,7 @@
 			 maxIntensity : 20
         });
         elecmap.setMap(null);
-        /*
+        *
         countrymap = new google.maps.visualization.HeatmapLayer({
           data: testCountryMapData,
           gradient: grnGrad,
@@ -304,8 +439,42 @@
         });
         classmap.setMap(null);
         */
+        
+        
       }
       
+      function toggleAlt() {
+        altMap.setMap(altMap.getMap() ? null : map);
+      }
+      function toggleDance() {
+        danceMap.setMap(danceMap.getMap() ? null : map);
+      }
+      function toggleElec() {
+        elecMap.setMap(elecMap.getMap() ? null : map);
+      }
+      function toggleHip() {
+        hipMap.setMap(hipMap.getMap() ? null : map);
+      }
+      function toggleIndie() {
+        indieMap.setMap(indieMap.getMap() ? null : map);
+      }
+      function togglePop() {
+        popMap.setMap(popMap.getMap() ? null : map);
+      }
+      function toggleRap() {
+        rapMap.setMap(rapMap.getMap() ? null : map);
+      }
+      function toggleRock() {
+        rockMap.setMap(rockMap.getMap() ? null : map);
+      }
+      function toggleSing_Song() {
+        sing_songMap.setMap(sing_songMap.getMap() ? null : map);
+      }
+      function toggleSoul() {
+        soulMap.setMap(soulMap.getMap() ? null : map);
+      }
+      
+/*
       function toggleRock() {
         rockmap.setMap(rockmap.getMap() ? null : map);
       }
@@ -325,50 +494,55 @@
       function toggleElectronic() {
         elecmap.setMap(elecmap.getMap() ? null : map);
       }
+*/
       
-		function dropGigPin() {
-			//loadGigLocation('industrial','Europe');
-			var genre = document.getElementById('inputGenre1').value;
-			var continent = document.getElementById('inputCountry1').value;
-			var point = gigLocation[mapArrayNum(genre,continent)];
-			if(typeof marker != 'undefined') {
-				marker.setMap(null);
-			}
-			marker = new google.maps.Marker({
-				position: point,
-				map: map
-			});
-			map.setCenter(marker.getPosition());		
-		}
+      
+      
+      function dropGigPin() {
+        //loadGigLocation('industrial','Europe');
+        var genre = document.getElementById('inputGenre1').value;
+        var continent = document.getElementById('inputCountry1').value;
+        var point = gigLocation[mapArrayNum(genre,continent)];
+        
+        if(typeof marker != 'undefined') {
+          marker.setMap(null);
+        }
+        
+        marker = new google.maps.Marker({
+          position: point,
+          map: map
+        });
+        map.setCenter(marker.getPosition());		
+      }
 		
       function loadGigLocation(genre,continent) {
-			$.ajax({
-				type: 'GET',
-				url: 'Gigs3/' + genre + continent + '.txt',
-				dataType: 'text',
-				success: function(data) {gigParse(data, gigLocation, genre, continent);}
-			});
-		}
-		
-		function gigParse(fileData, mapArray, genre, continent) {	//from here: http://stackoverflow.com/questions/7431268/how-to-read-data-from-csv-file-using-javascript/12289296#12289296
+        $.ajax({
+          type: 'GET',
+          url: 'Gigs3/' + genre + continent + '.txt',
+          dataType: 'text',
+          success: function(data) {gigParse(data, gigLocation, genre, continent);}
+        });
+      }
+      
+      function gigParse(fileData, mapArray, genre, continent) {	//from here: http://stackoverflow.com/questions/7431268/how-to-read-data-from-csv-file-using-javascript/12289296#12289296
         var fileLines = fileData.split(/\r\n|\n/);
-		  var coords = fileLines[1].split('\t');
-		  mapArray[mapArrayNum(genre,continent)] = new google.maps.LatLng(coords[2],coords[3]);
+        var coords = fileLines[1].split('\t');
+        mapArray[mapArrayNum(genre,continent)] = new google.maps.LatLng(coords[2],coords[3]);
         console.log(mapArray);
 	  }
 	  
-		function mapArrayNum(genre,continent) {
-			for(var i = 0; i < genres.length; i++) {
-				if(genre == genres[i]) {
-					for(var j = 0; j < continents.length; j++) {
-						if(continent == continents[j]) {
-							return j + (i*continents.length);
-						}
-					}
-				}
-			}
-			return -1;
-		}
+	  function mapArrayNum(genre,continent) {
+	    for(var i = 0; i < genres.length; i++) {
+	      if(genre == genres[i]) {
+	        for(var j = 0; j < continents.length; j++) {
+	          if(continent == continents[j]) {
+	            return j + (i*continents.length);
+	          }
+	        }
+	      }
+	    }
+	    return -1;
+	  }
       
       
       google.maps.event.addDomListener(window, 'load', initialize);
@@ -414,20 +588,35 @@
       <div class="heatmap" id="map-canvas"></div>
 	
       <div class="btn-group-vertical" id="side_panel" role="group" data-toggle="buttons" aria-label="..."> <!-- from http://getbootstrap.com/javascript/#buttons-checkbox-radio -->  
-        <label class="btn btn-primary" name="classical" onclick="toggleClassical()">	<!-- will want to change color probs -->
-          <input type="checkbox" autocomplete="off"> Classical
+        <label class="btn btn-primary" name="alternative" onclick="toggleAlt()">	<!-- will want to change color probs -->
+          <input id="alternative" type="checkbox" autocomplete="off"> Alternative
         </label>
-        <label class="btn btn-success" name="country" onclick="toggleCountry()">
-          <input type="checkbox" autocomplete="off"> Country
+        <label class="btn btn-success" name="dance" onclick="toggleDance()">
+          <input id="dance" type="checkbox" autocomplete="off"> Dance
         </label>
-        <label class="btn btn-info" name="electronic" onclick="toggleElectronic()">
-          <input type="checkbox" autocomplete="off"> Electronic
+        <label class="btn btn-info" name="electronic" onclick="toggleElec()">
+          <input id="electronic" type="checkbox" autocomplete="off"> Electronic
         </label>
-        <label class="btn btn-warning" name="jazz" onclick="toggleJazz()">
-          <input id="jazz" type="checkbox" autocomplete="off"> Jazz
+        <label class="btn btn-warning" name="hip-hop" onclick="toggleHip()">
+          <input id="hip-hop" type="checkbox" autocomplete="off"> Hip-Hop
         </label>
-        <label class="btn btn-danger active" name="rock" onclick="toggleRock()"> <!--  id="rock"-->
+        <label class="btn btn-danger" name="indie" onclick="toggleIndie()">
+          <input id="indie" type="checkbox" autocomplete="off"> Indie
+        </label>
+        <label class="btn btn-primary" name="pop" onclick="togglePop()">	<!-- will want to change color probs -->
+          <input id="pop" type="checkbox" autocomplete="off"> Pop
+        </label>
+        <label class="btn btn-success" name="rap" onclick="toggleRap()">
+          <input id="rap" type="checkbox" autocomplete="off"> Rap
+        </label>
+        <label class="btn btn-info active" name="rock" onclick="toggleRock()"> <!--  id="rock"-->
           <input id="rock" type="checkbox" autocomplete="off" checked> Rock
+        </label>
+        <label class="btn btn-warning" name="sing_song" onclick="toggleSing_Song()">
+          <input id="sing_song" type="checkbox" autocomplete="off"> Singer-Songwriter
+        </label>
+        <label class="btn btn-danger" name="soul" onclick="toggleSoul()">
+          <input id="soul" type="checkbox" autocomplete="off"> Soul
         </label>
       </div>
 	
