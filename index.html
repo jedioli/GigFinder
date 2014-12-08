@@ -36,7 +36,7 @@
       }
       #side_panel {
         margin-left: -20px;
-        margin-top: -250px;
+        margin-top: -375px;
         z-index: 5;
         float: right;	
         padding: 10px;
@@ -313,6 +313,51 @@
 //          'rgba(255, 255, 255, 1)'
         ];
 
+        var altGrad = [
+          'rgba(255, 0, 0, 0)',
+          'rgba(255, 0, 0, 1)',
+        ];
+        var danceGrad = [
+          'rgba(254, 134, 1, 0)',
+          'rgba(254, 134, 1, 1)',
+        ];
+        var elecGrad = [
+          'rgba(238, 255, 0, 0)',
+          'rgba(238, 255, 0, 1)',
+        ];
+        var hipGrad = [
+          'rgba(134, 255, 0, 0)',
+          'rgba(134, 255, 0, 1)',
+        ];
+        var indieGrad = [
+          'rgba(0, 255, 77, 0)',
+          'rgba(0, 255, 77, 1)',
+        ];
+        var popGrad = [
+          'rgba(0, 255, 255, 0)',
+          'rgba(0, 255, 255, 1)',
+        ];
+        var rapGrad = [
+          'rgba(0, 89, 255, 0)',
+          'rgba(0, 89, 255, 1)',
+        ];
+        var rockGrad = [
+          'rgba(136, 0, 255, 0)',
+          'rgba(136, 0, 255, 1)',
+        ];
+        var sing_songGrad = [
+          'rgba(235, 1, 254, 0)',
+          'rgba(235, 1, 254, 1)',
+        ];
+        var soulGrad = [
+          'rgba(180, 180, 180, 0)',
+          'rgba(180, 180, 180, 1)',
+        ];
+
+
+
+
+
 /*
         rockmap = new google.maps.visualization.HeatmapLayer({
           //data: heatmapData,
@@ -333,70 +378,70 @@
         
         altMap = new google.maps.visualization.HeatmapLayer({
           data: altLocs,
-          gradient: bluGrad,
+          gradient: altGrad,
           radius : 6,
           maxIntensity : 20
         });
         altMap.setMap(null);
         danceMap = new google.maps.visualization.HeatmapLayer({
           data: danceLocs,
-          gradient: grnGrad,
+          gradient: danceGrad,
           radius : 6,
           maxIntensity : 20
         });
         danceMap.setMap(null);
         elecMap = new google.maps.visualization.HeatmapLayer({
           data: elecLocs,
-          gradient: oranGrad,
+          gradient: elecGrad,
           radius : 6,
           maxIntensity : 20
         });
         elecMap.setMap(null);
         hipMap = new google.maps.visualization.HeatmapLayer({
           data: hipLocs,
-          gradient: cyanGrad,
+          gradient: hipGrad,
           radius : 6,
           maxIntensity : 20
         });
         hipMap.setMap(null);
         indieMap = new google.maps.visualization.HeatmapLayer({
           data: indieLocs,
-          gradient: redGrad,
+          gradient: indieGrad,
           radius : 6,
           maxIntensity : 20
         });
         indieMap.setMap(null);
         popMap = new google.maps.visualization.HeatmapLayer({
           data: popLocs,
-          gradient: grnGrad,
+          gradient: popGrad,
           radius : 6,
           maxIntensity : 20
         });
         popMap.setMap(null);
         rapMap = new google.maps.visualization.HeatmapLayer({
           data: rapLocs,
-          gradient: cyanGrad,
+          gradient: rapGrad,
           radius : 6,
           maxIntensity : 20
         });
         rapMap.setMap(null);
         rockMap = new google.maps.visualization.HeatmapLayer({
           data: rockLocs,
-          gradient: redGrad,
+          gradient: rockGrad,
           radius : 6,
           maxIntensity : 20
         });
         rockMap.setMap(map);
         sing_songMap = new google.maps.visualization.HeatmapLayer({
           data: sing_songLocs,
-          gradient: bluGrad,
+          gradient: sing_songGrad,
           radius : 6,
           maxIntensity : 20
         });
         sing_songMap.setMap(null);
         soulMap = new google.maps.visualization.HeatmapLayer({
           data: soulLocs,
-          gradient: oranGrad,
+          gradient: soulGrad,
           radius : 6,
           maxIntensity : 20
         });
