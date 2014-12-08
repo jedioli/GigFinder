@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+singer-songwriter	Africa	-1.30061	36.8207

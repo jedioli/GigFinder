@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+hip-hop	North America	40.0457	-75.1353

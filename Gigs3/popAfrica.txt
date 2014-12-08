@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+pop	Africa	5.69947	-0.235995

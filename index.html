@@ -65,8 +65,10 @@
 	  var elecmap;
 	  var testElecMapData = [];
 	  
+	  var marker;
+	  
 	  var gigLocation = [];
-	  var genres = ['industrial','all'];
+	  var genres = ['rock','singer-songwriter','soul','alternative','dance','electronic','hip-hop','indie','pop','rap'];
 	  var continents = ['Africa','Asia','Europe','North America','Oceania','South America'];
 	  var contSelected;
 	  
@@ -99,13 +101,7 @@
 	  
 	  function loadTest() {
 	    $.ajax({
-	      type: 'GET',
-	      //url: 'mapData/spotifyMapData.txt',
-	      //url: 'mapData/electronicaMapData.txt',
-	      //url: 'mapData/electronicMapData.txt',
-	      //url: 'mapData/alternativeMapData.txt',
-	      //url: 'mapData/rockMapData.txt',
-	      
+	      type: 'GET',    
 	      url: 'mapBaskets/rockBasket.txt',
 	      dataType: 'text',
 	      success: function(data) {mapBasketParse(data, testRockMapData);}
@@ -114,9 +110,9 @@
 	  function loadTrial() {
 	    $.ajax({
 	      type: 'GET',
-	      url: 'mapData/allMapData.txt',
+	      url: 'mapBaskets/electronicBasket.txt',
 	      dataType: 'text',
-	      success: function(data) {mapDataParse(data, testElecMapData);}
+	      success: function(data) {mapBasketParse(data, testElecMapData);}
 	    });
 	  }
 	  function loadStudy() {
@@ -138,9 +134,6 @@
 	  function loadAttempt() {
 	    $.ajax({
 	      type: 'GET',
-	      //url: 'mapData/spotifyMapData.txt',
-	      //url: 'mapData/electronicaMapData.txt',
-	      //url: 'mapData/noiseMapData.txt',
 	      url: 'mapData/popMapData.txt',
 	      dataType: 'text',
 	      success: function(data) {mapDataParse(data, testJazzMapData);}
@@ -150,9 +143,9 @@
 	  function initialize() {	
 	  
 	    loadTest();	//POSSIBLY USE getBounds TO ONLY GET POINTS WITHIN MAP RANGE??
-/*
+
 	    loadTrial();
-	    loadStudy();
+/*	    loadStudy();
 	    loadVenture();	    
 	    loadAttempt();
 */
@@ -288,14 +281,15 @@
         */
        
         
-        /*
+        
         elecmap = new google.maps.visualization.HeatmapLayer({
           data: testElecMapData,
           gradient: cyanGrad,
-          radius : 6
+          radius : 6,
+			 maxIntensity : 20
         });
         elecmap.setMap(null);
-        
+        /*
         countrymap = new google.maps.visualization.HeatmapLayer({
           data: testCountryMapData,
           gradient: grnGrad,
@@ -313,52 +307,10 @@
       }
       
       function toggleRock() {
-//        heatmap.setMap(boxstate ? map : null);	//only show if checked
-        /*
-        var on = false;
-        
-        
-        $('#btn-group-vertical .btn.active').each(function() {	//from here: http://stackoverflow.com/questions/14035640/twitter-bootstrap-get-state-of-bootstrap-checkbox-buttons
-          if (this.name == "rock") {
-            on = this.value;
-          }
-        });
-        
-        if(on) {
-          heatmap.setMap(map);
-        }
-        else {
-          heatmap.setMap(null);
-        }
-        */
-        
-        //$('#rock')
-        //$('input').prop('checked', false);	//this is to UNCHECK the button!
-
         rockmap.setMap(rockmap.getMap() ? null : map);
       }
       
       function toggleJazz() {
-//        heatmap.setMap(boxstate ? map : null);	//only show if checked
-        
-        /*
-        var on = false;
-        
-        
-        $('#btn-group-vertical .btn.active').each(function() {	//from here: http://stackoverflow.com/questions/14035640/twitter-bootstrap-get-state-of-bootstrap-checkbox-buttons
-          if (this.name == "jazz") {
-            on = this.value;
-          }
-        });
-        
-        if(on) {
-          heatmap2.setMap(map);
-        }
-        else {
-          heatmap2.setMap(null);
-        }
-        */
-        
         jazzmap.setMap(jazzmap.getMap() ? null : map);
       }
       
@@ -371,7 +323,6 @@
         countrymap.setMap(countrymap.getMap() ? null : map);
       }
       function toggleElectronic() {
-        
         elecmap.setMap(elecmap.getMap() ? null : map);
       }
       
@@ -380,11 +331,12 @@
 			var genre = document.getElementById('inputGenre1').value;
 			var continent = document.getElementById('inputCountry1').value;
 			var point = gigLocation[mapArrayNum(genre,continent)];
-			//var point = new google.maps.LatLng(52.3871,13.1165);
-			var marker = new google.maps.Marker({
+			if(typeof marker != 'undefined') {
+				marker.setMap(null);
+			}
+			marker = new google.maps.Marker({
 				position: point,
-				map: map,
-				title: 'European Industrial Gig'
+				map: map
 			});
 			map.setCenter(marker.getPosition());		
 		}
@@ -392,7 +344,7 @@
       function loadGigLocation(genre,continent) {
 			$.ajax({
 				type: 'GET',
-				url: 'Gigs/' + genre + continent + '.txt',
+				url: 'Gigs3/' + genre + continent + '.txt',
 				dataType: 'text',
 				success: function(data) {gigParse(data, gigLocation, genre, continent);}
 			});
@@ -410,7 +362,7 @@
 				if(genre == genres[i]) {
 					for(var j = 0; j < continents.length; j++) {
 						if(continent == continents[j]) {
-							return j + (i*continent.length);
+							return j + (i*continents.length);
 						}
 					}
 				}
@@ -505,8 +457,16 @@
 				  <div class="form-group">
 					 <label for="inputGenre1">Genre</label>
 					 <select id="inputGenre1">
-						<option value="industrial">Industrial</option>
-						<option value="all">All</option>
+						<option value="rock">Rock</option>
+						<option value="singer-songwriter">Singer-Songwriter</option>
+						<option value="soul">Soul</option>
+						<option value="alternative">Alternative</option>
+						<option value="dance">Dance</option>
+						<option value="electronic">Electronic</option>
+						<option value="hip-hop">Hip-Hop</option>
+						<option value="indie">Indie</option>
+						<option value="pop">Pop</option>
+						<option value="rap">Rap</option>
 					</select>
 				  </div>
 				  <div class="form-group">

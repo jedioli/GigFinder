@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+pop	North America	49.1994	-122.913

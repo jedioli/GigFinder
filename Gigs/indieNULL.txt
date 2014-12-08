@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+indie	NULL	0	0

@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+dance	North America	34.1091	-118.262

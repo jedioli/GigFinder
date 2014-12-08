@@ -1,0 +1,5815 @@
+Latitude 	 Longitude 	 Weight 	 Continent
+28.8082	-81.2897	3	North America
+32.7844	-91.898	4	North America
+31.1268	-83.4183	5	North America
+46.0199	0.160382	1	Europe
+31.7683	35.2137	1	Asia
+36.3302	139.434	1	Asia
+-23.4057	-51.9683	33	South America
+54.5363	36.2486	8	Europe
+31.8987	-90.7105	1	North America
+49.9678	30.1814	1	Europe
+51.6541	-3.78687	3	Europe
+-3.77315	-43.4628	1	South America
+57.262	57.0407	1	Europe
+35.0175	-85.2561	3	North America
+-20.8756	-54.2616	42	South America
+55.4359	65.2991	6	Europe
+56.2009	37.0363	1	Europe
+35.0384	-76.6958	1	North America
+45.5109	-122.426	9	North America
+8.66723	76.9114	2	Asia
+40.3626	-74.0272	3	North America
+32.0923	-84.2259	1	North America
+41.4856	-86.6936	2	North America
+-21.4551	-45.2045	1	South America
+51.1635	10.4541	3	Europe
+35.0419	-84.8282	1	North America
+0.963314	103.979	2	Asia
+-10.3355	-58.5891	2	South America
+-6.08007	-37.476	6	South America
+25.8364	-98.3625	7	North America
+55.7282	-3.82357	2	Europe
+3.1502	101.775	223	Asia
+16.7419	-93.1397	18	North America
+36.8026	28.2253	3	Asia
+40.2753	-86.492	4	North America
+42.1819	-71.197	5	North America
+50.7035	7.11659	6	Europe
+10.6223	-61.311	4	North America
+29.2533	-82.2162	2	North America
+38.6531	-90.2435	61	North America
+48.295	14.3275	1	Europe
+51.6646	-3.41505	10	Europe
+49.0266	2.46772	399	Europe
+37.5053	-85.7023	1	North America
+14.6706	120.937	118	Asia
+35.1998	-101.841	1	North America
+3.84508	101.291	1	Asia
+-14.0093	33.7344	4	Africa
+8.80852	125.702	1	Asia
+27.4627	-81.4314	1	North America
+43.9502	7.66126	3	Europe
+50.1108	18.55	2	Europe
+13.7672	-89.0362	5	North America
+-21.966	-46.7961	8	South America
+-26.219	-49.4078	4	South America
+8.00122	99.6395	1	Asia
+18.2565	-93.2226	6	North America
+44.9636	10.6856	2	Europe
+46.0803	7.08705	2	Europe
+57.2547	60.1177	1	Europe
+48.7456	-3.46941	1	Europe
+5.78908	-55.1859	1	South America
+41.0345	40.5608	1	Asia
+49.0492	-0.7597	1	Europe
+34.4965	-82.0124	33	North America
+-29.9139	-50.2646	1	South America
+49.6121	3.22299	2	Europe
+40.7764	-111.921	31	North America
+-27.7689	-48.6676	7	South America
+44.9483	43.2818	1	Europe
+3.58698	98.6706	255	Asia
+-2.13531	113.826	1	Asia
+34.0071	-118.761	2	North America
+10.2208	-68.0091	9	South America
+51.7868	-1.3848	2	Europe
+50.539	42.647	1	Europe
+37.1853	-5.78667	1	Europe
+43.9199	-0.9206	2	Europe
+52.1973	0.146511	12	Europe
+34.8786	-114.663	1	North America
+35.4761	-95.53	2	North America
+36.0244	-108.627	1	North America
+-5.34808	-49.101	6	South America
+26.903	75.8351	1	Asia
+40.4663	17.2588	4	Europe
+4.41373	101.385	2	Asia
+51.576	4.64267	25	Europe
+43.5534	141.902	2	Asia
+53.5975	-113.379	2	North America
+-22.5918	-47.3616	11	South America
+-23.1117	-47.1947	27	South America
+30.3157	-81.3852	1	North America
+-9.94745	-67.8276	8	South America
+28.8176	-97.8692	1	North America
+35.1634	-115.9	4	North America
+51.3181	12.3286	3	Europe
+45.7578	4.8351	104	Europe
+41.2927	12.5735	39	Europe
+45.5353	10.2238	8	Europe
+-1.15746	-50.5734	5	South America
+38.4227	-75.0549	2	North America
+38.7077	-75.1573	1	North America
+38.6744	-76.6253	1	North America
+20.5474	-100.399	3	North America
+36.4486	-77.0942	5	North America
+-27.4103	-70.278	1	South America
+-2.63028	-56.739	25	South America
+-4.14152	104.633	1	Asia
+36.6374	-87.3678	2	North America
+5.5516	5.77304	7	Africa
+30.3528	76.3736	1	Asia
+35.4478	136.993	4	Asia
+-22.0668	-42.9237	77	South America
+-5.47237	-35.8787	1	South America
+-0.349769	35.9434	1	Africa
+11.6604	-70.203	2	South America
+56.5904	59.9662	14	Europe
+41.0645	28.2869	1	Asia
+33.5607	-117.731	10	North America
+-7.09033	110.603	1	Asia
+53.2227	-1.44067	11	Europe
+30.0821	-90.4191	3	North America
+36.8058	-77.4737	1	North America
+7.89001	98.2971	4	Asia
+41.9976	-71.5025	5	North America
+34.9364	-88.9037	1	North America
+32.9728	-117.091	3	North America
+48.1795	-1.88882	2	Europe
+34.0019	-117.955	68	North America
+39.3405	-76.4429	7	North America
+33.7129	-84.1009	28	North America
+24.1515	55.6516	2	Asia
+38.4404	-121.409	38	North America
+-20.4597	-46.0594	4	South America
+30.5928	31.4744	7	Africa
+59.5969	11.1758	1	Europe
+51.204	16.1524	3	Europe
+39.6777	-75.7477	22	North America
+32.8902	-84.3316	2	North America
+46.8415	-71.3703	13	North America
+43.0931	-79.0516	4	North America
+49.1085	6.16526	19	Europe
+43.3909	-80.3993	2	North America
+55.8811	38.7853	1	Europe
+39.8456	-75.3778	19	North America
+-3.02054	114.389	1	Asia
+38.2365	-0.646418	3	Europe
+31.2703	34.7648	1	Asia
+5.2918	115.697	1	Asia
+39.1362	-84.2744	2	North America
+-21.7766	-49.2498	1	South America
+49.1035	-0.372141	9	Europe
+47.2153	7.8091	1	Europe
+32.5311	-94.3431	1	North America
+17.998	101.755	3	Asia
+17.5508	-99.5064	1	North America
+24.0773	91.1153	2	Asia
+-25.553	-48.4967	10	South America
+-4.73107	104.596	1	Asia
+46.6037	-122.917	1	North America
+31.0939	35.7073	1	Asia
+39.5881	2.68433	2	Europe
+47.418	-120.281	3	North America
+36.8769	-94.8673	1	North America
+44.5956	4.75645	2	Europe
+51.0212	-0.627686	1	Europe
+-17.9039	-51.7309	1	South America
+39.879	-82.0899	1	North America
+32.8629	-96.9614	40	North America
+46.6556	-52.6409	6	North America
+19.857	-99.212	3	North America
+-22.5582	-55.7079	1	South America
+-6.80358	106.773	8	Asia
+10.6585	-63.2531	5	South America
+41.1539	27.8194	2	Asia
+42.673	-82.9165	9	North America
+28.1048	-82.5626	2	North America
+55.7546	-2.01283	1	Europe
+34.0024	-5.5429	6	Africa
+43.4088	-84.6149	1	North America
+34.0275	-85.9843	1	North America
+34.6383	-90.3847	1	North America
+43.1722	6.04661	3	Europe
+34.5776	-106.792	1	North America
+-16.5715	-54.6067	4	South America
+-2.06681	102.278	1	Asia
+51.4848	-2.61765	21	Europe
+-7.61572	111.084	1	Asia
+3.01697	-60.6432	1	South America
+49.3521	0.934251	26	Europe
+-29.3292	-51.5004	23	South America
+41.8456	-88.3113	10	North America
+59.3597	18.1963	12	Europe
+48.2097	-2.79421	2	Europe
+32.8467	-97.1748	7	North America
+35.3068	139.502	5	Asia
+46.1295	3.3132	2	Europe
+46.5031	-84.287	1	North America
+-24.6515	25.6949	1	Africa
+55.4138	43.7998	1	Europe
+-23.1018	-54.0488	1	South America
+17.6348	120.411	4	Asia
+-9.07635	-78.5888	16	South America
+5.504	100.436	11	Asia
+41.1732	-73.2781	12	North America
+44.4267	-73.0869	1	North America
+41.6836	12.7771	59	Europe
+-26.5979	28.4205	1	Africa
+55.6728	12.5521	15	Europe
+51.1191	-3.44641	1	Europe
+36.104	-80.2453	7	North America
+34.4651	133.044	2	Asia
+-6.77694	110.988	2	Asia
+34.1088	-117.463	41	North America
+47.6576	-2.74816	3	Europe
+54.1937	37.6289	23	Europe
+41.5123	-88.102	2	North America
+-22.9326	-42.8294	2	South America
+51.0579	0.999159	3	Europe
+42.1161	-96.3667	1	North America
+17.9678	-77.2423	4	North America
+41.2998	36.3299	5	Asia
+-20.087	-40.8168	1	South America
+-29.9006	30.9726	11	Africa
+7.78536	-72.219	2	South America
+43.8527	1.37204	6	Europe
+41.4712	15.6087	1	Europe
+49.1877	7.59363	1	Europe
+36.4685	-77.6451	1	North America
+20.7153	-100.441	27	North America
+-6.41379	-36.1914	2	South America
+51.7465	5.74537	21	Europe
+39.4489	-83.8117	1	North America
+35.6447	139.906	11	Asia
+-34.3353	-70.8347	1	South America
+-29.7059	-51.507	2	South America
+-8.45547	115.072	11	Asia
+47.8941	-122.294	11	North America
+32.0844	-96.4779	3	North America
+50.5785	19.3444	1	Europe
+18.1355	-94.4325	9	North America
+41.8056	-72.2508	2	North America
+52.0504	1.20372	1	Europe
+55.8433	37.9576	11	Europe
+27.9489	-82.3266	8	North America
+-6.73943	110.669	1	Asia
+-22.6804	-45.6877	2	South America
+48.7951	3.2737	1	Europe
+39.4704	-0.487839	10	Europe
+51.5749	0.419578	13	Europe
+27.7508	85.3265	1	Asia
+37.0941	-8.24506	2	Europe
+49.7512	3.77398	1	Europe
+51.654	-1.45139	11	Europe
+20.0871	99.8812	1	Asia
+-3.0098	-55.195	4	South America
+43.2385	0.0655738	3	Europe
+33.2062	-117.239	8	North America
+31.8838	-90.4099	1	North America
+-22.1032	-41.4308	1	South America
+42.378	-83.2668	95	North America
+-23.0651	-51.0559	1	South America
+57.6016	-4.87113	1	Europe
+-7.20338	-38.5212	4	South America
+1.45566	124.821	77	Asia
+41.4087	-8.50005	4	Europe
+35.7839	-77.5285	3	North America
+44.4352	26.0552	1	Europe
+41.1409	-80.1722	1	North America
+-6.41076	106.774	315	Asia
+38.0034	-79.4209	1	North America
+49.3715	6.14425	31	Europe
+40.3889	27.5235	1	Asia
+5.02409	-73.9996	1	South America
+14.0967	121.163	4	Asia
+41.9184	-83.4385	1	North America
+33.4451	-84.1792	15	North America
+22.2703	-97.9168	12	North America
+43.5679	11.1332	1	Europe
+61.1089	-149.44	1	North America
+-23.0082	-51.256	1	South America
+54.5036	18.4637	6	Europe
+23.6254	-102.558	7	North America
+-23.5776	-45.841	1	South America
+33.6507	-116.002	6	North America
+-7.45968	112.742	13	Asia
+48.3625	1.33228	2	Europe
+36.105	-78.2979	6	North America
+32.6753	-97.044	40	North America
+36.7815	-3.0356	1	Europe
+35.6896	-88.7056	2	North America
+38.9167	-94.6753	23	North America
+40.2958	-74.1634	5	North America
+53.6438	11.3852	3	Europe
+-20.7279	-46.6212	3	South America
+-33.892	151.198	53	Oceania
+-7.86585	-34.9975	6	South America
+1.23813	124.612	2	Asia
+-19.8614	-44.5966	7	South America
+52.705	5.74589	1	Europe
+22.8388	69.7012	1	Asia
+3.81641	103.337	63	Asia
+53.1638	-2.73732	1	Europe
+29.893	-81.3163	1	North America
+26.4721	-80.1047	15	North America
+37.7157	-89.2122	14	North America
+45.0929	39.042	10	Europe
+37.7171	-3.97381	3	Europe
+-19.4731	-40.6271	1	South America
+51.6017	5.60344	13	Europe
+33.7914	-118.156	89	North America
+46.6832	-1.43642	2	Europe
+51.3549	4.54759	1	Europe
+31.3185	-95.4561	1	North America
+39.1762	-77.2615	15	North America
+-3.98448	-38.826	4	South America
+39.8932	-99.7079	1	North America
+34.5416	135.454	1	Asia
+43.193	-112.333	1	North America
+51.2607	3.22216	5	Europe
+52.9756	-0.003937	5	Europe
+41.0655	28.6842	10	Asia
+50.7242	-3.78381	1	Europe
+-20.2664	-50.9477	3	South America
+-7.37872	110.59	2	Asia
+41.5229	-7.645	1	Europe
+-6.34131	108.33	1	Asia
+43.9509	-78.4028	1	North America
+19.288	72.8625	4	Asia
+52.1105	6.11219	17	Europe
+38.6054	-76.9259	36	North America
+31.6027	-85.0469	1	North America
+3.55183	103.378	2	Asia
+14.834	120.735	6	Asia
+47.5543	-122.703	3	North America
+-29.9805	-53.4659	2	South America
+32.3085	-106.731	4	North America
+48.3043	20.751	2	Europe
+-22.5461	-41.9822	2	South America
+51.1687	4.10352	3	Europe
+38.068	-84.4726	10	North America
+5.90749	116.094	18	Asia
+33.8912	35.4939	44	Asia
+20.6971	-105.149	4	North America
+33.216	-92.6404	3	North America
+44.7669	1.75302	1	Europe
+-3.30786	119.196	1	Asia
+36.7297	-120.072	6	North America
+30.2454	-92.0918	6	North America
+41.7581	2.06928	10	Europe
+51.118	3.96552	2	Europe
+48.0615	16.6242	1	Europe
+55.5351	25.0862	1	Europe
+42.773	-71.4868	1	North America
+38.4221	-90.3761	3	North America
+-18.7161	-47.4972	1	South America
+52.5699	6.53484	22	Europe
+48.3372	-2.67131	1	Europe
+46.9459	18.9131	9	Europe
+-22.9325	-43.1806	115	South America
+54.5357	-1.0525	1	Europe
+39.967	-76.7311	3	North America
+39.7646	-92.477	1	North America
+42.3736	-87.841	9	North America
+43.1796	-0.240469	10	Europe
+41.3759	-88.6275	1	North America
+38.8061	-90.2884	2	North America
+6.39402	100.207	19	Asia
+35.8305	-85.9786	12	North America
+42.5318	-92.4517	3	North America
+39.4984	-76.6461	9	North America
+51.5207	-0.142822	8219	Europe
+49.0802	2.66554	26	Europe
+43.9863	-92.4366	1	North America
+-26.1997	28.0406	23	Africa
+13.0049	77.569	12	Asia
+-22.6446	-43.3052	28	South America
+52.5008	103.845	2	Europe
+-0.789275	113.921	17	Asia
+51.0565	31.8951	1	Europe
+53.3676	-1.84397	1	Europe
+14.6097	-61.0805	30	North America
+37.8476	-4.67425	1	Europe
+14.8941	-92.275	4	North America
+-4.79228	34.7314	1	Africa
+43.1484	-8.9675	2	Europe
+0.534566	33.3934	1	Africa
+55.297	-2.07469	1	Europe
+33.5909	-83.999	2	North America
+37.1817	-7.45008	1	Europe
+20.9971	75.5557	2	Asia
+52.9908	6.25643	1	Europe
+3.94649	113.811	10	Asia
+43.5574	-5.93149	1	Europe
+5.75045	117.736	1	Asia
+56.1308	47.2532	11	Europe
+-37.7098	144.79	5	Oceania
+59.366	28.1107	1	Europe
+-19.6019	-40.7725	1	South America
+19.8289	-97.3606	1	North America
+53.2075	6.12759	8	Europe
+48.5303	2.25007	62	Europe
+-7.24811	111.768	1	Asia
+37.3046	-77.2921	3	North America
+35.9173	-78.9263	14	North America
+53.2032	50.1875	1	Europe
+16.343	-61.7752	1	North America
+48.1685	14.027	1	Europe
+42.9318	44.6465	11	Europe
+58.163	55.8611	1	Europe
+44.8844	-93.4176	5	North America
+37.2461	-8.19459	2	Europe
+36.7618	-76.2236	4	North America
+43.247	141.904	1	Asia
+41.843	-71.3508	29	North America
+47.7444	7.40646	4	Europe
+37.6488	-122.095	13	North America
+32.0433	-106.371	1	North America
+33.5174	-90.194	1	North America
+-9.65918	-35.7559	9	South America
+40.5215	-89.0012	1	North America
+-21.2741	-50.7091	1	South America
+33.2426	-79.9579	1	North America
+14.5605	-90.4605	26	North America
+52.2694	-6.96723	3	Europe
+33.9609	133.294	1	Asia
+47.6131	-0.469075	2	Europe
+31.7202	-86.2746	2	North America
+38.7485	-77.0841	29	North America
+54.6617	9.40202	1	Europe
+34.5857	-118.079	10	North America
+14.9735	120.156	1	Asia
+3.2281	113.072	4	Asia
+3.23187	101.386	68	Asia
+32.7059	-103.113	1	North America
+49.0555	3.37798	2	Europe
+46.4429	4.11139	3	Europe
+53.3211	-1.11367	3	Europe
+33.4922	-89.7308	2	North America
+49.594	1.09819	4	Europe
+-1.0796	100.421	1	Asia
+52.172	-0.662384	1	Europe
+10.4428	-85.7746	3	North America
+39.2779	-77.8447	1	North America
+-27.0529	-52.9701	1	South America
+39.2846	-76.6205	104	North America
+4.79533	103.241	1	Asia
+49.7777	6.64945	2	Europe
+57.2084	25.2601	1	Europe
+10.5305	7.45564	3	Africa
+-27.2447	-48.6992	3	South America
+39.5564	-89.6459	1	North America
+37.5028	-120.858	3	North America
+55.7969	9.74419	1	Europe
+18.2009	42.5141	1	Asia
+7.48696	4.54403	6	Africa
+45.7668	3.08944	4	Europe
+-11.0019	-37.1007	116	South America
+49.0013	8.33455	8	Europe
+56.7909	23.9296	6	Europe
+51.4498	6.70569	5	Europe
+46.0027	8.96044	2	Europe
+41.1291	-73.4127	14	North America
+43.43	-5.84397	6	Europe
+-24.6098	-47.4528	1	South America
+17.3818	78.4999	6	Asia
+15.8907	100.203	5	Asia
+40.1233	-75.3409	15	North America
+33.6159	-114.587	2	North America
+53.6047	107.776	1	Europe
+35.0131	136.123	10	Asia
+-22.4879	-42.2009	1	South America
+37.3841	140.105	1	Asia
+48.1117	-1.67536	14	Europe
+-35.1521	147.366	1	Oceania
+-23.417	-54.5603	163	South America
+-21.1841	-42.8853	3	South America
+49.4412	1.0912	45	Europe
+44.2839	0.247698	2	Europe
+62.023	129.705	17	Europe
+44.7553	10.7705	1	Europe
+-26.4168	-49.0724	33	South America
+51.8231	107.584	1	Europe
+31.7377	-81.3863	2	North America
+-30.5529	-53.4955	5	South America
+28.0607	-81.9722	2	North America
+41.9283	-74.0073	2	North America
+56.7147	-2.46825	1	Europe
+52.7642	23.1903	2	Europe
+-27.599	153.076	10	Oceania
+-29.106	-51.5365	7	South America
+-22.1609	-54.8613	16	South America
+-8.43046	-36.7454	1	South America
+52.9815	6.74891	3	Europe
+-11.6244	-38.9739	1	South America
+38.9175	-77.5142	5	North America
+56.4073	61.9156	1	Europe
+60.7423	17.0813	1	Europe
+37.8708	-122.301	45	North America
+35.1585	-78.5905	1	North America
+60.3275	10.153	1	Europe
+33.6245	-80.9266	24	North America
+56.6282	47.8837	9	Europe
+39.4817	-87.4063	25	North America
+52.3798	9.76148	2	Europe
+29.8638	-82.408	1	North America
+2.46878	-76.5849	3	South America
+18.5432	-88.2998	5	North America
+19.3343	-70.5202	2	North America
+44.2109	-69.0684	1	North America
+12.5699	-81.7139	1	NULL
+38.139	-97.4174	1	North America
+46.8285	-100.766	1	North America
+53.1826	5.81839	15	Europe
+20.6312	-103.472	12	North America
+35.1361	-111.203	1	North America
+1.56385	104.25	2	Asia
+60.9009	26.2652	1	Europe
+-22.5095	-44.7715	1	South America
+-16.6428	-49.2612	123	South America
+39.8914	32.6809	17	Asia
+35.2035	-80.836	48	North America
+52.5909	-2.12746	33	Europe
+33.4564	-86.9431	7	North America
+17.5117	-91.9881	1	North America
+39.2583	141.81	1	Asia
+31.2437	121.523	3	Asia
+39.9819	-83.4953	2	North America
+59.8619	18.9216	1	Europe
+37.8556	-3.614	1	Europe
+-18.6364	-46.4172	7	South America
+32.096	-84.535	1	North America
+-23.2173	-44.7282	1	South America
+45.0163	-0.106443	2	Europe
+18.9375	-70.4107	1	North America
+45.6647	0.242009	5	Europe
+59.8972	10.9693	4	Europe
+59.9394	30.0922	35	Europe
+28.1161	-15.4269	7	Europe
+-40.4581	175.834	1	Oceania
+38.8951	-94.2851	1	North America
+35.0138	-117.651	1	North America
+43.0321	-83.7342	8	North America
+48.3571	-4.76601	1	Europe
+13.7987	100.901	2	Asia
+53.3145	0.0134059	1	Europe
+40.5217	-75.7809	1	North America
+46.3601	48.0341	4	Europe
+24.8	67.0515	1	Asia
+25.172	51.4218	3	Asia
+-23.7363	-52.5974	3	South America
+29.9539	-93.9634	2	North America
+52.3342	-6.46138	1	Europe
+41.3916	-86.1168	1	North America
+-29.3727	-51.0915	1	South America
+19.4742	-99.3104	40	North America
+34.3215	-119.315	1	North America
+-22.9932	-43.6078	2	South America
+52.5115	-6.43273	1	Europe
+44.0434	-63.7674	1	North America
+-30.1649	-51.4437	5	South America
+33.0445	-85.0381	2	North America
+58.9726	5.71713	5	Europe
+26.8107	-80.6591	1	North America
+64.8838	25.3777	3	Europe
+-22.4378	-46.9978	4	South America
+37.5717	-4.63799	2	Europe
+-22.5615	-45.0123	1	South America
+10.7364	124.792	1	Asia
+46.0015	13.5177	1	Europe
+32.1715	-4.77038	1	Africa
+42.3527	-83.0992	78	North America
+49.5133	2.41446	10	Europe
+35.5771	-5.34233	3	Africa
+10.4667	-68.0167	1	South America
+38.9979	-105.554	1	North America
+37.4009	-79.1785	5	North America
+5.58272	100.74	1	Asia
+-7.03168	109.863	4	Asia
+37.3515	-78.9117	1	North America
+44.6691	20.9302	2	Europe
+3.35359	101.253	51	Asia
+31.5996	-93.0404	1	North America
+41.8204	-90.2282	1	North America
+-23.54	-46.3466	42	South America
+-32.9902	27.9027	5	Africa
+35.0742	-106.523	4	North America
+38.8048	-77.237	49	North America
+-2.40336	106.753	1	NULL
+-5.32116	-39.3433	1	South America
+18.0901	-94.1714	1	North America
+30.9373	-91.4009	7	North America
+14.5498	-60.8725	3	North America
+51.3544	-2.95017	4	Europe
+43.2519	-2.93316	10	Europe
+43.5103	-79.8199	3	North America
+49.1994	-122.913	344	North America
+47.7371	-3.22424	1	Europe
+-8.11023	115.099	4	Asia
+-31.2458	-54.066	4	South America
+-20.5058	-43.8531	26	South America
+44.6633	10.6148	1	Europe
+33.6666	-112.455	1	North America
+1.51464	103.384	3	Asia
+39.4224	-0.352529	34	Europe
+35.6551	136.139	1	Asia
+13.0741	80.2375	5	Asia
+46.5551	4.89189	1	Europe
+-22.2924	-47.8358	1	South America
+48.1179	0.50955	1	Europe
+55.6662	37.943	3	Europe
+-16.4125	-49.2234	1	South America
+21.3088	-97.6875	1	North America
+-22.3287	-44.9117	1	South America
+46.1325	-0.176162	1	Europe
+3.44767	102.408	4	Asia
+9.63138	76.5418	2	Asia
+22.2134	-159.421	1	North America
+52.652	1.72072	1	Europe
+8.98327	38.7693	1	Africa
+53.2244	-114.98	1	North America
+50.4594	4.85369	17	Europe
+48.3513	-1.19551	1	Europe
+31.8536	-102.394	1	North America
+4.98333	114.983	5	Asia
+35.539	-97.5959	5	North America
+35.6188	-105.211	3	North America
+34.0646	-118.082	54	North America
+25.7936	-109.029	1	North America
+-0.363503	103.102	2	Asia
+50.8406	16.4923	2	Europe
+53.5862	-0.717763	1	Europe
+45.1039	7.75693	2	Europe
+-25.7594	28.0788	5	Africa
+49.2771	2.46442	19	Europe
+-24.6678	25.9266	15	Africa
+-9.03506	-40.589	1	South America
+49.3919	7.43981	1	Europe
+-7.53971	109.143	2	Asia
+45.5517	8.94329	7	Europe
+26.605	-81.7255	1	North America
+34.2002	-93.0511	1	North America
+47.5673	18.8876	1	Europe
+-8.65383	116.532	5	Asia
+38.8362	-78.5673	1	North America
+50.6163	37.3015	5	Europe
+30.442	-91.4584	2	North America
+19.3343	-97.9228	6	North America
+39.0843	-77.1363	35	North America
+50.5839	17.8031	3	Europe
+67.0	91.3	1	Europe
+51.9102	4.50678	43	Europe
+52.2426	-6.58267	1	Europe
+-8.09948	111.915	3	Asia
+-11.3921	-41.1833	1	South America
+48.8942	-102.599	1	North America
+14.3235	121.06	19	Asia
+-17.8015	-49.143	2	South America
+28.5632	77.2509	5	Asia
+49.5936	17.2154	1	Europe
+32.335	-95.2833	13	North America
+-24.2935	-53.8154	2	South America
+33.9306	-116.891	1	North America
+-22.2823	-41.9777	8	South America
+48.5157	3.71545	2	Europe
+-19.5891	-44.8814	1	South America
+38.528	-28.5115	1	Europe
+52.7207	6.20378	6	Europe
+48.6332	4.95321	1	Europe
+-20.4583	-54.6457	14	South America
+43.767	-79.2002	11	North America
+47.273	-120.882	1	North America
+2.58454	102.103	4	Asia
+19.6527	-101.276	10	North America
+36.7591	-120.378	3	North America
+22.1674	-98.5054	2	North America
+-7.27568	-35.9777	748	South America
+41.1088	-72.3619	1	North America
+30.6239	-84.4154	1	North America
+53.8461	14.3126	1	Europe
+44.7792	-0.415344	3	Europe
+-18.3797	-49.4663	2	South America
+-24.018	-46.5015	54	South America
+-21.7485	-44.7869	1	South America
+1.2039	111.479	1	Asia
+44.2049	3.06739	1	Europe
+50.7845	3.52402	2	Europe
+41.9383	-93.3898	1	North America
+31.5012	74.2807	1	Asia
+-31.8878	115.871	9	Oceania
+32.7596	-94.352	1	North America
+40.2915	-79.931	23	North America
+52.6316	5.07012	10	Europe
+-18.9857	-47.0712	2	South America
+34.8361	-82.4233	10	North America
+47.0008	6.9425	5	Europe
+9.30539	-75.3949	2	South America
+-2.56137	-45.7706	1	South America
+-22.2336	-47.0166	27	South America
+-32.0064	-52.0425	3	South America
+5.59094	95.3636	19	Asia
+47.6965	13.3458	1	Europe
+44.0655	5.04672	1	Europe
+48.5768	-1.7485	1	Europe
+64.435	40.7704	3	Europe
+37.0438	-120.843	3	North America
+29.5976	-98.4018	12	North America
+55.9866	-4.51748	1	Europe
+31.5806	-90.4538	1	North America
+44.3963	4.39708	1	Europe
+50.471	5.69375	2	Europe
+40.5508	-79.8087	1	North America
+43.2049	2.35592	3	Europe
+-29.1921	-51.3739	2	South America
+49.22	3.10575	1	Europe
+40.2628	-75.6091	6	North America
+24.7145	46.6211	4	Asia
+32.0569	34.792	2	Asia
+7.44617	125.809	1	Asia
+-2.50005	-44.2412	8	South America
+41.6938	15.3749	1	Europe
+7.01128	100.47	2	Asia
+40.3797	49.857	2	Asia
+-25.5335	27.4698	1	Africa
+47.0558	6.74292	3	Europe
+31.2303	-90.4771	1	North America
+38.7126	-9.27044	55	Europe
+-23.8963	-48.8749	8	South America
+-19.604	-43.2996	4	South America
+-0.0368109	37.5764	1	Africa
+53.423	59.0428	2	Europe
+30.0406	-91.9621	1	North America
+31.5839	-97.1238	4	North America
+-25.0343	-47.9877	2	South America
+25.559	-97.5474	5	North America
+40.7994	-74.4787	8	North America
+55.974	37.1884	2	Europe
+-22.7782	-45.0475	5	South America
+32.5658	-116.963	9	North America
+-8.10274	-79.0098	5	South America
+-34.7433	-58.5835	1	South America
+47.0692	-1.64417	2	Europe
+48.0582	-0.76928	3	Europe
+41.418	-83.618	4	North America
+-17.4297	-39.8367	1	South America
+53.547	-0.0188638	2	Europe
+37.9771	-86.0929	1	North America
+3.22876	-76.4172	1	South America
+36.0	-80.3957	1	North America
+41.436	-88.2638	4	North America
+-0.87943	131.301	2	Asia
+48.6333	-2.08484	1	Europe
+13.5646	100.615	1	Asia
+46.5621	-1.77461	1	Europe
+43.2365	-86.2565	18	North America
+43.3353	77.2446	1	Asia
+0.876379	112.924	1	Asia
+32.0389	-81.1685	22	North America
+-23.0614	-45.9175	150	South America
+-24.4945	-53.3	12	South America
+46.3215	4.82931	9	Europe
+38.9411	-94.8465	1	North America
+52.6401	1.27308	7	Europe
+-6.70495	110.85	4	Asia
+47.5007	-111.303	1	North America
+-6.92329	110.203	7	Asia
+13.9875	-89.5925	10	North America
+35.1288	-118.459	1	North America
+29.481	-98.4934	31	North America
+43.626	5.5763	1	Europe
+7.2323	3.86564	2	Africa
+33.2112	-84.2148	1	North America
+31.7026	-89.1508	9	North America
+29.6598	-81.2891	1	North America
+51.5145	0.0549953	31	Europe
+45.5542	12.3301	2	Europe
+43.6623	-79.4229	11	North America
+60.9967	69.0689	2	Europe
+27.869	-81.5898	2	North America
+35.4168	136.327	1	Asia
+34.4429	-85.7262	1	North America
+-22.8738	-52.5483	6	South America
+42.1052	-80.1288	6	North America
+40.6261	-112.029	10	North America
+48.094	-122.202	4	North America
+55.1309	14.984	1	Europe
+36.6102	-82.1378	1	North America
+51.8714	0.862885	3	Europe
+43.9058	-91.245	1	North America
+47.0347	-122.278	8	North America
+50.9532	10.9054	2	Europe
+45.92	6.4245	2	Europe
+57.8617	11.8964	1	Europe
+-8.1851	-36.0151	23	South America
+34.7233	-92.3379	22	North America
+-17.5671	-52.5502	2	South America
+-0.300093	100.371	4	Asia
+-7.14941	-34.882	270	South America
+50.8881	4.0591	2	Europe
+48.7011	7.56764	2	Europe
+10.4394	-64.1748	2	South America
+56.2495	90.4527	2	Europe
+39.6401	-4.45943	1	Europe
+19.6797	-99.0116	5	North America
+-29.4497	-55.1328	1	South America
+28.0897	-82.7705	2	North America
+45.933	6.08139	12	Europe
+4.71107	-74.0574	51	South America
+9.31411	123.308	1	Asia
+-4.77289	137.78	5	Asia
+53.8245	-3.02998	11	Europe
+39.2302	-94.4722	2	North America
+-4.35851	-41.7643	15	South America
+35.6869	139.756	80	Asia
+41.5494	-72.0905	8	North America
+-6.92454	-38.5345	1	South America
+34.3033	-83.8334	2	North America
+37.5153	15.0883	3	Europe
+36.2879	-86.5872	1	North America
+53.1039	-1.03433	2	Europe
+12.3538	-1.52703	2	Africa
+8.94689	-79.6764	2	North America
+30.851	-90.1493	1	North America
+45.4043	-71.8622	2	North America
+-6.91683	106.965	13	Asia
+51.9187	0.580929	6	Europe
+48.2201	16.3799	8	Europe
+43.2605	-99.7157	1	North America
+-20.8916	-42.0589	3	South America
+43.6104	3.87434	44	Europe
+43.1832	141.734	1	Asia
+49.01	6.3993	1	Europe
+-33.026	-71.5601	22	South America
+41.0305	-80.3624	3	North America
+-7.18911	107.584	1	Asia
+19.6638	63.7045	1	NULL
+0.901518	104.487	5	Asia
+53.2265	-0.89332	2	Europe
+34.9492	-87.4922	1	North America
+35.704	139.392	5	Asia
+43.7566	-83.4277	1	North America
+49.9756	20.427	2	Europe
+-9.75808	-36.6473	36	South America
+44.957	-93.8282	1	North America
+42.0429	-91.6443	1	North America
+-29.0688	-53.233	1	South America
+-5.34238	-36.6793	1	South America
+-21.3974	-48.5119	1	South America
+42.6592	21.1413	4	Europe
+-5.17438	-43.002	1	South America
+18.4494	-68.9684	2	North America
+52.0047	4.76794	11	Europe
+-3.9815	-80.9776	1	South America
+50.269	1.7469	3	Europe
+-23.8305	-46.1372	1	South America
+14.5339	100.938	1	Asia
+36.0079	-76.9414	1	North America
+45.6571	10.0372	3	Europe
+33.3635	-86.6372	4	North America
+-9.99977	-68.2655	9	South America
+-1.34462	116.672	1	Asia
+42.8657	-94.9738	4	North America
+18.6269	-68.7116	1	North America
+20.6516	-101.17	2	North America
+54.0028	-0.442344	7	Europe
+43.078	-87.8809	24	North America
+39.857	-84.1133	6	North America
+37.6258	-109.474	1	North America
+55.0955	38.7605	2	Europe
+-31.5614	-52.3342	37	South America
+41.4244	12.7851	2	Europe
+42.3974	21.2004	1	Europe
+48.5641	3.49557	1	Europe
+-17.5469	-149.57	2	Oceania
+57.6811	11.734	2	Europe
+50.4429	-104.629	1	North America
+41.136	-81.8618	2	North America
+52.3113	-2.21404	1	Europe
+-3.67635	115.685	2	Asia
+2.95314	101.862	89	Asia
+44.4566	1.43854	1	Europe
+6.13655	125.176	2	Asia
+31.2367	-85.4066	1	North America
+40.338	27.8594	1	Asia
+52.5696	13.051	1	Europe
+6.02619	-73.5341	1	South America
+-9.45029	147.194	3	Oceania
+31.1132	-97.892	2	North America
+-27.0698	-70.8128	1	South America
+-20.7399	-48.9021	3	South America
+60.1304	30.1103	1	Europe
+36.1074	-94.5718	1	North America
+25.0343	-101.167	1	North America
+6.11885	99.9883	7	Asia
+14.5712	121.062	85	Asia
+-82.8628	-135.0	2	Antarctica
+41.0138	-78.2891	1	North America
+-24.2508	-51.6792	1	South America
+43.4646	-3.82615	7	Europe
+27.771	-82.6548	16	North America
+57.4295	26.9838	2	Europe
+4.43673	114.017	16	Asia
+-6.90035	110.636	1	Asia
+52.6388	4.73921	23	Europe
+49.4061	8.68319	3	Europe
+52.1016	6.58058	5	Europe
+45.6847	9.46743	8	Europe
+35.5087	139.627	19	Asia
+43.889	-79.0082	3	North America
+53.1133	48.4677	4	Europe
+53.7923	20.9617	1	Europe
+33.4596	-88.8023	10	North America
+-33.6886	18.9734	1	Africa
+51.4101	0.498712	7	Europe
+56.1991	-3.95616	2	Europe
+48.1956	-96.5837	1	North America
+32.5762	-86.6807	7	North America
+54.3051	47.9533	1	Europe
+-24.4399	-50.7457	1	South America
+62.565	6.9887	1	Europe
+41.3748	-72.1603	2	North America
+41.5358	60.6066	1	Asia
+-1.75216	112.635	8	Asia
+40.7405	-2.54198	2	Europe
+35.7813	-80.0443	1	North America
+32.6656	-96.7484	3	North America
+39.5374	-84.3012	2	North America
+-18.7548	-44.4362	1	South America
+-7.40166	109.237	21	Asia
+40.8881	-73.8016	5	North America
+30.0007	-90.0495	21	North America
+39.8538	-104.672	1	North America
+48.7902	132.912	1	Europe
+68.954	33.1359	7	Europe
+36.4135	35.894	2	Asia
+19.546	-154.911	1	North America
+59.016	16.194	19	Europe
+35.9553	-83.949	7	North America
+-20.7497	-45.2854	5	South America
+31.9683	-89.8706	2	North America
+33.6888	-80.2071	1	North America
+49.0922	1.48259	10	Europe
+50.9544	1.89601	13	Europe
+36.6606	-80.9136	1	North America
+33.4284	-86.3363	2	North America
+-1.54352	102.272	1	Asia
+52.3633	-6.79524	1	Europe
+-7.72238	113.988	1	Asia
+-15.6069	-47.6195	1	South America
+39.7031	-104.687	9	North America
+50.362	3.51425	3	Europe
+19.0707	-155.757	1	North America
+-20.8668	-51.308	1	South America
+40.6795	-8.43651	2	Europe
+36.743	-119.243	2	North America
+45.4028	8.91603	1	Europe
+52.2764	5.04833	36	Europe
+34.6129	-117.84	1	North America
+45.6185	9.21916	7	Europe
+51.8534	-10.3272	1	Europe
+44.9126	-0.232346	3	Europe
+36.6425	-78.1974	1	North America
+35.3343	-81.8737	5	North America
+-7.40413	111.019	2	Asia
+14.6244	-90.6158	19	North America
+-40.5753	-73.1608	2	South America
+52.7528	6.71888	6	Europe
+37.1468	-83.7667	2	North America
+33.6822	-117.823	17	North America
+-5.189	122.64	1	Asia
+-34.1218	18.4889	15	Africa
+55.4577	11.8079	1	Europe
+38.6955	-121.59	12	North America
+32.5355	35.8517	1	Asia
+-8.57154	116.129	15	Asia
+34.9231	-117.938	1	North America
+46.17	10.0384	1	Europe
+22.1324	-100.963	3	North America
+-6.00884	106.717	6	Asia
+32.7801	-108.152	1	North America
+3.89572	103.077	10	Asia
+54.0304	19.0907	1	Europe
+34.7602	-87.9681	1	North America
+48.2924	4.07631	9	Europe
+-3.79422	102.252	10	Asia
+-7.15762	110.29	1	Asia
+45.615	-95.7377	1	North America
+-14.5043	-56.8506	2	South America
+56.0229	92.8965	26	Europe
+42.7655	-5.79466	1	Europe
+43.3929	-70.7104	1	North America
+33.4534	-84.4649	15	North America
+36.4563	-82.9133	1	North America
+35.8053	-78.837	7	North America
+-26.8815	-52.4157	1	South America
+27.4455	-80.3664	3	North America
+47.8173	0.233035	1	Europe
+19.0322	-98.1543	74	North America
+-7.14081	112.615	6	Asia
+47.469	-122.284	12	North America
+54.2709	-8.47789	1	Europe
+4.09053	113.876	1	Asia
+33.7126	-84.2503	10	North America
+41.3941	2.1393	62	Europe
+19.2708	-99.6499	47	North America
+47.4393	-2.10172	2	Europe
+35.0377	-85.6993	1	North America
+35.011	135.591	1	Asia
+6.91555	107.625	1	NULL
+-28.8898	-52.5328	2	South America
+-21.9795	-42.249	4	South America
+42.0064	-87.6748	62	North America
+41.1689	-85.4854	1	North America
+44.9181	-123.316	1	North America
+-30.377	-55.1588	2	South America
+41.9375	-79.5773	1	North America
+52.6004	19.1766	6	Europe
+51.5224	-0.638081	3	Europe
+29.9887	-81.5791	3	North America
+36.5509	-86.9776	1	North America
+34.7646	-77.4183	7	North America
+39.1713	-86.5319	12	North America
+25.9652	127.132	1	Asia
+-33.9284	18.8334	8	Africa
+45.5496	-94.4486	2	North America
+35.6496	-78.7052	4	North America
+0.31234	32.5823	21	Africa
+35.8085	139.097	1	Asia
+55.0302	59.5907	1	Europe
+7.00101	81.0531	2	Asia
+-29.5782	30.4196	7	Africa
+42.8506	-2.69861	8	Europe
+42.3614	-71.5951	1	North America
+33.0779	-83.2325	1	North America
+19.3424	-98.9948	62	North America
+51.3563	-2.49323	1	Europe
+-23.0537	-47.7053	1	South America
+45.0752	11.7644	1	Europe
+30.1754	-82.645	1	North America
+-7.39957	109.904	1	Asia
+40.24	-76.8437	3	North America
+44.9211	37.3135	1	Europe
+40.8435	17.2899	1	Europe
+18.4006	-76.9764	1	North America
+35.8956	-95.1609	2	North America
+0.546848	35.2458	3	Africa
+42.9243	-83.6164	11	North America
+-20.0806	-44.5819	3	South America
+32.6079	-83.6256	5	North America
+-7.84351	112.032	16	Asia
+41.3285	-75.0476	1	North America
+32.4708	-96.8266	2	North America
+53.5601	-2.87583	3	Europe
+-22.9713	-53.0798	39	South America
+51.1252	-114.185	5	North America
+31.6185	-94.651	6	North America
+-4.42727	-38.8546	1	South America
+43.3873	5.23302	3	Europe
+38.3385	-122.498	1	North America
+38.1969	-77.5887	3	North America
+19.493	100.298	1	Asia
+8.12923	-63.5409	2	South America
+65.6911	22.2299	4	Europe
+39.5148	-122.194	2	North America
+44.3225	-84.5171	1	North America
+41.397	-81.8414	19	North America
+-6.74218	107.304	2	Asia
+49.0497	-122.34	1	North America
+-0.283832	36.0845	2	Africa
+-12.4274	-38.7164	2	South America
+59.9341	30.3287	187	Europe
+-33.3542	-70.2491	1	South America
+33.9594	-83.6467	1	North America
+33.3955	-111.738	12	North America
+43.4215	-110.779	2	North America
+44.3992	-122.702	1	North America
+20.6292	-87.0707	7	North America
+-23.621	-45.4901	13	South America
+38.5983	-9.11333	36	Europe
+48.5395	-123.069	1	North America
+52.0819	15.6121	3	Europe
+53.0795	-0.815692	1	Europe
+-7.12668	107.425	7	Asia
+49.2283	7.26728	1	Europe
+37.8955	-84.5669	1	North America
+34.3125	132.304	1	Asia
+53.0874	-2.43691	7	Europe
+36.0926	-83.7607	3	North America
+36.3257	139.209	1	Asia
+35.838	-83.5708	1	North America
+51.7286	5.95212	2	Europe
+1.50375	102.077	1	Asia
+35.9272	-86.8342	6	North America
+6.47047	100.498	5	Asia
+38.1041	-122.849	1	North America
+32.5009	-87.8567	1	North America
+-25.1476	-50.071	21	South America
+1.34526	103.719	178	Asia
+-2.02356	105.24	2	Asia
+-23.3226	-46.5817	6	South America
+13.7355	100.553	38	Asia
+45.8326	3.38886	2	Europe
+55.6593	13.3644	4	Europe
+-25.6571	28.2532	10	Africa
+39.651	-77.7315	3	North America
+40.9118	-4.19462	5	Europe
+50.8399	5.31865	1	Europe
+45.5064	9.33635	2	Europe
+41.5536	1.86919	2	Europe
+37.9168	-1.11781	20	Europe
+2.96551	99.0981	3	Asia
+-35.2466	149.586	1	Oceania
+34.1678	-86.8414	1	North America
+40.9394	-76.8745	1	North America
+48.0772	39.3503	1	Europe
+51.1481	5.53497	1	Europe
+39.1422	-84.4669	14	North America
+61.2734	73.4332	24	Europe
+31.542	-87.7884	1	North America
+5.29188	115.206	4	Asia
+30.1205	-97.8313	8	North America
+41.6939	-73.9187	1	North America
+-5.79931	-35.2216	267	South America
+45.5242	-123.0	4	North America
+35.7303	-78.532	6	North America
+16.3178	-61.4851	13	North America
+44.6448	10.8969	1	Europe
+38.4792	-75.5284	4	North America
+38.9751	-77.2711	5	North America
+-8.63338	115.245	53	Asia
+44.6146	33.5611	2	Europe
+-27.1854	-49.6228	1	South America
+19.5845	-71.0273	2	North America
+48.7239	4.58377	1	Europe
+34.888	-118.907	1	North America
+-36.9177	174.887	7	Oceania
+-30.3331	-54.374	13	South America
+32.6205	-96.9043	8	North America
+42.0844	-71.0278	4	North America
+43.4782	-80.5283	5	North America
+45.5069	-92.9917	3	North America
+31.205	-82.3495	1	North America
+51.6656	35.6772	2	Europe
+-9.13306	-36.0205	1	South America
+53.3215	50.0679	14	Europe
+18.386	99.6001	7	Asia
+48.7765	2.67811	57	Europe
+39.3151	-74.599	3	North America
+10.3868	123.918	13	Asia
+40.8161	-81.9113	1	North America
+51.9187	19.1348	4	Europe
+7.24358	5.17399	2	Africa
+43.7383	4.19211	3	Europe
+47.3599	-122.192	5	North America
+51.3962	-1.26033	1	Europe
+51.7502	-2.90358	1	Europe
+46.902	-102.769	2	North America
+42.5406	-74.8686	1	North America
+37.7343	-8.77526	1	Europe
+5.43502	103.011	8	Asia
+-21.6987	-45.2245	1	South America
+-25.2948	-57.6239	9	South America
+4.47741	101.012	19	Asia
+41.7444	-85.963	1	North America
+53.7587	9.64585	1	Europe
+53.7756	-0.38188	15	Europe
+51.8911	-0.427445	16	Europe
+-25.4544	-57.4362	1	South America
+32.2884	-85.1748	1	North America
+29.862	-95.2955	2	North America
+40.2254	28.9079	6	Asia
+9.85554	-84.3384	1	North America
+54.1125	-126.558	3	North America
+41.3292	-74.3538	1	North America
+40.2659	-7.5764	16	Europe
+-27.8918	-53.314	1	South America
+-30.7374	30.4534	1	Africa
+38.724	-121.382	9	North America
+13.4673	-16.6931	2	Africa
+12.4364	-86.8855	1	North America
+-13.2573	-43.4131	1	South America
+54.7042	20.472	16	Europe
+11.9654	8.55196	1	Africa
+2.18376	102.594	1	Asia
+48.2218	22.0752	2	Europe
+43.7065	-80.4801	1	North America
+45.2924	-73.2298	1	North America
+31.2547	75.7031	1	Asia
+49.9916	1.59752	1	Europe
+-7.2561	-35.8223	10	South America
+-19.0993	-44.5474	1	South America
+45.8363	-119.314	1	North America
+39.6222	-119.885	2	North America
+2.88884	102.593	1	Asia
+37.1573	-121.932	1	North America
+-22.4361	-45.3967	2	South America
+19.184	-96.2312	17	North America
+22.3973	-101.935	7	North America
+34.5099	-114.311	4	North America
+-29.5646	-50.8009	13	South America
+44.8939	4.87328	5	Europe
+38.7724	-92.3074	2	North America
+34.5393	-79.1034	1	North America
+3.94543	109.455	2	Asia
+38.9666	-83.0294	1	North America
+34.552	-77.9314	1	North America
+49.2734	1.22336	5	Europe
+28.8299	-98.2618	1	North America
+44.343	11.6816	1	Europe
+43.8932	-0.500742	4	Europe
+30.9061	75.8508	1	Asia
+50.7237	4.86292	2	Europe
+-23.3458	-47.8242	7	South America
+29.1947	-80.9985	25	North America
+53.4619	-1.04773	8	Europe
+-1.93792	30.0586	1	Africa
+-33.5321	27.0454	1	Africa
+39.9775	-86.1642	1	North America
+40.9925	-96.3544	1	North America
+49.8538	-97.2044	7	North America
+26.3029	50.1951	2	Asia
+-12.6734	-38.5389	10	South America
+34.1238	35.6535	17	Asia
+40.5864	-76.227	2	North America
+1.86117	104.63	14	Asia
+46.0063	13.3351	3	Europe
+52.8866	-1.28442	5	Europe
+36.3228	-79.9715	1	North America
+41.9318	-8.83724	13	Europe
+38.359	-81.6624	2	North America
+21.4933	-158.061	9	North America
+33.9226	-80.3448	2	North America
+46.3206	44.2891	1	Europe
+51.9141	6.56715	3	Europe
+48.9376	3.13035	5	Europe
+40.4095	-3.72167	30	Europe
+18.022	-92.9165	57	North America
+42.8285	23.1923	2	Europe
+-22.2973	-42.8797	4	South America
+30.2234	-93.1777	5	North America
+6.36128	99.7119	1	Asia
+17.8216	-98.1282	1	North America
+29.5848	-90.7021	4	North America
+47.8078	-2.38669	1	Europe
+-8.87865	13.1981	1	Africa
+34.953	-120.436	1	North America
+39.6969	-83.9097	12	North America
+51.9107	4.66087	2	Europe
+56.0362	12.5066	2	Europe
+38.0816	-1.05778	3	Europe
+33.4488	-4.15708	1	Africa
+44.9373	-92.9218	5	North America
+41.8984	12.5451	56	Europe
+41.4318	-81.5775	34	North America
+18.9253	-96.937	5	North America
+46.7237	2.51647	2	Europe
+-8.00138	-38.2902	1	South America
+-0.774199	100.592	4	Asia
+40.3653	-82.6694	10	North America
+9.3918	-84.1502	1	North America
+-5.21541	-42.8028	41	South America
+-13.0488	-41.8836	2	South America
+-20.3075	-40.4704	19	South America
+-3.49761	104.22	2	Asia
+-21.708	-43.4227	26	South America
+36.6581	128.453	1	Asia
+-20.5326	-49.1044	2	South America
+52.228	0.674616	1	Europe
+47.7369	-122.622	1	North America
+27.1024	-82.431	4	North America
+51.5875	-0.278107	1	Europe
+51.5255	5.9691	4	Europe
+12.1622	-68.2634	1	Europe
+1.39843	125.023	3	Asia
+4.93248	-52.3321	12	South America
+34.1957	135.184	6	Asia
+46.2249	7.34339	1	Europe
+37.443	-122.114	40	North America
+-22.3971	-47.613	10	South America
+40.2665	-81.6171	1	North America
+42.9904	-7.57063	2	Europe
+41.0391	-75.0905	3	North America
+39.5821	-76.0963	1	North America
+32.6619	-117.104	25	North America
+-21.3297	-43.5272	3	South America
+-6.00147	-37.8323	2	South America
+-17.7712	-48.6892	5	South America
+49.6903	21.7519	1	Europe
+-38.291	143.846	1	Oceania
+37.7914	-3.74254	4	Europe
+13.7552	-89.5769	2	North America
+48.1549	11.5418	4	Europe
+38.2514	-85.802	17	North America
+51.2038	-1.47852	2	Europe
+57.7466	-4.68754	2	Europe
+46.9853	3.15922	9	Europe
+50.218	2.33843	2	Europe
+38.3518	26.8752	1	Asia
+43.5428	-99.2455	2	North America
+51.8654	-8.4917	2	Europe
+46.6352	1.09568	1	Europe
+47.1641	11.8614	1	Europe
+-20.4201	-42.9068	1	South America
+-30.2256	-50.3126	2	South America
+30.666	-97.6767	2	North America
+-5.62487	-37.8661	1	South America
+21.1589	-86.8997	9	North America
+-34.4755	138.994	1	Oceania
+48.2365	4.70707	1	Europe
+-2.96616	-40.8077	4	South America
+41.5332	9.27321	3	Europe
+30.7109	-95.5427	5	North America
+32.9604	-96.791	18	North America
+56.9715	24.1287	62	Europe
+35.4472	136.782	4	Asia
+53.4346	23.4208	6	Europe
+-23.6728	-46.7457	17	South America
+18.839	-97.0819	2	North America
+52.3995	16.9063	15	Europe
+44.0453	5.20293	1	Europe
+42.8777	-108.785	1	North America
+41.8354	20.8858	1	Europe
+55.66	-4.94744	2	Europe
+40.0698	-87.7051	4	North America
+52.5379	5.34582	4	Europe
+-7.6435	112.903	2	Asia
+47.919	11.1782	1	Europe
+52.005	47.8008	4	Europe
+43.6111	3.16391	5	Europe
+40.1775	-79.8238	2	North America
+51.0053	-0.102276	2	Europe
+27.4872	-82.5646	5	North America
+42.9129	-75.2401	1	North America
+19.6328	-70.2838	4	North America
+27.1501	-80.2969	2	North America
+30.4507	-91.0169	4	North America
+-26.2485	-49.9051	1	South America
+49.726	18.792	2	Europe
+40.4379	-86.1705	1	North America
+8.14526	4.2555	1	Africa
+-6.30011	-37.2675	5	South America
+39.4074	-75.663	4	North America
+39.6237	-104.996	8	North America
+-33.2415	-70.7609	2	South America
+53.0195	-2.15902	4	Europe
+32.515	-92.3233	2	North America
+42.6874	-89.0148	1	North America
+19.3399	-70.9325	1	North America
+38.6001	-77.147	3	North America
+14.52	121.211	6	Asia
+51.9432	10.2169	2	Europe
+3.75431	101.949	6	Asia
+-2.20567	-80.9645	2	South America
+45.9348	-122.765	1	North America
+36.1449	-83.4039	1	North America
+49.4962	0.131479	9	Europe
+25.4662	-80.4529	3	North America
+28.9419	-106.163	6	North America
+16.1656	-61.6381	16	North America
+51.2531	-1.62645	1	Europe
+41.438	-79.7047	2	North America
+-23.5421	-46.58	71	South America
+38.1128	-121.263	2	North America
+47.4545	0.710103	13	Europe
+-12.2474	-38.9634	2	South America
+50.103	8.80423	1	Europe
+36.4751	-95.0172	5	North America
+34.5881	-85.6656	1	North America
+48.7506	44.5109	7	Europe
+6.11277	100.374	25	Asia
+35.6672	-97.4073	3	North America
+40.3206	-76.4229	2	North America
+34.0452	-81.1264	9	North America
+54.5725	-1.29686	2	Europe
+49.4555	-1.78797	1	Europe
+34.0609	-4.97544	10	Africa
+-16.6161	-43.9388	7	South America
+41.2485	-82.6135	1	North America
+-6.54949	-36.0482	3	South America
+8.88282	-64.264	2	South America
+35.3282	-119.081	1	North America
+52.0529	6.29347	17	Europe
+-22.8103	-50.4201	1	South America
+11.9623	121.927	4	Asia
+-20.0822	-42.8242	1	South America
+46.8289	11.7764	1	Europe
+60.3738	24.7596	1	Europe
+40.3827	-7.71633	1	Europe
+45.8202	9.87118	3	Europe
+54.5976	-7.27941	1	Europe
+-24.2162	-47.6402	1	South America
+40.408	-111.766	1	North America
+-23.1295	-46.5728	3	South America
+44.7539	37.7704	6	Europe
+42.885	-83.7567	1	North America
+38.3369	38.28	1	Asia
+-22.8437	-47.2618	62	South America
+30.3519	-83.0293	1	North America
+53.0453	158.664	1	Europe
+-29.553	-52.2026	3	South America
+-7.73315	109.01	2	Asia
+-23.3725	-52.9377	1	South America
+53.3642	6.51574	3	Europe
+42.5654	20.9269	17	Europe
+51.1098	3.03003	1	Europe
+61.6456	130.708	1	Europe
+54.3341	48.3024	2	Europe
+47.0739	5.50228	8	Europe
+40.6145	-79.1524	1	North America
+48.7793	9.17735	5	Europe
+51.4354	22.7186	1	Europe
+50.5265	9.00444	1	Europe
+50.4389	2.81765	9	Europe
+51.4436	4.10752	6	Europe
+47.0148	142.67	10	Europe
+41.9912	-92.5835	8	North America
+37.9994	-75.846	1	North America
+29.4662	-95.3416	1	North America
+51.5215	-0.477346	13	Europe
+3.05823	-59.9489	2	South America
+-26.3061	-50.5016	1	South America
+42.7028	13.8386	2	Europe
+40.1023	-3.64049	5	Europe
+46.2635	20.1404	5	Europe
+34.1413	-84.0527	2	North America
+-1.94362	115.409	1	Asia
+-31.5862	-53.7439	1	South America
+40.6118	22.9809	3	Europe
+4.26355	100.815	1	Asia
+-29.392	-50.9007	1	South America
+53.3596	89.9062	5	Europe
+35.3407	-80.7611	6	North America
+46.0641	11.1078	1	Europe
+46.4729	6.3613	1	Europe
+34.1693	-84.2879	5	North America
+42.1783	-84.6452	1	North America
+-20.4466	-50.005	1	South America
+46.3516	2.60768	2	Europe
+52.2727	1.10092	3	Europe
+26.5256	-78.6863	2	North America
+52.0731	21.0175	1	Europe
+41.872	-84.0369	1	North America
+-4.00396	39.7061	1	Africa
+33.5798	-101.876	5	North America
+38.8385	-9.15726	3	Europe
+-32.0071	115.757	1	Oceania
+41.6447	-84.999	1	North America
+37.6369	-118.97	1	North America
+46.1564	8.77139	3	Europe
+34.928	136.441	5	Asia
+40.5471	27.487	1	Asia
+31.9965	-102.084	2	North America
+38.4363	-76.9713	15	North America
+51.3996	16.1939	2	Europe
+-27.8547	153.318	2	Oceania
+37.8862	-4.81434	2	Europe
+33.7672	-84.3825	108	North America
+-29.6834	30.3172	2	Africa
+18.3835	-65.7873	1	North America
+2.3485	102.608	2	Asia
+52.0231	5.55162	23	Europe
+46.8408	16.838	3	Europe
+-23.2365	-51.7305	1	South America
+6.20852	6.65957	2	Africa
+62.1732	129.816	1	Europe
+18.5573	-99.6036	1	North America
+-29.5985	-52.4412	7	South America
+-21.2542	-49.1467	1	South America
+50.3991	30.6454	3	Europe
+8.29288	-62.7342	11	South America
+61.7464	50.8191	1	Europe
+32.9303	-96.3585	1	North America
+49.6221	6.5865	3	Europe
+45.7507	-73.4426	4	North America
+40.5668	-111.878	5	North America
+-7.42261	-38.7091	1	South America
+18.3404	-64.8362	1	North America
+-3.10019	104.895	3	Asia
+40.0263	-105.488	3	North America
+-4.70329	-47.4355	1	South America
+48.1308	11.3846	1	Europe
+29.4327	-98.6778	2	North America
+-32.8545	27.2561	1	Africa
+26.4321	50.1174	6	Asia
+50.5026	3.17211	12	Europe
+19.5092	-99.1324	412	North America
+34.2396	-77.9398	2	North America
+35.6024	-100.327	1	North America
+38.9293	-1.90194	2	Europe
+47.6791	2.62914	1	Europe
+38.6965	-85.5376	1	North America
+-29.4284	-53.3818	1	South America
+30.5121	-86.4757	1	North America
+33.774	-117.955	69	North America
+-21.9024	-42.5653	1	South America
+39.9042	116.407	10	Asia
+53.347	6.71578	2	Europe
+53.5846	-2.48296	8	Europe
+-7.08721	-36.3705	2	South America
+9.18928	12.5042	1	Africa
+-19.7553	-41.7484	1	South America
+41.471	-84.5501	1	North America
+-5.15527	-44.1652	9	South America
+-20.7898	-41.1967	6	South America
+31.1689	-100.077	22	North America
+18.2043	-66.2788	12	North America
+47.2102	18.4355	1	Europe
+10.2946	-67.6292	11	South America
+40.7421	-73.822	129	North America
+42.5349	-71.662	1	North America
+58.8827	5.85917	2	Europe
+53.2204	-0.558267	2	Europe
+-23.195	-50.639	2	South America
+61.5218	0.00022	18	Europe
+52.9947	-2.32605	2	Europe
+43.6777	13.2102	9	Europe
+4.08054	9.67805	15	Africa
+51.7129	0.258797	4	Europe
+51.0868	1.1492	1	Europe
+38.1084	-0.870834	2	Europe
+34.5131	135.793	1	Asia
+1.82879	98.7766	2	Asia
+21.4392	39.8403	5	Asia
+30.5215	-87.0126	5	North America
+42.9452	-78.8123	34	North America
+32.8327	-83.6442	13	North America
+-24.2758	-47.2308	1	South America
+35.3833	-118.947	6	North America
+-18.8718	-41.9671	9	South America
+-7.76819	112.182	2	Asia
+48.0869	-105.635	1	North America
+42.1623	-88.4644	1	North America
+46.419	0.249715	1	Europe
+39.4986	26.9322	1	Asia
+59.481	17.9153	3	Europe
+41.5562	-93.7708	13	North America
+55.7126	52.4007	4	Europe
+-22.6928	-45.5382	1	South America
+35.2001	-78.0549	1	North America
+51.9829	6.72707	2	Europe
+54.6138	39.8799	1	Europe
+40.7889	-72.9585	6	North America
+39.426	-76.3194	9	North America
+-8.3651	-35.23	5	South America
+-17.9138	-43.6532	1	South America
+-22.6133	-43.7186	1	South America
+3.42769	101.789	6	Asia
+41.5215	0.338953	1	Europe
+-0.42629	100.578	1	Asia
+39.2204	9.09584	3	Europe
+56.5222	84.982	15	Europe
+52.6745	-1.34497	4	Europe
+52.1399	18.6134	1	Europe
+41.4043	-73.3528	6	North America
+39.7369	-122.183	1	North America
+45.1884	-68.9845	1	North America
+32.2879	-81.225	1	North America
+23.6042	58.235	2	Asia
+7.11483	4.81292	2	Africa
+57.4093	21.5963	2	Europe
+8.99543	-79.5273	55	North America
+35.2506	136.701	1	Asia
+-9.34273	-36.0826	2	South America
+48.9946	-1.46895	1	Europe
+5.70193	100.442	35	Asia
+-20.9162	-49.2584	7	South America
+47.2692	-122.308	11	North America
+49.1239	1.31803	3	Europe
+41.3153	-84.9019	1	North America
+51.6044	-1.23591	8	Europe
+41.5222	-5.39421	1	Europe
+-6.1935	106.426	12	Asia
+53.2135	10.3758	12	Europe
+28.8661	48.2368	1	Asia
+-3.78387	-64.9497	1	South America
+50.4855	3.95972	1	Europe
+-22.3787	-41.7985	1	South America
+43.7955	-79.3488	8	North America
+43.0692	-88.495	2	North America
+-29.7338	-51.0571	46	South America
+19.376	-103.57	2	North America
+48.8748	6.09476	4	Europe
+-18.1413	178.424	4	Oceania
+49.0605	142.061	3	Europe
+38.0539	-84.7416	1	North America
+24.4957	54.3794	9	Asia
+36.4891	-119.7	2	North America
+40.0691	45.0382	16	Asia
+39.1428	-80.0318	1	North America
+49.8231	2.71222	1	Europe
+-6.71485	111.167	1	Asia
+32.5346	-83.8983	1	North America
+-5.41035	119.448	1	Asia
+52.1184	-1.01848	16	Europe
+-22.5842	17.0833	9	Africa
+33.1873	130.403	1	Asia
+42.8597	-8.64986	1	Europe
+33.1389	-117.096	5	North America
+30.6409	-88.2401	3	North America
+45.2403	4.67092	3	Europe
+35.0671	-118.149	1	North America
+-22.6784	-46.6768	7	South America
+46.0908	-64.7703	1	North America
+41.761	12.3077	6	Europe
+18.1598	97.9285	2	Asia
+-6.46893	106.903	11	Asia
+56.1719	10.1613	1	Europe
+46.0864	-100.631	1	North America
+49.3978	15.8796	1	Europe
+-23.4372	-47.0919	4	South America
+31.3322	-99.8584	1	North America
+25.0966	55.172	8	Asia
+-7.71753	110.58	13	Asia
+5.07086	100.59	2	Asia
+-6.99464	-36.7143	2	South America
+-22.2332	-43.888	17	South America
+45.205	12.26	2	Europe
+32.4178	-87.0311	2	North America
+-15.4552	-55.8425	35	South America
+49.3081	2.61529	2	Europe
+37.9327	22.9163	1	Europe
+34.222	-81.5182	2	North America
+41.4934	-90.4396	3	North America
+59.1297	18.1045	2	Europe
+51.5818	0.800536	3	Europe
+29.5812	-96.3305	1	North America
+21.1451	-98.4482	1	North America
+44.963	-93.2143	34	North America
+41.6949	-91.5967	5	North America
+43.0586	141.354	3	Asia
+34.6477	-120.462	1	North America
+45.197	33.3375	1	Europe
+57.2485	34.5535	3	Europe
+28.5748	-14.6268	6	Europe
+37.0191	-4.56346	1	Europe
+50.6924	4.03682	2	Europe
+-21.2653	-50.326	8	South America
+38.0673	-85.8824	3	North America
+42.3641	-8.40504	4	Europe
+20.8765	-100.884	4	North America
+19.0522	-104.316	1	North America
+-1.59438	103.619	20	Asia
+55.4331	37.7626	6	Europe
+31.3643	-110.933	5	North America
+38.9656	-95.2402	6	North America
+50.9888	3.5122	2	Europe
+-8.75045	-63.9011	7	South America
+-3.80398	114.768	2	Asia
+48.4315	5.12683	1	Europe
+-17.7911	-50.9292	1	South America
+52.9974	6.55836	9	Europe
+-22.7755	-41.9365	6	South America
+31.8488	-106.637	2	North America
+35.1008	136.664	2	Asia
+33.1275	-95.7523	1	North America
+52.8471	-2.29813	20	Europe
+48.9121	2.19286	414	Europe
+49.8513	20.2544	3	Europe
+39.7666	-86.4413	5	North America
+41.4459	-82.6836	3	North America
+24.8236	-107.4	3	North America
+41.5464	-72.6377	8	North America
+56.0583	49.4776	1	Europe
+32.1783	-90.294	2	North America
+38.9046	-84.6275	3	North America
+44.5005	-80.2512	1	North America
+16.6788	120.338	1	Asia
+41.4182	-8.68953	1	Europe
+54.0301	-6.24912	10	Europe
+-6.36333	-38.8318	3	South America
+48.2242	20.2946	1	Europe
+30.2132	-92.3765	7	North America
+28.9647	-81.2544	2	North America
+59.0018	61.7094	3	Europe
+-0.0560835	109.335	33	Asia
+41.558	-83.6903	1	North America
+32.163	-106.662	1	North America
+-23.194	-49.3852	4	South America
+42.6526	-78.7555	3	North America
+-36.7078	174.749	3	Oceania
+-21.374	-46.5254	2	South America
+30.4223	-9.58203	4	Africa
+-23.1623	-47.0253	62	South America
+45.6177	63.2999	1	Asia
+-4.17223	-40.5196	3	South America
+52.9098	-1.53842	10	Europe
+12.0682	124.596	1	Asia
+50.7378	3.25392	41	Europe
+54.0351	-7.41016	1	Europe
+-28.4127	-54.981	1	South America
+52.0699	-2.67362	1	Europe
+32.4456	-82.219	1	North America
+-7.58889	-34.9452	5	South America
+35.5506	140.124	3	Asia
+50.279	21.4515	1	Europe
+15.5972	32.5748	12	Africa
+13.6269	100.395	6	Asia
+23.7602	57.556	1	Asia
+36.8687	-2.37369	8	Europe
+35.2928	-2.94677	3	Europe
+-21.3646	-46.0058	4	South America
+3.30965	101.55	78	Asia
+39.3235	-82.084	2	North America
+6.40072	116.435	1	Asia
+55.1559	61.3679	16	Europe
+39.0206	-85.8824	3	North America
+40.854	14.2435	43	Europe
+40.7864	-76.5163	2	North America
+41.1253	-74.8386	1	North America
+-20.3679	-48.9863	1	South America
+27.7137	-109.842	1	North America
+1.00185	116.394	57	Asia
+50.2462	19.0048	10	Europe
+64.5245	39.7407	7	Europe
+1.80499	111.844	1	Asia
+47.5357	21.6237	3	Europe
+0.38415	109.958	2	Asia
+-27.3402	24.7269	4	Africa
+12.869	74.845	2	Asia
+41.6445	2.73283	4	Europe
+-8.19019	113.722	11	Asia
+-34.8908	138.643	9	Oceania
+-6.9823	108.48	1	Asia
+40.4234	-74.6735	4	North America
+-32.8119	151.651	4	Oceania
+42.3446	-3.68944	6	Europe
+-4.0121	119.625	1	Asia
+51.5176	0.590707	1	Europe
+39.0224	-76.4239	1	North America
+18.2841	-70.3334	1	North America
+17.6131	121.729	2	Asia
+39.823	-75.8257	3	North America
+49.966	10.2167	2	Europe
+21.0981	-101.601	23	North America
+38.5572	-76.0357	2	North America
+48.4758	3.29748	1	Europe
+6.81068	3.45898	1	Africa
+44.0358	-78.8645	7	North America
+19.2824	-70.2625	8	North America
+-4.58598	-81.2666	1	South America
+50.0645	5.76072	3	Europe
+39.0918	-83.4399	1	North America
+-6.83717	-43.1826	1	South America
+52.1674	-2.40599	10	Europe
+42.7991	-8.01626	1	Europe
+-6.87222	109.043	3	Asia
+35.3209	-96.9104	2	North America
+52.4431	-1.92724	41	Europe
+37.7289	-81.8061	2	North America
+-22.442	-44.5232	12	South America
+30.0293	-90.7166	3	North America
+-20.5435	-47.9563	1	South America
+1.44851	110.452	62	Asia
+41.4755	-97.3802	1	North America
+40.1987	30.0204	1	Asia
+42.7877	-71.3078	2	North America
+29.9946	31.1931	5	Africa
+43.9698	-116.818	2	North America
+60.896	17.0579	1	Europe
+6.46673	3.64934	3	Africa
+-12.2479	-38.7489	1	South America
+30.3711	-89.0837	1	North America
+44.0388	43.0507	1	Europe
+40.7618	-73.5699	21	North America
+22.9901	-105.856	1	North America
+33.9285	-84.3328	24	North America
+28.7838	-81.8744	1	North America
+19.4126	100.879	1	Asia
+42.8784	-77.011	1	North America
+37.5195	-5.59482	7	Europe
+-22.3352	-47.3295	5	South America
+34.4375	35.8334	4	Asia
+42.7915	-70.9695	4	North America
+30.0836	-95.9871	7	North America
+36.2568	28.1589	1	Europe
+41.9257	-88.7747	1	North America
+37.9901	23.6832	1	Europe
+33.9786	71.4539	1	Asia
+43.5939	-84.7758	6	North America
+51.046	2.84731	1	Europe
+1.37144	103.449	1	Asia
+4.72424	103.416	11	Asia
+23.4681	-106.272	6	North America
+40.8679	35.465	1	Asia
+45.4323	-122.555	8	North America
+42.7955	-85.5262	2	North America
+33.9498	-117.399	44	North America
+-6.97268	106.792	3	Asia
+53.0324	5.68487	14	Europe
+-20.4444	-44.7707	1	South America
+33.6366	-84.4578	36	North America
+39.7688	-94.7823	1	North America
+52.3461	5.4624	18	Europe
+48.7791	5.16935	2	Europe
+48.0361	37.7787	3	Europe
+48.7586	7.86379	3	Europe
+45.258	19.8458	2	Europe
+39.2423	-84.5918	28	North America
+-42.4507	-73.7781	1	South America
+31.7143	-95.6034	6	North America
+60.0493	29.9655	2	Europe
+3.72107	103.122	6	Asia
+54.0788	-2.72119	9	Europe
+40.3782	9.7127	1	Europe
+0.177371	-51.3389	2	South America
+69.6643	18.9652	1	Europe
+44.9008	-89.5695	3	North America
+8.47512	-79.9599	1	North America
+41.7698	-87.9751	6	North America
+57.8106	28.3618	2	Europe
+-21.2475	-43.7915	1	South America
+32.6162	-97.3658	8	North America
+36.7613	-2.61121	1	Europe
+42.3154	43.3569	10	Asia
+34.1922	-119.185	11	North America
+37.659	127.045	7	Asia
+-22.1148	-45.0354	4	South America
+45.8524	9.40454	7	Europe
+-15.4248	28.2783	1	Africa
+48.1902	15.9389	1	Europe
+33.7531	-112.317	6	North America
+19.0225	-98.3065	19	North America
+2.88622	101.366	10	Asia
+31.4572	-83.5027	1	North America
+36.5037	30.5364	1	Asia
+59.6093	16.5508	2	Europe
+55.0122	-3.44687	2	Europe
+36.823	-119.908	1	North America
+23.5895	58.4062	6	Asia
+-25.4516	-50.0507	2	South America
+53.8438	-1.85079	45	Europe
+57.3102	-2.15374	1	Europe
+43.0712	12.6006	1	Europe
+47.1612	19.5059	3	Europe
+39.1919	-2.59048	3	Europe
+41.7625	-72.757	33	North America
+39.0463	-95.6616	1	North America
+1.18262	104.022	17	Asia
+-20.9027	116.445	1	Oceania
+30.128	-91.8343	1	North America
+43.6679	-1.40895	3	Europe
+55.0811	21.8826	1	Europe
+43.4308	39.9336	4	Europe
+54.777	49.9181	8	Europe
+-34.554	148.37	1	Oceania
+55.8573	-4.30607	32	Europe
+-22.8952	-47.0303	161	South America
+43.7011	3.75533	4	Europe
+0.91428	108.982	3	Asia
+39.7813	-86.0399	29	North America
+29.7936	-90.8234	3	North America
+54.1242	-114.398	1	North America
+32.3539	-88.7391	4	North America
+-20.7352	-48.5892	2	South America
+-8.60993	120.466	9	Asia
+49.5425	5.68379	6	Europe
+3.57062	99.0098	2	Asia
+29.5456	-97.9567	1	North America
+60.5355	22.2621	1	Europe
+33.393	-117.173	2	North America
+19.7246	-98.7579	1	North America
+46.8019	4.4698	3	Europe
+48.4739	-123.39	5	North America
+26.0411	-98.3511	1	North America
+-7.01191	109.391	1	Asia
+52.697	5.22681	21	Europe
+42.3144	-70.9703	125	North America
+20.6453	-103.686	3	North America
+36.9271	-82.4503	2	North America
+40.7531	-82.5548	4	North America
+54.8609	53.0677	1	Europe
+53.5259	8.10882	2	Europe
+39.1899	-0.438107	1	Europe
+56.3814	-3.85573	1	Europe
+-6.8531	39.2318	8	Africa
+39.5071	-84.7452	1	North America
+-8.67647	115.558	1	Asia
+48.5562	-3.17705	1	Europe
+67.4444	32.7364	1	Europe
+51.2503	9.40482	1	Europe
+-10.2208	-48.3315	3	South America
+47.0979	1.86477	1	Europe
+-5.90692	-36.7753	2	South America
+55.8243	37.2461	8	Europe
+47.3215	9.61316	2	Europe
+22.2027	113.55	1	Asia
+12.9763	7.60975	1	Africa
+9.31683	-79.8994	5	North America
+51.7734	19.4806	10	Europe
+-0.62613	100.154	2	Asia
+48.6239	22.9421	1	Europe
+41.4843	2.33035	5	Europe
+-7.16245	-47.8799	1	South America
+-33.945	25.5699	4	Africa
+51.427	7.66398	6	Europe
+32.0895	-81.4598	1	North America
+40.4345	-78.3947	2	North America
+48.2338	6.93477	1	Europe
+38.079	-0.653827	6	Europe
+42.4754	-8.55487	3	Europe
+-19.8429	-43.1577	1	South America
+34.1682	-111.931	6	North America
+51.6636	-0.810113	5	Europe
+40.0495	18.0566	5	Europe
+-30.0112	-51.3151	30	South America
+46.2	5.26857	1	Europe
+31.9295	-87.7392	1	North America
+45.3433	4.31723	11	Europe
+40.8375	-73.9386	74	North America
+10.9302	-74.8074	29	South America
+-26.8274	-48.7225	5	South America
+-29.7633	-50.0173	3	South America
+42.3049	-71.4369	2	North America
+30.7988	30.9928	1	Africa
+-19.3419	-40.1093	2	South America
+40.2005	-85.3664	3	North America
+28.5135	-99.8675	2	North America
+39.5562	-119.746	4	North America
+18.4502	-70.7356	2	North America
+27.7878	-82.3416	4	North America
+50.831	8.12265	2	Europe
+2.81338	101.496	2	Asia
+60.9716	25.689	34	Europe
+30.5665	-84.5617	2	North America
+34.7742	-96.6663	1	North America
+21.8394	-102.28	7	North America
+44.8294	37.6465	8	Europe
+49.1061	0.722818	1	Europe
+27.8155	77.3373	1	Asia
+-25.7733	-49.7135	1	South America
+46.3118	-0.439702	3	Europe
+46.9377	5.08243	1	Europe
+17.9976	-76.7969	11	North America
+52.7935	-2.90181	2	Europe
+49.6079	6.1358	2	Europe
+39.1207	-121.05	2	North America
+49.6027	34.5243	1	Europe
+43.1246	20.4996	1	Europe
+16.7105	98.555	1	Asia
+-26.4493	-49.6013	1	South America
+-33.5828	26.8875	1	Africa
+60.0874	30.3832	11	Europe
+48.6989	-1.38745	6	Europe
+-15.5912	-56.0629	5	South America
+3.33108	99.1414	2	Asia
+-32.263	-70.9526	1	South America
+50.5849	-3.46476	1	Europe
+51.104	2.64702	3	Europe
+32.2187	-101.498	1	North America
+53.6758	-1.49784	9	Europe
+39.9865	-0.0576741	10	Europe
+-26.0509	27.9207	6	Africa
+51.62	19.3657	2	Europe
+26.1508	-97.9617	4	North America
+15.4856	-86.5752	1	North America
+26.6009	-80.2057	2	North America
+22.2858	73.1649	1	Asia
+28.0316	-80.6622	6	North America
+50.55	137.01	3	Europe
+36.7449	-3.51984	1	Europe
+54.3322	40.6883	2	Europe
+53.394	-114.226	1	North America
+-27.6534	-51.0923	49	South America
+-2.52261	121.357	1	Asia
+34.1871	-79.4223	2	North America
+57.1506	65.5568	7	Europe
+33.7559	-116.405	4	North America
+55.6487	37.6327	376	Europe
+55.4316	37.5466	4	Europe
+26.2162	-97.6946	1	North America
+42.2754	-85.6211	13	North America
+32.387	-83.3439	1	North America
+42.4457	-85.2814	1	North America
+35.028	-106.735	4	North America
+51.728	8.76856	7	Europe
+39.8005	-86.1855	16	North America
+20.5971	-102.559	1	North America
+41.6322	-87.4409	7	North America
+-21.4679	-49.9524	5	South America
+52.6423	-0.625064	1	Europe
+30.4049	-88.7907	2	North America
+26.0822	43.9876	4	Asia
+40.0954	-85.6752	3	North America
+18.5297	73.8307	8	Asia
+-12.9063	-39.8659	2	South America
+56.9184	14.8549	3	Europe
+38.814	-90.6702	1	North America
+38.4576	-85.2966	1	North America
+46.1144	13.12	3	Europe
+10.2289	-67.3228	3	South America
+30.1221	-81.7624	3	North America
+40.2436	-3.5632	2	Europe
+31.6464	-8.01268	19	Africa
+21.5259	70.4499	1	Asia
+-15.5479	-47.346	2	South America
+57.2032	12.2165	1	Europe
+36.7159	-4.20523	2	Europe
+56.7972	59.9038	2	Europe
+52.2939	8.09987	1	Europe
+46.9409	5.87865	1	Europe
+6.45233	100.337	2	Asia
+52.1958	-1.48872	3	Europe
+45.5077	-73.5717	7	North America
+38.1464	-85.5805	14	North America
+13.8543	-89.7724	1	North America
+46.9393	2.52124	1	Europe
+-32.9344	28.0333	1	Africa
+-27.5718	24.1751	1	Africa
+45.2482	-75.8001	17	North America
+48.5455	7.49881	6	Europe
+-6.49044	-36.3411	1	South America
+40.4212	-85.6484	1	North America
+5.05508	100.415	12	Asia
+-24.1123	-49.322	3	South America
+-12.3487	-46.5503	1	South America
+41.4988	-81.7058	51	North America
+35.1344	-78.872	7	North America
+50.3528	-3.59143	1	Europe
+43.8636	12.933	1	Europe
+33.6049	-96.6056	1	North America
+43.0352	-76.1393	17	North America
+32.2505	-90.4249	2	North America
+35.3019	139.236	2	Asia
+-7.61947	111.535	13	Asia
+-20.3498	-41.9347	4	South America
+53.5802	-2.65716	5	Europe
+4.22171	103.42	3	Asia
+-28.0377	-48.622	1	South America
+47.4815	-0.563019	10	Europe
+-8.9356	-36.4725	12	South America
+1.04915	104.489	6	Asia
+45.0405	41.8935	8	Europe
+35.6396	-95.9583	1	North America
+49.4252	7.74889	2	Europe
+30.2837	-91.2412	1	North America
+-14.9035	-48.8973	1	South America
+38.6602	-121.066	1	North America
+13.2689	-59.6375	1	North America
+-38.0787	145.484	1	Oceania
+39.3917	2.76997	1	Europe
+34.3985	-119.75	39	North America
+35.1688	136.898	13	Asia
+45.2642	9.55621	2	Europe
+-38.9807	-72.6396	1	South America
+10.1136	123.516	1	Asia
+-3.71029	-40.3346	1	South America
+50.3982	4.15408	12	Europe
+35.5058	-120.694	1	North America
+-43.2335	-65.3078	1	South America
+33.0449	-117.254	2	North America
+-1.74911	102.839	56	Asia
+48.0126	6.58735	2	Europe
+48.2811	-54.172	1	North America
+48.6365	2.80265	5	Europe
+36.1573	-109.588	1	North America
+32.5286	-92.6343	5	North America
+-7.82972	111.17	1	Asia
+46.4346	6.9098	2	Europe
+1.10882	110.571	1	Asia
+50.0799	45.3835	1	Europe
+39.9347	-91.3754	2	North America
+-27.6614	152.919	2	Oceania
+44.6966	9.97016	1	Europe
+50.9205	5.74937	16	Europe
+14.2017	101.063	2	Asia
+38.2829	-87.1368	1	North America
+33.743	-90.7163	2	North America
+50.4865	2.66149	1	Europe
+44.105	-79.4658	4	North America
+42.114	-79.2209	1	North America
+34.7397	-86.7643	3	North America
+51.0535	3.73038	5	Europe
+44.0424	-123.073	9	North America
+29.8923	-95.6554	16	North America
+9.46776	123.21	2	Asia
+56.016	49.6687	1	Europe
+42.9674	-106.963	1	North America
+39.7393	-89.2665	16	North America
+41.2366	-8.33199	8	Europe
+-20.8802	-41.0119	2	South America
+-25.9884	28.1033	8	Africa
+-20.181	-46.5036	2	South America
+50.3867	-3.92919	1	Europe
+-7.22418	109.86	2	Asia
+30.3989	-90.1675	1	North America
+57.7303	107.396	1	Europe
+12.2216	-86.402	31	North America
+33.3507	-110.469	1	North America
+-2.1317	-79.8936	64	South America
+27.0211	49.6293	2	Asia
+-1.58622	122.252	1	Asia
+58.0225	56.1443	39	Europe
+42.7825	132.87	1	Europe
+12.1126	-86.268	35	North America
+37.6852	-121.029	11	North America
+-28.946	-49.4603	1	South America
+49.7018	4.92963	1	Europe
+-18.4532	-50.5312	1	South America
+-6.46855	108.12	2	Asia
+33.4841	-112.603	1	North America
+2.27397	111.856	4	Asia
+44.574	38.0395	5	Europe
+39.759	-75.0825	8	North America
+52.4258	37.6031	2	Europe
+32.8305	-88.4821	1	North America
+27.2307	78.0222	1	Asia
+-33.4925	-71.1941	2	South America
+-23.111	-48.9101	2	South America
+54.7515	83.0878	1	Europe
+52.1504	1.41289	33	Europe
+29.2712	-98.6855	6	North America
+-23.1036	-45.7178	6	South America
+-27.6364	-52.2459	4	South America
+46.5391	-54.6849	1	North America
+47.232	39.7725	5	Europe
+51.863	-3.00259	1	Europe
+49.3596	3.344	2	Europe
+-29.9957	-71.3347	26	South America
+2.30121	102.912	10	Asia
+8.43113	-82.429	4	North America
+52.5802	-1.78204	10	Europe
+24.4461	72.7473	1	Asia
+32.7842	-97.3705	17	North America
+38.502	-76.574	1	North America
+54.9538	73.3832	9	Europe
+49.4807	8.44123	7	Europe
+36.1323	-5.66883	3	Europe
+56.8631	53.2013	10	Europe
+54.5438	-3.54879	7	Europe
+31.1109	-89.3776	1	North America
+14.6961	-17.4671	6	Africa
+50.7028	2.12264	2	Europe
+38.1754	15.5304	4	Europe
+43.7975	4.68492	2	Europe
+44.7663	11.817	1	Europe
+4.73221	-74.3428	3	South America
+-21.1427	-50.6213	11	South America
+47.2371	38.8775	5	Europe
+45.6962	-122.665	6	North America
+53.4338	-2.62311	16	Europe
+43.8429	-79.5348	5	North America
+6.34712	-75.5668	16	South America
+-22.4758	-46.6045	4	South America
+46.1621	-1.17657	18	Europe
+22.5563	88.3763	1	Asia
+-22.5778	-50.4376	3	South America
+42.6827	-83.3101	22	North America
+35.398	33.7417	1	Europe
+42.1971	-8.77156	9	Europe
+49.2644	-84.7477	10	North America
+31.9855	-87.5928	1	North America
+41.3568	-72.9372	19	North America
+33.3494	-85.4649	1	North America
+-28.7189	-53.5192	14	South America
+53.6483	55.736	4	Europe
+52.7121	-2.71229	1	Europe
+5.55652	117.855	5	Asia
+33.5939	-85.1032	13	North America
+47.6267	19.0435	3	Europe
+45.8506	-0.0853094	1	Europe
+46.4606	-90.1786	1	North America
+29.4313	77.7082	1	Asia
+33.9628	-83.3326	5	North America
+-25.1174	152.572	1	Oceania
+48.638	22.321	12	Europe
+37.1819	28.3714	1	Asia
+-22.2295	-49.6901	1	South America
+0.364656	108.956	1	Asia
+-6.43778	105.939	9	Asia
+35.8123	-78.3885	1	North America
+32.8247	-79.9705	7	North America
+63.8277	20.5759	1	Europe
+52.9061	-4.12244	1	Europe
+47.2883	16.1935	1	Europe
+33.8107	35.8305	1	Asia
+-2.50878	-59.6012	2	South America
+14.0965	-87.2097	13	North America
+33.8082	-98.2164	1	North America
+42.9035	0.359221	1	Europe
+-1.07563	100.785	2	Asia
+5.88103	118.036	1	Asia
+27.8773	-15.4801	1	Europe
+-37.0958	-73.1514	1	South America
+43.6858	7.18229	69	Europe
+24.8746	54.9214	1	Asia
+-26.9191	-48.9518	1	South America
+52.5067	13.4246	26	Europe
+30.1577	-97.6498	14	North America
+42.4651	21.4726	1	Europe
+54.723	55.9348	7	Europe
+-19.3723	-44.7018	1	South America
+55.15	-6.68176	1	Europe
+51.1889	58.6101	4	Europe
+40.7881	-74.3291	3	North America
+26.2855	-98.2977	10	North America
+31.0589	-93.2472	3	North America
+-33.4572	-70.9681	1	South America
+32.5076	-98.1313	1	North America
+32.3976	-94.6553	1	North America
+32.5009	-86.4704	2	North America
+50.271	19.1946	4	Europe
+48.3132	14.8799	1	Europe
+52.4308	1.5575	1	Europe
+50.4168	80.2465	1	Asia
+22.7705	-103.574	1	North America
+34.2585	-6.58228	9	Africa
+34.1606	-79.7701	4	North America
+43.2482	-76.3533	5	North America
+-19.7833	-40.1376	1	South America
+41.9694	2.81379	2	Europe
+51.6909	4.28768	3	Europe
+32.4924	-94.1871	1	North America
+50.7731	0.274658	9	Europe
+10.4371	-68.5065	1	South America
+34.6992	135.492	14	Asia
+28.5875	-81.7467	2	North America
+36.0132	-79.3125	2	North America
+55.2565	37.5207	2	Europe
+41.2746	-82.8482	1	North America
+30.4158	-97.5222	3	North America
+-23.2213	-47.9645	1	South America
+10.4266	-75.5483	6	South America
+44.4978	142.34	1	Asia
+-10.2392	-48.8529	2	South America
+-6.47105	-37.4908	1	South America
+60.8658	28.3074	1	Europe
+-6.99495	-34.8307	14	South America
+35.0153	-81.9022	2	North America
+42.7087	-84.5209	19	North America
+37.3175	-120.494	8	North America
+41.2923	-72.6732	1	North America
+60.1595	25.0186	10	Europe
+17.9698	102.613	1	Asia
+54.9373	-1.61498	5	Europe
+6.54356	3.51306	4	Africa
+40.0675	-80.7709	2	North America
+33.1242	-115.513	1	North America
+33.8594	-117.568	5	North America
+3.05059	103.061	2	Asia
+20.3945	-99.9856	4	North America
+-7.04586	107.608	69	Asia
+31.4015	73.1137	4	Asia
+40.6762	14.804	1	Europe
+43.3086	-84.1496	1	North America
+34.3815	-98.8597	1	North America
+-23.9389	-51.9437	2	South America
+47.4531	21.4765	1	Europe
+16.4486	-95.3794	1	North America
+34.8337	136.589	1	Asia
+48.9991	1.10086	8	Europe
+43.0665	-77.4595	5	North America
+41.6961	-71.5029	5	North America
+47.1305	2.14947	3	Europe
+-30.2041	-50.8677	3	South America
+40.1608	-74.0185	4	North America
+-33.6792	151.302	1	Oceania
+33.5905	-86.1741	1	North America
+45.4819	-75.7037	3	North America
+40.9562	-72.9424	2	North America
+4.24884	117.907	18	Asia
+51.4605	-2.20448	1	Europe
+45.552	-73.7359	41	North America
+35.5467	-98.6854	1	North America
+-5.569	-50.0651	2	South America
+13.0989	-59.5815	2	North America
+40.9471	-72.6707	3	North America
+35.9581	-79.9704	5	North America
+51.5051	4.2956	15	Europe
+53.2626	-9.12843	3	Europe
+-23.4254	-46.0575	11	South America
+45.4477	6.97758	1	Europe
+37.2968	-121.817	65	North America
+34.4465	-79.2741	2	North America
+15.8816	74.5162	1	Asia
+2.44928	103.035	1	Asia
+51.1665	6.00654	13	Europe
+46.2048	6.14314	46	Europe
+21.2921	-89.6194	1	North America
+17.6237	-94.3846	3	North America
+21.3841	-100.218	1	North America
+40.0457	-75.1353	194	North America
+55.8469	13.4095	1	Europe
+-6.33977	107.664	6	Asia
+41.8686	-80.1317	1	North America
+31.2601	-86.2585	2	North America
+55.6168	51.8704	5	Europe
+34.6176	-98.43	4	North America
+51.171	7.07062	2	Europe
+33.2952	-111.886	7	North America
+40.7972	-3.62324	1	Europe
+-25.2665	-49.6143	1	South America
+36.1861	-119.325	1	North America
+-53.1339	-70.9048	5	South America
+17.7233	-64.775	4	North America
+45.5432	-122.655	21	North America
+36.863	31.0535	2	Asia
+43.5231	-80.2729	1	North America
+44.9195	11.6033	2	Europe
+55.8958	26.5374	1	Europe
+36.2896	-93.5781	1	North America
+23.0	72.5966	1	Asia
+58.0394	60.5549	2	Europe
+-7.00267	-43.1151	1	South America
+39.8795	-82.7543	2	North America
+-15.5698	-49.9311	2	South America
+38.9189	-92.3104	5	North America
+9.60491	-69.2014	1	South America
+-9.99629	39.7114	1	Africa
+-22.6131	-45.1754	1	South America
+40.5692	-80.0135	7	North America
+37.0288	35.2667	12	Asia
+53.644	55.9553	4	Europe
+28.4723	-80.8342	1	North America
+34.1495	-109.973	1	North America
+42.5441	1.7326	2	Europe
+42.9664	-73.3474	1	North America
+52.2208	-0.0729421	2	Europe
+52.3188	6.90207	30	Europe
+52.8763	18.7003	2	Europe
+50.8129	6.47822	1	Europe
+46.6694	7.05896	1	Europe
+34.4825	136.343	1	Asia
+24.7914	46.7666	7	Asia
+40.2168	44.583	2	Asia
+40.9307	-74.1439	46	North America
+37.9003	-76.4056	1	North America
+41.9327	8.70883	1	Europe
+38.1593	-79.0629	3	North America
+51.63	6.23951	1	Europe
+-23.3921	-46.4539	114	South America
+-23.9174	29.4554	1	Africa
+43.9983	-103.386	2	North America
+20.9208	-101.787	1	North America
+33.9113	-6.97042	10	Africa
+19.4674	-70.6322	8	North America
+-6.9727	110.061	1	Asia
+51.6895	0.030334	14	Europe
+-3.6911	128.188	1	Asia
+51.5056	5.03394	1	Europe
+-2.97932	104.738	51	Asia
+6.36145	5.66619	2	Africa
+4.1799	-74.423	1	South America
+41.3654	-88.8394	1	North America
+47.2779	7.3731	2	Europe
+7.2318	3.43482	1	Africa
+-27.4315	-48.7294	5	South America
+-36.5933	-72.0864	8	South America
+31.3238	-109.535	1	North America
+5.08592	115.558	1	Asia
+51.3732	5.32744	2	Europe
+3.47472	-76.5198	27	South America
+-21.7783	-51.1702	8	South America
+53.37	-2.76734	7	Europe
+48.0794	-121.971	1	North America
+-6.29497	106.964	405	Asia
+48.9581	2.96619	16	Europe
+6.49569	116.76	1	Asia
+-23.5325	-47.465	44	South America
+36.6907	-5.88062	3	Europe
+34.7292	137.635	6	Asia
+20.6767	-103.337	26	North America
+50.7175	-113.982	1	North America
+54.8789	-2.90657	13	Europe
+4.00952	101.022	2	Asia
+47.2611	39.628	40	Europe
+35.7967	-80.8684	1	North America
+16.4118	120.597	1	Asia
+43.1534	-8.48066	6	Europe
+7.16471	80.5766	1	Asia
+45.9207	6.7068	1	Europe
+-30.4164	-53.6701	9	South America
+53.4301	14.6255	8	Europe
+61.4589	-149.357	1	North America
+33.2923	-93.236	1	North America
+57.6508	39.8704	3	Europe
+-21.2573	-48.5654	1	South America
+6.45989	3.20375	3	Africa
+-29.8298	30.8226	1	Africa
+32.0963	-106.193	2	North America
+41.2119	-80.4841	1	North America
+32.1594	-110.937	17	North America
+30.2693	-89.7947	3	North America
+35.6051	-77.3773	3	North America
+36.0578	-118.97	6	North America
+-20.9392	-48.5262	1	South America
+5.78438	102.554	5	Asia
+-23.2839	-47.6766	4	South America
+52.95	-8.96685	1	Europe
+-3.45706	119.029	1	Asia
+48.0194	2.73777	1	Europe
+39.801	-8.79559	4	Europe
+51.3445	0.709998	1	Europe
+37.4201	-94.7048	1	North America
+42.6465	-84.0766	1	North America
+59.2405	10.3885	1	Europe
+-26.7559	-53.1977	2	South America
+7.70541	8.53413	6	Africa
+66.6685	66.3855	1	Europe
+-6.77024	-36.9929	1	South America
+52.3381	35.3655	1	Europe
+-21.5588	-51.596	3	South America
+44.7887	-0.89378	1	Europe
+33.0942	-89.0359	1	North America
+54.4611	17.0282	2	Europe
+14.7693	-88.7776	4	North America
+56.6702	54.3689	1	Europe
+-29.753	-53.8242	19	South America
+51.6364	-3.94913	9	Europe
+49.0118	2.03587	86	Europe
+31.5904	-106.382	4	North America
+41.7654	-75.7989	1	North America
+39.9116	-80.64	2	North America
+34.6809	135.163	3	Asia
+-23.8107	-47.1875	5	South America
+30.0941	-94.1028	2	North America
+42.3145	-72.641	2	North America
+36.6866	-121.609	4	North America
+33.5648	35.379	2	Asia
+-5.1356	-38.0204	5	South America
+49.1859	-0.501982	5	Europe
+26.8561	75.6088	1	Asia
+-2.81062	112.516	1	Asia
+-21.4781	-49.2918	3	South America
+43.6993	6.85148	1	Europe
+45.136	-122.858	2	North America
+37.268	-83.0462	1	North America
+41.5822	-93.6274	6	North America
+-23.086	-45.5067	51	South America
+-21.1735	-49.5722	1	South America
+13.9426	121.152	1	Asia
+37.0606	-76.4426	8	North America
+52.2561	18.2626	1	Europe
+-21.2385	-44.2815	8	South America
+29.7628	-94.6546	1	North America
+32.4799	-80.6475	4	North America
+-22.7106	-47.7943	39	South America
+38.5305	-8.86894	37	Europe
+32.3288	-111.045	2	North America
+42.6396	-8.5571	2	Europe
+47.3959	-2.51222	1	Europe
+37.9532	-91.7625	1	North America
+-25.0607	-53.398	7	South America
+51.4586	-0.968786	37	Europe
+13.6175	100.755	1	Asia
+49.4808	2.9541	5	Europe
+7.69168	-72.3563	1	South America
+16.959	-99.7356	7	North America
+51.1064	-113.926	1	North America
+52.6984	0.353306	3	Europe
+48.4824	-108.756	1	North America
+39.6525	-78.7636	1	North America
+3.56306	101.568	5	Asia
+43.8166	6.64955	1	Europe
+45.6059	5.02599	5	Europe
+39.1783	-85.575	2	North America
+34.3104	134.044	1	Asia
+-4.56298	136.9	1	Asia
+48.8292	44.7576	2	Europe
+41.6412	-106.304	1	North America
+35.9111	139.958	2	Asia
+33.4929	36.2476	1	Asia
+24.3906	54.4964	1	Asia
+35.4196	-97.4632	8	North America
+-2.42022	-54.7105	4	South America
+7.88847	-67.478	2	South America
+52.1097	-106.646	1	North America
+51.5265	45.9785	19	Europe
+34.4066	-89.5332	2	North America
+47.2755	-1.42669	27	Europe
+51.6323	4.85779	13	Europe
+54.3021	10.1639	1	Europe
+6.09256	116.158	12	Asia
+-21.2365	-45.2342	1	South America
+32.3111	-90.1888	17	North America
+4.64713	101.203	105	Asia
+42.7714	-8.93907	5	Europe
+35.1595	-98.4425	1	North America
+44.5627	6.48509	1	Europe
+42.2995	-71.2785	1	North America
+16.0439	120.486	1	Asia
+47.4254	20.8631	1	Europe
+-23.5414	-46.8008	225	South America
+-14.2393	-53.1848	119	South America
+39.7643	-104.855	35	North America
+-22.1868	-49.9589	15	South America
+34.9734	-79.2357	2	North America
+50.733	2.67367	2	Europe
+53.2218	7.06552	5	Europe
+-8.23213	-35.4655	1	South America
+32.4437	-81.7724	4	North America
+-20.1737	28.5375	1	Africa
+52.1964	9.60888	1	Europe
+18.3963	-77.37	1	North America
+34.1662	-106.026	3	North America
+-25.4951	-49.2884	302	South America
+50.9138	-1.40057	11	Europe
+-20.5252	-45.5419	1	South America
+51.3258	-0.109598	9	Europe
+34.2242	-80.922	2	North America
+37.0336	-7.83707	2	Europe
+53.706	-1.69504	18	Europe
+31.7897	-115.229	2	North America
+43.0841	-89.4064	5	North America
+71.9733	102.49	1	Europe
+52.5412	6.05007	4	Europe
+46.5365	19.2669	1	Europe
+1.56176	110.32	16	Asia
+-28.0399	-49.6081	1	South America
+9.04788	7.51124	27	Africa
+-14.8821	-40.5663	6	South America
+37.7033	-121.744	2	North America
+51.8311	12.2421	1	Europe
+42.2256	-83.2686	4	North America
+-13.8442	-171.79	1	Oceania
+58.0811	7.76356	1	Europe
+-20.0322	-44.4428	1	South America
+41.3879	1.66883	2	Europe
+48.6934	5.84202	1	Europe
+53.459	6.62288	11	Europe
+54.112	102.175	1	Europe
+25.0693	121.403	4	Asia
+36.2179	-81.728	2	North America
+39.5422	-87.2171	2	North America
+40.7729	-73.2625	9	North America
+-7.30862	110.188	11	Asia
+52.3271	5.96779	6	Europe
+-6.35024	106.262	1	Asia
+46.8359	7.65833	2	Europe
+35.8434	139.777	6	Asia
+28.6123	-17.9072	1	Europe
+-22.4012	-49.4018	3	South America
+37.2879	-79.954	1	North America
+54.4001	38.1979	1	Europe
+42.0343	-88.2747	2	North America
+38.7394	35.551	1	Asia
+49.6417	-1.62315	1	Europe
+51.6723	-3.19907	1	Europe
+49.1174	-1.09734	1	Europe
+-5.99643	106.009	10	Asia
+53.7916	-78.9001	1	North America
+-6.89416	-35.456	1	South America
+42.0645	13.2471	2	Europe
+25.8931	-80.1657	73	North America
+34.6273	-118.223	32	North America
+46.5847	0.371571	26	Europe
+4.39977	115.232	6	Asia
+2.71563	101.953	71	Asia
+50.4074	36.9101	1	Europe
+42.4958	-82.8919	7	North America
+4.32734	102.026	1	Asia
+36.5934	-119.424	7	North America
+50.7782	5.97428	56	Europe
+-6.27308	106.121	1	Asia
+51.8142	143.153	2	Europe
+52.4143	-1.5192	17	Europe
+52.0054	5.89657	7	Europe
+55.8212	-3.10763	3	Europe
+-4.83533	-38.1518	2	South America
+44.5577	-123.319	3	North America
+8.00615	4.68569	1	Africa
+-6.30174	107.116	42	Asia
+30.7545	-81.5897	3	North America
+43.4359	-83.9137	8	North America
+48.4084	-4.49955	5	Europe
+40.0079	-79.0565	1	North America
+36.5169	139.001	1	Asia
+4.11115	101.29	8	Asia
+-22.4209	-43.917	10	South America
+-38.7388	-72.6068	2	South America
+54.7411	33.0742	2	Europe
+-27.6097	-48.4789	22	South America
+-21.1302	-48.955	5	South America
+50.6472	11.9759	3	Europe
+-6.83316	108.218	2	Asia
+51.9417	-7.99206	1	Europe
+43.6452	10.6388	2	Europe
+51.4546	46.1045	1	Europe
+35.5246	-109.861	1	North America
+47.5388	-52.7499	6	North America
+35.1847	-85.2544	1	North America
+29.6513	-82.4219	2	North America
+18.4147	-70.1126	4	North America
+33.2746	-86.8236	3	North America
+-6.28588	107.363	131	Asia
+2.90703	113.337	1	Asia
+47.9887	7.86822	1	Europe
+-21.4283	-65.718	1	South America
+31.0177	-95.3239	1	North America
+19.6843	-99.2263	23	North America
+10.7584	106.656	8	Asia
+30.0193	31.4996	1	Africa
+37.9622	-87.3738	3	North America
+-7.04882	107.129	7	Asia
+35.2526	-89.9496	1	North America
+45.958	12.3127	3	Europe
+31.9548	35.8534	8	Asia
+-22.7334	-47.6258	5	South America
+46.2216	39.8313	1	Europe
+-1.64378	105.788	1	Asia
+40.697	-73.3973	1	North America
+-17.1089	-46.872	1	South America
+6.78494	125.214	1	Asia
+-5.05246	-42.7776	3	South America
+48.6617	9.00354	6	Europe
+7.03604	124.317	1	Asia
+33.5701	-7.63608	34	Africa
+42.5939	-75.7332	1	North America
+35.4463	-79.0799	2	North America
+47.6965	13.1075	3	Europe
+29.6934	-91.2732	2	North America
+-4.83749	105.461	1	Asia
+42.4931	-83.3706	9	North America
+37.631	-122.491	5	North America
+55.9061	23.3285	1	Europe
+45.9128	10.0667	1	Europe
+53.8327	-2.20795	3	Europe
+44.7586	-93.2462	2	North America
+36.5965	31.8207	1	Asia
+4.52468	103.456	2	Asia
+54.661	39.7144	12	Europe
+39.39	-74.3908	3	North America
+39.6468	27.8959	3	Asia
+38.9386	-0.12088	2	Europe
+5.95004	116.661	1	Asia
+-25.3706	-51.5523	2	South America
+38.808	-90.8526	1	North America
+42.4406	-79.3316	2	North America
+51.1689	7.65501	3	Europe
+30.0375	31.0144	8	Africa
+51.5113	6.84378	2	Europe
+51.1696	71.4049	2	Asia
+42.3162	-82.9105	1	North America
+52.4975	-0.638508	2	Europe
+44.0562	10.0217	1	Europe
+54.2633	9.59957	2	Europe
+41.7004	-88.1682	5	North America
+41.0315	-73.5639	2	North America
+51.2741	12.0594	1	Europe
+11.4229	-69.6697	5	South America
+41.145	-81.3585	17	North America
+41.1042	16.9019	2	Europe
+36.6458	-79.8489	1	North America
+-20.1646	-43.9547	4	South America
+-29.3292	-49.8051	5	South America
+8.41948	124.812	1	Asia
+47.9981	-4.09773	4	Europe
+56.0897	12.7645	2	Europe
+-33.9017	151.042	3	Oceania
+50.8542	20.6156	1	Europe
+-33.8059	18.5021	2	Africa
+60.4899	16.5702	3	Europe
+56.4963	-2.73314	1	Europe
+52.2333	9.85198	1	Europe
+43.6241	-116.261	2	North America
+44.4446	6.28642	1	Europe
+20.1174	-98.748	15	North America
+30.5072	114.304	1	Asia
+45.1943	0.711136	9	Europe
+50.1212	8.63661	10	Europe
+45.6913	-0.678221	1	Europe
+63.41	10.366	3	Europe
+42.0369	-71.6835	1	North America
+0.50129	9.40525	2	Africa
+45.1602	11.2106	1	Europe
+29.687	-95.2545	18	North America
+52.1794	5.90278	13	Europe
+41.9778	-72.7124	1	North America
+43.9564	-78.2002	1	North America
+36.8637	10.2144	2	Africa
+37.9734	-121.999	6	North America
+13.7154	-89.7289	1	North America
+-5.05143	119.557	7	Asia
+-19.9785	-43.782	6	South America
+33.6252	130.586	1	Asia
+53.452	5.76367	1	Europe
+41.1621	29.0247	12	Asia
+13.947	120.727	1	Asia
+40.5646	-74.1468	2	North America
+46.1099	5.9762	1	Europe
+52.7597	7.20285	2	Europe
+21.0195	-89.8702	1	North America
+56.1459	8.81087	4	Europe
+52.1888	-0.454751	6	Europe
+39.7695	-105.081	5	North America
+30.0659	-95.405	7	North America
+33.1402	-92.0284	2	North America
+52.4046	-4.00698	2	Europe
+39.9566	0.263707	3	Europe
+34.9407	-78.2998	2	North America
+50.9502	-2.51655	2	Europe
+38.6302	-3.47079	1	Europe
+55.7518	37.8149	15	Europe
+33.1735	-96.9695	1	North America
+61.0527	28.3162	2	Europe
+-5.37622	105.241	34	Asia
+34.1454	71.0663	1	Asia
+33.7897	-83.7036	1	North America
+60.5966	24.8374	3	Europe
+22.8259	-100.317	1	North America
+-26.225	27.6938	1	Africa
+34.2156	-86.1637	2	North America
+42.9069	-8.51115	5	Europe
+52.5598	-0.251757	4	Europe
+-8.20924	-36.7124	1	South America
+35.1705	-79.861	16	North America
+41.2372	1.71072	2	Europe
+48.7202	6.02848	3	Europe
+45.7821	-64.8824	2	North America
+-25.4539	-54.4571	4	South America
+33.2316	-95.9069	1	North America
+33.439	-104.523	3	North America
+37.106	27.2817	8	Asia
+-8.12142	113.146	2	Asia
+-23.5594	-46.1857	37	South America
+43.1767	-77.6626	15	North America
+39.4622	-77.9679	2	North America
+43.2669	132.066	1	Europe
+-21.21	-48.2936	2	South America
+51.3672	0.0412295	22	Europe
+34.063	-80.9647	34	North America
+1.50756	103.776	145	Asia
+23.5319	89.1722	4	Asia
+50.0276	8.44574	2	Europe
+19.1995	-69.3305	1	North America
+39.11	-9.27398	3	Europe
+39.1693	-121.975	1	North America
+-15.8058	35.0273	2	Africa
+9.08506	-79.3865	3	North America
+-30.9286	-51.8289	8	South America
+7.05427	80.0052	1	Asia
+42.614	-83.4484	2	North America
+51.6214	5.84831	2	Europe
+-6.16896	106.827	1502	Asia
+33.9131	-118.233	42	North America
+52.4472	5.21763	2	Europe
+0.164371	32.5291	2	Africa
+33.855	-84.5158	41	North America
+42.8958	-88.8739	2	North America
+-22.959	-49.8674	4	South America
+9.29247	-70.621	1	South America
+38.9128	-6.33046	1	Europe
+50.6125	-3.65302	12	Europe
+13.7768	121.065	3	Asia
+-27.0924	-52.6158	2	South America
+52.5468	5.5366	4	Europe
+38.4199	140.32	3	Asia
+33.9473	-90.7604	4	North America
+33.5896	130.405	3	Asia
+13.3462	74.7965	2	Asia
+59.4397	24.7369	4	Europe
+47.9358	7.62519	1	Europe
+-15.5585	-56.2538	2	South America
+30.2036	-85.6033	27	North America
+40.6892	-7.92529	1	Europe
+5.08243	103.02	2	Asia
+37.6101	-75.8096	1	North America
+43.5784	39.727	3	Europe
+28.5884	-81.49	5	North America
+49.3179	-88.1366	1	North America
+38.2109	-3.51132	1	Europe
+40.1116	-88.2381	3	North America
+59.3942	18.6174	7	Europe
+38.0307	-77.5686	1	North America
+33.8313	-109.973	1	North America
+38.7562	-89.096	1	North America
+51.0963	4.22837	3	Europe
+53.1519	0.34227	4	Europe
+23.1873	-102.875	1	North America
+60.3592	5.42348	4	Europe
+41.4738	-74.0284	11	North America
+48.4561	135.099	12	Europe
+53.6811	91.3755	1	Europe
+50.6294	-2.46326	2	Europe
+-7.00919	-38.9522	2	South America
+43.5084	-5.69194	1	Europe
+-27.2348	153.115	3	Oceania
+4.17777	73.5092	18	NULL
+8.25696	98.3055	2	Asia
+46.81	7.17175	1	Europe
+10.228	-67.4696	1	South America
+-24.2832	-47.0136	9	South America
+39.2513	-8.69262	3	Europe
+34.7547	-79.4782	2	North America
+36.7835	34.5923	20	Asia
+-33.3353	26.4735	1	Africa
+43.513	3.41615	7	Europe
+39.9674	-85.8915	4	North America
+49.4317	2.80507	4	Europe
+47.1425	6.19758	1	Europe
+20.9533	-101.279	3	North America
+18.0402	-63.0629	1	North America
+46.1958	20.0014	2	Europe
+5.40243	100.695	2	Asia
+52.7438	4.89545	4	Europe
+-27.8411	-54.5215	4	South America
+54.9818	-3.25189	1	Europe
+43.4485	6.44426	4	Europe
+55.5803	13.0207	4	Europe
+39.1249	-121.613	1	North America
+-9.31811	-48.2191	1	South America
+29.85	-90.055	13	North America
+3.10189	101.64	1398	Asia
+34.8971	-118.241	2	North America
+32.2488	-109.838	3	North America
+-26.17	28.4035	2	Africa
+43.091	46.8513	1	Europe
+50.2584	127.53	1	Europe
+39.4028	-80.1808	2	North America
+-19.6085	-46.9401	1	South America
+41.968	-71.1833	3	North America
+58.9433	11.199	1	Europe
+39.1026	-76.8845	21	North America
+54.7006	-8.61897	1	Europe
+-23.7071	-53.4119	5	South America
+-35.1008	-71.3241	2	South America
+33.3581	-84.8278	1	North America
+43.3997	10.8917	1	Europe
+-19.4455	-42.6011	14	South America
+32.1503	-94.355	2	North America
+-32.7174	151.539	1	Oceania
+42.5092	-7.58527	1	Europe
+56.7685	24.9914	3	Europe
+-7.66447	-36.9094	4	South America
+61.7302	17.1388	2	Europe
+43.4491	5.86041	4	Europe
+3.95596	96.645	1	Asia
+64.829	-147.669	4	North America
+56.4376	60.1054	1	Europe
+47.0605	-0.796841	1	Europe
+42.6217	-87.8793	12	North America
+50.786	16.2979	4	Europe
+46.8032	-92.1593	3	North America
+43.2998	-100.661	1	North America
+50.6846	16.6244	1	Europe
+46.3651	6.47418	3	Europe
+10.1605	-61.6798	24	North America
+2.83962	101.748	50	Asia
+54.0277	28.0961	1	Europe
+35.7237	-95.4027	1	North America
+54.3179	48.4689	6	Europe
+-15.8192	-42.0931	1	South America
+43.4266	6.76665	15	Europe
+-7.14022	-35.4489	1	South America
+19.4685	-98.7874	6	North America
+41.2412	-77.0387	2	North America
+-4.31438	15.2738	8	Africa
+44.6272	-123.09	1	North America
+34.3999	-117.373	7	North America
+14.8342	120.259	1	Asia
+33.2869	-87.452	3	North America
+56.6443	23.7117	1	Europe
+42.6996	-71.1623	18	North America
+40.0328	-75.5151	11	North America
+3.78062	101.447	4	Asia
+32.6857	-115.504	2	North America
+-25.3438	-49.2299	22	South America
+45.0333	-93.0479	1	North America
+32.3438	-86.246	11	North America
+19.6014	-90.3361	16	North America
+59.1984	10.8246	1	Europe
+45.5762	-0.559864	1	Europe
+-28.2483	-49.1723	2	South America
+26.0535	50.5575	1	Asia
+40.628	-8.63966	7	Europe
+33.973	-118.432	28	North America
+-3.76441	-49.67	4	South America
+10.8215	123.494	2	Asia
+1.37733	99.2703	2	Asia
+-23.8633	-46.2901	188	South America
+42.0794	-72.5304	9	North America
+-34.9023	-57.9709	1	South America
+-30.3884	-56.4527	1	South America
+1.39258	124.682	1	Asia
+-41.4483	147.139	1	Oceania
+2.6767	102.683	1	Asia
+51.0026	-0.385167	1	Europe
+-7.11317	109.013	1	Asia
+-7.0575	113.26	1	Asia
+58.2181	12.3573	1	Europe
+4.37952	103.328	1	Asia
+39.4806	-8.69043	2	Europe
+45.5906	9.75364	4	Europe
+61.1937	-149.855	3	North America
+44.0645	3.92486	1	Europe
+-24.07	-46.6726	1	South America
+53.0034	-92.8023	1	North America
+15.8217	-96.2114	1	North America
+4.88741	100.722	2	Asia
+28.4961	77.0937	4	Asia
+33.9391	-90.9491	4	North America
+5.49858	-54.024	2	South America
+34.9286	-89.7966	3	North America
+47.9306	-2.80003	1	Europe
+30.8395	-83.9936	2	North America
+44.3692	9.31641	6	Europe
+42.4564	-75.0661	2	North America
+59.8234	30.4234	2	Europe
+48.5402	2.63017	59	Europe
+47.9527	-124.386	1	North America
+39.0957	-96.8031	1	North America
+36.6834	27.9778	2	Asia
+39.729	-121.846	4	North America
+-1.27293	-48.4598	215	South America
+-2.05124	-60.0173	2	South America
+55.6605	11.6044	1	Europe
+43.7807	11.2448	1	Europe
+-37.8975	145.162	5	Oceania
+-33.0379	-71.4102	1	South America
+35.475	-77.2601	3	North America
+12.8303	80.0455	1	Asia
+18.3126	-66.0462	30	North America
+38.4567	-84.5741	1	North America
+36.8757	-87.4748	1	North America
+50.8612	5.57287	25	Europe
+48.4848	29.5928	1	Europe
+49.1526	0.569941	1	Europe
+46.3704	17.8163	1	Europe
+48.4519	-89.1973	2	North America
+42.4772	-77.4984	1	North America
+56.3385	9.88076	2	Europe
+53.224	-4.1358	2	Europe
+33.7258	73.0441	1	Asia
+-10.8316	-63.2903	1	South America
+46.0897	6.53621	1	Europe
+42.1081	-7.73296	1	Europe
+39.4482	-0.774459	2	Europe
+49.0023	0.142091	1	Europe
+31.8293	-81.6005	1	North America
+31.8234	-106.456	38	North America
+50.5977	36.5848	4	Europe
+52.9765	6.04419	11	Europe
+41.5405	-8.41078	3	Europe
+44.2263	8.7832	2	Europe
+37.0475	37.3315	1	Asia
+48.5945	1.68572	1	Europe
+40.3617	-74.9571	2	North America
+-43.0348	-73.5346	7	South America
+-7.31276	110.456	17	Asia
+44.0349	-92.6532	1	North America
+40.3199	-3.89323	16	Europe
+51.4659	5.70571	76	Europe
+37.5724	43.7418	1	Asia
+29.0385	-80.9005	3	North America
+31.7579	-106.279	23	North America
+32.3227	-89.1516	1	North America
+56.5103	9.33047	7	Europe
+39.4399	-8.14751	2	Europe
+52.7192	12.6711	2	Europe
+46.6273	3.73657	1	Europe
+36.1292	-111.244	4	North America
+36.1905	-119.824	2	North America
+44.851	0.483706	1	Europe
+47.7931	7.17557	2	Europe
+38.5741	-121.267	5	North America
+2.93994	102.071	1	Asia
+46.2704	-119.352	2	North America
+27.9392	-82.5005	14	North America
+36.6633	-76.8059	1	North America
+54.2721	-2.79158	5	Europe
+42.5812	-71.7975	2	North America
+38.0847	23.8134	1	Europe
+53.6323	-2.16741	41	Europe
+-22.8871	-45.4893	5	South America
+40.0396	-83.9073	1	North America
+52.5511	5.90541	8	Europe
+-6.81149	-35.2573	1	South America
+20.6735	-101.34	2	North America
+-10.4832	-37.0385	7	South America
+35.8854	-90.1632	1	North America
+-33.3682	-70.5003	26	South America
+38.733	-82.9908	2	North America
+43.88	39.499	4	Europe
+7.85149	-72.4718	1	South America
+42.9501	-81.3672	6	North America
+42.2435	-96.4709	1	North America
+-21.1949	-41.9027	1	South America
+-12.461	-39.6229	5	South America
+40.9948	39.6761	6	Asia
+19.1995	-99.2084	68	North America
+45.3227	-75.6672	1	North America
+34.4009	-118.078	2	North America
+47.7947	19.1306	1	Europe
+-29.6926	-54.8034	1	South America
+38.9854	-76.575	9	North America
+18.561	-70.0832	2	North America
+-22.1761	-47.3406	1	South America
+33.5413	-111.87	10	North America
+34.1091	-118.262	526	North America
+34.1406	-117.284	22	North America
+39.7071	-81.5094	1	North America
+39.1874	-96.5704	5	North America
+2.78473	102.233	12	Asia
+39.862	-84.3055	12	North America
+-20.3359	-48.3961	5	South America
+60.2084	14.6944	1	Europe
+36.8338	-76.0707	7	North America
+10.2104	-71.3142	1	South America
+-7.40046	109.443	1	Asia
+40.3919	-3.48637	17	Europe
+52.573	-1.547	28	Europe
+17.9641	-94.7183	1	North America
+-20.2351	-45.5266	1	South America
+0.0	0.0	306	NULL
+35.6825	-105.982	2	North America
+-7.46242	112.587	17	Asia
+38.793	26.962	1	Asia
+-6.99531	107.818	17	Asia
+24.9643	121.54	1	Asia
+55.1254	73.3788	22	Europe
+8.23505	122.998	1	Asia
+57.7686	40.942	3	Europe
+51.4405	-0.306996	63	Europe
+30.5661	-100.638	1	North America
+38.6822	26.7458	1	Asia
+-12.8753	-38.5026	122	South America
+-6.58071	110.673	2	Asia
+0.830617	-77.6782	1	South America
+-20.2601	-43.7964	1	South America
+37.0525	30.623	1	Asia
+-17.7908	-63.1868	5	South America
+33.9212	-117.192	14	North America
+35.0749	137.115	2	Asia
+11.9338	-85.9584	40	North America
+43.3752	-4.49817	1	Europe
+-13.434	-38.9034	1	South America
+-34.8712	-56.2019	1	South America
+42.423	25.62	1	Europe
+38.502	-117.023	8	North America
+18.4231	-91.4346	1	North America
+52.7529	6.95947	6	Europe
+50.6711	-1.32759	1	Europe
+-25.3102	-52.3928	1	South America
+34.0203	-6.83744	19	Africa
+-34.1642	19.0077	1	Africa
+50.652	-4.03372	8	Europe
+41.5408	-87.6118	37	North America
+-14.8538	-40.8534	1	South America
+6.70555	3.34009	14	Africa
+47.2968	11.5687	1	Europe
+42.0662	-83.2475	3	North America
+35.9223	-79.0943	8	North America
+48.4547	1.45683	11	Europe
+35.0125	134.996	5	Asia
+57.5931	25.4597	1	Europe
+-20.6733	-70.1796	1	South America
+20.8692	-100.423	1	North America
+-23.578	-45.2733	1	South America
+49.4973	-119.578	1	North America
+-23.5329	-47.2531	3	South America
+47.1257	17.9073	1	Europe
+30.4171	-84.2786	38	North America
+33.8308	-5.48799	1	NULL
+33.6887	-116.202	15	North America
+-32.9044	-60.6824	1	South America
+45.0011	-86.2707	12	North America
+45.3794	6.00529	2	Europe
+-2.73093	114.27	2	Asia
+42.9272	-72.2808	1	North America
+45.0721	7.60112	33	Europe
+48.341	39.9838	7	Europe
+-5.49304	-38.721	1	South America
+-6.32444	-35.5184	2	South America
+7.09165	-73.1118	4	South America
+52.2603	-113.769	4	North America
+-1.44517	-48.6382	6	South America
+42.2791	-83.7497	3	North America
+40.927	14.4234	2	Europe
+38.5711	-82.6276	1	North America
+50.9404	0.366004	1	Europe
+-4.0302	122.58	1	Asia
+43.2667	1.13645	1	Europe
+-6.71136	-36.6148	5	South America
+48.1106	5.14245	1	Europe
+31.1263	-97.7293	3	North America
+44.0606	-75.7835	1	North America
+-34.9744	-71.2202	15	South America
+17.2793	-99.4995	1	North America
+36.1337	-5.35317	4	Europe
+-21.2134	-47.818	73	South America
+46.9376	20.1176	1	Europe
+-23.932	-48.0101	3	South America
+34.1473	-88.6204	2	North America
+44.6124	-64.1277	1	North America
+47.0866	-104.724	2	North America
+-4.11959	-44.7775	3	South America
+53.3529	-6.38058	83	Europe
+36.0747	-86.9706	1	North America
+39.4666	-95.746	2	North America
+29.1779	-95.447	1	North America
+39.5849	-77.0368	1	North America
+22.7512	75.8908	2	Asia
+52.3802	6.13264	34	Europe
+58.6415	15.0949	2	Europe
+-1.09706	37.0145	10	Africa
+28.1475	-81.4632	3	North America
+51.3587	5.56415	6	Europe
+51.7689	4.95133	13	Europe
+34.4717	-117.241	4	North America
+-29.081	-49.6543	2	South America
+51.3075	-0.555468	9	Europe
+18.0828	-67.0463	2	North America
+46.3234	9.93979	1	Europe
+49.0207	6.76573	4	Europe
+49.5376	-97.6573	1	North America
+26.1322	-80.2963	11	North America
+37.7586	-121.954	2	North America
+41.6136	21.7433	23	Europe
+32.778	-96.5863	7	North America
+34.4494	-88.6632	2	North America
+10.6149	122.97	9	Asia
+61.4966	23.8761	1	Europe
+49.4757	7.59066	2	Europe
+52.2947	-4.18585	2	Europe
+39.9522	-4.85221	3	Europe
+41.4103	-75.6608	5	North America
+56.4073	24.2	1	Europe
+35.602	-119.347	1	North America
+-19.9187	-43.9598	342	South America
+-22.6677	-48.8123	2	South America
+-28.2925	-50.0476	1	South America
+34.7291	-82.2591	2	North America
+43.2195	76.676	2	Asia
+55.5715	38.2275	6	Europe
+49.2628	2.13586	2	Europe
+-15.7182	-43.4193	1	South America
+35.351	24.3388	1	Europe
+39.9495	32.8339	15	Asia
+48.9609	5.08433	1	Europe
+4.48198	97.9703	1	Asia
+1.64526	103.594	23	Asia
+35.9399	14.4551	3	Europe
+40.7098	-83.8448	1	North America
+51.9114	5.40638	19	Europe
+51.1272	16.9913	24	Europe
+34.7519	-92.1312	1	North America
+46.9488	7.43975	1	Europe
+56.0292	14.1707	1	Europe
+-0.82531	117.249	2	Asia
+35.0197	-79.0009	26	North America
+43.3305	-83.737	1	North America
+38.7622	-93.7255	3	North America
+37.0846	-113.562	1	North America
+-24.151	-49.8179	1	South America
+5.17193	103.166	7	Asia
+56.841	60.5881	98	Europe
+59.4743	32.0514	2	Europe
+53.0393	-7.31276	1	Europe
+-3.78965	-38.5199	129	South America
+55.8832	12.4797	3	Europe
+32.5953	-114.716	1	North America
+38.396	27.0666	18	Asia
+51.2587	-1.21749	7	Europe
+-21.4064	-45.4872	4	South America
+10.4838	-66.5339	3	South America
+42.7165	10.9881	1	Europe
+-4.60253	-38.9478	1	South America
+43.8783	-76.0037	1	North America
+43.1168	-79.3299	7	North America
+-3.13007	-58.433	5	South America
+51.495	3.51798	5	Europe
+2.51012	102.829	5	Asia
+20.0567	-99.3846	2	North America
+30.8055	-92.6625	1	North America
+-22.5806	-45.8213	6	South America
+50.7261	-3.53657	1	Europe
+34.6233	-85.8479	1	North America
+39.649	-107.005	1	North America
+-22.985	-47.5033	4	South America
+41.7306	-7.40674	1	Europe
+-8.28715	-46.3713	5	South America
+51.6115	7.54972	7	Europe
+61.0395	24.5126	2	Europe
+36.724	-119.791	16	North America
+29.396	-111.737	1	North America
+44.3788	4.99734	1	Europe
+53.0626	5.40737	2	Europe
+52.0508	113.401	3	Europe
+53.7172	27.9867	183	Europe
+34.9805	-81.014	3	North America
+5.83263	-73.0378	1	South America
+8.95648	7.06969	1	Africa
+-29.0227	-51.2341	2	South America
+45.9085	3.15373	1	Europe
+42.3915	-8.70211	13	Europe
+39.4012	-6.44088	1	Europe
+20.4199	-97.3112	1	North America
+10.1628	-70.0765	1	South America
+52.5179	13.6497	5	Europe
+48.9267	7.65029	1	Europe
+-15.7763	-47.7966	248	South America
+50.631	3.0472	111	Europe
+1.07087	124.528	1	Asia
+49.6041	2.81877	1	Europe
+-22.5461	-48.6355	49	South America
+34.6161	-112.449	1	North America
+5.8924	100.379	2	Asia
+38.611	-0.0362707	1	Europe
+53.12	8.7361	6	Europe
+-34.5766	-68.3237	1	South America
+-7.1654	-36.7792	1	South America
+34.4123	-89.0282	2	North America
+2.92422	112.608	1	Asia
+47.179	-122.536	27	North America
+45.5228	4.89476	2	Europe
+32.4592	-111.212	1	North America
+52.9973	-1.18234	18	Europe
+29.9548	-90.2218	31	North America
+53.4946	-6.23573	9	Europe
+33.5726	-112.308	6	North America
+-20.7428	-49.8342	1	South America
+54.9594	9.76705	1	Europe
+7.17896	107.895	1	NULL
+38.9512	-76.747	44	North America
+41.2959	69.2641	10	Asia
+44.683	-63.9794	1	North America
+-24.4044	26.1018	1	Africa
+49.1709	3.4774	2	Europe
+48.353	2.04375	5	Europe
+51.487	3.7886	17	Europe
+35.0489	-89.9029	7	North America
+32.9574	-80.0347	2	North America
+40.2254	-8.45231	11	Europe
+54.9659	-1.84938	2	Europe
+-12.1243	-38.4092	1	South America
+37.7844	139.258	1	Asia
+42.9259	-9.26292	1	Europe
+38.9361	-77.0365	342	North America
+50.426	30.4943	18	Europe
+63.7341	-96.2958	5	North America
+20.3703	-90.0472	1	North America
+1.67369	101.441	5	Asia
+43.2779	-1.98771	1	Europe
+40.1207	-82.9265	8	North America
+35.1295	-90.0268	31	North America
+37.5542	-122.314	35	North America
+3.91597	-76.2882	3	South America
+32.7881	130.744	3	Asia
+40.6974	-73.9797	447	North America
+20.2956	-102.219	2	North America
+53.8096	87.2221	3	Europe
+52.5933	9.12621	2	Europe
+43.8695	10.326	2	Europe
+33.1123	-96.1089	2	North America
+34.883	-77.245	2	North America
+25.1042	55.3361	6	Asia
+34.2175	-79.2584	3	North America
+30.2092	71.4982	1	Asia
+-23.2981	-47.2769	18	South America
+44.5205	3.49127	1	Europe
+3.09846	98.496	6	Asia
+-7.2593	-37.241	1	South America
+48.5914	6.44323	10	Europe
+13.824	100.724	13	Asia
+41.8401	-0.894539	2	Europe
+47.4401	9.4004	2	Europe
+-23.5501	-47.8728	2	South America
+-26.7642	-51.1084	2	South America
+33.9069	-5.18814	1	NULL
+34.7698	-80.2264	1	North America
+-6.49164	-76.3608	10	South America
+42.1338	-72.7924	1	North America
+45.6811	-73.9139	2	North America
+38.6137	-77.2882	20	North America
+51.7688	4.75251	26	Europe
+38.0402	-78.4849	5	North America
+56.2339	-3.1437	8	Europe
+-22.8741	-43.7705	3	South America
+30.5743	-97.4363	1	North America
+31.2956	-92.4849	3	North America
+28.6694	77.0854	1	Asia
+49.6078	8.3312	1	Europe
+29.3256	-96.1228	1	North America
+35.515	-97.7688	2	North America
+49.4753	5.94049	2	Europe
+-22.7449	-42.2907	1	South America
+45.6019	7.78694	2	Europe
+24.5698	46.8996	1	Asia
+38.3906	-2.58163	1	Europe
+52.4996	4.97251	13	Europe
+49.9882	36.2344	3	Europe
+-23.2473	-45.8929	37	South America
+-23.0324	-44.3659	2	South America
+46.2513	7.00218	1	Europe
+-5.57916	-39.4606	2	South America
+-26.2561	27.8753	37	Africa
+19.4467	72.8014	1	Asia
+57.6963	18.6613	1	Europe
+-33.3214	-66.3113	3	South America
+50.2464	5.33734	1	Europe
+34.5227	-83.3171	2	North America
+55.8574	37.4174	38	Europe
+44.0415	1.4369	2	Europe
+37.0083	-121.589	3	North America
+53.5963	-1.83681	5	Europe
+27.6986	-83.8046	20	North America
+41.387	-80.7616	1	North America
+8.16402	125.129	1	Asia
+40.6419	-3.17502	5	Europe
+41.1071	-85.0474	4	North America
+-18.4436	-70.2939	1	South America
+45.7823	9.07893	5	Europe
+53.4424	-2.23348	76	Europe
+26.434	-82.0771	1	North America
+37.8144	29.1401	1	Asia
+-14.5329	-49.1422	1	South America
+16.0819	-61.7664	2	North America
+49.1335	2.36773	4	Europe
+61.4713	24.2539	1	Europe
+30.2613	31.7501	2	Africa
+52.8118	-0.0167856	1	Europe
+42.4219	9.0665	2	Europe
+7.99087	-75.206	1	South America
+25.8111	78.3815	1	Asia
+11.2328	-74.2069	1	South America
+47.5056	4.09047	1	Europe
+54.4779	9.06541	1	Europe
+41.9982	21.4351	7	Europe
+36.5011	-120.321	1	North America
+-35.0953	143.257	2	Oceania
+16.8422	-99.9052	2	North America
+9.97841	-84.8241	4	North America
+48.7453	2.52516	457	Europe
+48.8169	3.0075	1	Europe
+30.4167	-87.2253	10	North America
+38.9103	1.42366	7	Europe
+52.9286	-7.55743	1	Europe
+67.3201	63.9468	2	Europe
+-6.91084	109.541	4	Asia
+42.0592	-3.51308	1	Europe
+55.7948	49.0696	37	Europe
+14.3163	-89.1698	2	North America
+2.97943	99.6313	1	Asia
+-28.739	-49.3605	25	South America
+-6.8825	109.681	2	Asia
+37.5141	13.093	1	Europe
+-29.1911	-54.8563	1	South America
+18.1638	-77.0395	3	North America
+37.9179	-84.367	1	North America
+31.1926	-111.001	1	North America
+44.447	-79.8013	2	North America
+36.8371	-76.5236	2	North America
+43.7027	-1.06341	2	Europe
+47.7452	-3.37891	6	Europe
+46.5192	-118.124	1	North America
+27.5458	-99.5723	2	North America
+-29.8907	-50.9563	8	South America
+42.368	-88.9988	3	North America
+48.8588	2.34693	858	Europe
+27.2479	-82.5342	1	North America
+30.6821	-89.4804	1	North America
+10.0523	-69.364	1	South America
+-33.9461	18.6065	10	Africa
+50.4117	-4.70555	1	Europe
+-21.2645	-45.0228	3	South America
+19.1376	72.8261	13	Asia
+38.3228	26.4038	1	Asia
+38.9637	35.2433	569	Asia
+-16.393	-71.5373	2	South America
+9.97527	-84.6506	2	North America
+46.8383	12.7688	1	Europe
+-0.587732	111.388	27	Asia
+40.992	-109.721	4	North America
+59.3337	17.98	37	Europe
+59.3989	8.50489	1	Europe
+-22.6804	-47.0163	6	South America
+33.7826	-89.8182	2	North America
+-16.093	-47.9846	3	South America
+36.5926	-79.4178	1	North America
+41.8551	-80.7884	3	North America
+-29.7336	31.0822	3	Africa
+-2.54935	106.514	1	Asia
+51.6695	-0.404271	7	Europe
+-7.51277	110.245	10	Asia
+60.4665	5.31144	1	Europe
+38.4774	-77.4471	1	North America
+22.7559	-102.574	2	North America
+52.2988	5.27477	7	Europe
+39.0568	-94.6118	4	North America
+31.3829	-16.4128	1	Europe
+40.5247	-3.81615	128	Europe
+51.9026	6.4112	13	Europe
+34.2629	-5.9166	1	Africa
+45.5346	-73.4101	14	North America
+30.5039	-90.4575	1	North America
+34.396	-82.2427	1	North America
+34.9834	138.416	1	Asia
+26.3907	-81.7755	3	North America
+32.3243	-89.3613	1	North America
+26.2114	127.688	4	Asia
+43.9291	2.13256	1	Europe
+5.32964	103.141	34	Asia
+53.4039	-1.5631	19	Europe
+-22.6367	14.5251	1	Africa
+-33.3963	-70.7944	25	South America
+38.6805	-90.4764	6	North America
+48.1079	27.8137	1	Europe
+41.0799	-80.8038	3	North America
+42.9276	-76.5415	1	North America
+55.7113	38.9558	1	Europe
+-25.6472	-49.0572	1	South America
+45.7784	5.01166	4	Europe
+8.24602	124.247	1	Asia
+52.177	-7.14905	1	Europe
+-27.1	-48.635	10	South America
+35.7353	-81.2182	3	North America
+37.2348	-75.9707	1	North America
+-0.0785608	34.7797	2	Africa
+36.0644	-115.019	25	North America
+-18.8938	-48.2264	3	South America
+50.6856	-120.296	1	North America
+16.6593	-91.3619	1	North America
+-7.66334	110.275	19	Asia
+0.247298	-51.0637	253	South America
+37.3831	-5.92359	22	Europe
+43.5326	3.66903	3	Europe
+36.2604	-115.085	14	North America
+5.39725	7.00897	3	Africa
+38.3036	14.9179	1	Europe
+44.642	41.9433	1	Europe
+44.6477	-73.1319	1	North America
+50.0469	2.66637	1	Europe
+-34.721	-58.3528	3	South America
+34.4089	-118.501	4	North America
+37.6897	26.9428	1	Europe
+-46.3989	168.365	1	Oceania
+47.251	6.03631	4	Europe
+43.8531	-88.8602	1	North America
+47.373	1.73509	1	Europe
+51.1112	6.88956	4	Europe
+33.7534	-115.447	2	North America
+25.0739	-77.3152	6	North America
+-7.03353	-37.3471	10	South America
+13.6435	-89.1318	48	North America
+41.8312	-79.1527	4	North America
+25.2442	-103.233	7	North America
+14.5334	-90.7369	9	North America
+45.9395	9.16727	2	Europe
+51.4345	0.246854	12	Europe
+-33.0046	-71.2538	1	South America
+-3.8834	-40.2452	5	South America
+33.3861	-82.0909	44	North America
+52.0046	4.21273	70	Europe
+35.1969	129.079	3	Asia
+53.9965	-6.39739	1	Europe
+37.6794	-4.29582	1	Europe
+39.2809	-81.5426	2	North America
+43.4533	11.9085	4	Europe
+40.5504	14.2475	1	Europe
+55.3391	9.53349	1	Europe
+-22.2557	-46.1695	1	South America
+32.2238	-8.83357	2	Africa
+-21.9454	-50.7638	2	South America
+35.309	-98.7166	1	North America
+-7.3899	109.75	2	Asia
+50.2891	2.76818	3	Europe
+52.6787	-2.38575	2	Europe
+-22.0587	-48.7344	13	South America
+-29.7384	-51.8362	10	South America
+36.8048	-6.29987	7	Europe
+39.2607	-121.024	3	North America
+41.4782	-73.2076	1	North America
+53.558	-7.46394	1	Europe
+48.0892	20.6757	2	Europe
+10.3854	123.653	2	Asia
+-7.14776	111.585	1	Asia
+39.8102	-2.46274	1	Europe
+49.2477	4.03252	5	Europe
+53.1454	-7.17386	1	Europe
+39.1758	-78.1416	4	North America
+0.627773	35.0606	1	Africa
+-28.4849	-49.0123	1	South America
+47.0947	37.5299	5	Europe
+40.0713	-82.4439	2	North America
+30.6437	-9.55373	1	Africa
+19.7496	-88.0135	1	North America
+-15.3729	-48.2713	1	South America
+62.0846	129.292	4	Europe
+51.7519	4.06934	22	Europe
+28.7678	-106.909	10	North America
+40.2385	-111.692	5	North America
+-23.3986	-45.0012	3	South America
+51.2901	-0.833197	6	Europe
+43.444	5.41182	29	Europe
+51.2476	4.7174	3	Europe
+4.37782	101.227	15	Asia
+2.98096	105.695	1	Asia
+35.9886	-77.8162	9	North America
+44.4132	11.8112	3	Europe
+42.2046	-88.2545	2	North America
+40.8793	-96.7545	1	North America
+23.6914	-166.6	14	North America
+-21.5889	-48.8208	3	South America
+48.3134	-114.159	1	North America
+47.6736	-122.048	5	North America
+13.5322	144.885	1	Oceania
+-29.1066	26.2131	3	Africa
+24.4987	39.5787	3	Asia
+-34.5912	-58.4133	20	South America
+-22.5307	-43.4717	6	South America
+-3.27026	-79.9659	9	South America
+56.2549	38.0007	1	Europe
+33.3942	-112.035	17	North America
+42.5822	-77.154	2	North America
+-8.15959	112.492	2	Asia
+39.7286	-80.7509	1	North America
+45.5341	9.59091	10	Europe
+57.0086	40.9942	3	Europe
+4.14789	-73.6098	2	South America
+41.9998	-71.9995	1	North America
+4.8382	101.964	1	Asia
+39.0191	-122.055	2	North America
+53.3064	-2.14126	2	Europe
+46.4691	-1.64677	3	Europe
+31.5729	-84.1658	10	North America
+51.8986	-2.07653	10	Europe
+34.5793	-86.9978	1	North America
+-7.46181	108.976	3	Asia
+2.04811	103.382	282	Asia
+39.4642	-74.555	2	North America
+5.00283	118.358	2	Asia
+54.1778	-7.18184	1	Europe
+49.4434	2.0882	12	Europe
+10.9354	-63.9602	2	South America
+37.8918	-122.534	1	North America
+41.5617	-72.781	1	North America
+46.5907	-64.9944	1	North America
+37.9824	-101.13	1	North America
+-7.81195	112.71	3	Asia
+-22.1856	-46.7859	1	South America
+27.5921	-80.3456	3	North America
+19.9366	-96.8497	1	North America
+19.5305	-96.9341	13	North America
+41.1252	1.26876	3	Europe
+52.6003	39.6002	62	Europe
+-21.9575	-50.5321	1	South America
+43.2703	-5.84659	2	Europe
+49.055	7.41731	1	Europe
+32.5886	-82.3389	2	North America
+39.0947	-9.04127	11	Europe
+37.9347	-121.698	6	North America
+-0.801455	37.2503	4	Africa
+35.8035	-78.1157	2	North America
+-43.5009	172.564	1	Oceania
+-37.0419	-72.3728	1	South America
+-1.19236	-46.7872	2	South America
+21.2978	-98.3734	5	North America
+33.7547	-79.4463	1	North America
+-6.64378	-36.8683	3	South America
+34.1876	-118.89	2	North America
+34.1155	-117.813	37	North America
+51.5962	-2.10613	4	Europe
+10.3445	107.074	1	Asia
+37.3638	-4.49059	1	Europe
+-6.35789	106.495	15	Asia
+-22.109	-51.4179	3	South America
+52.6361	-1.13109	25	Europe
+48.0755	2.05795	1	Europe
+-21.3838	-51.6013	3	South America
+24.124	-110.338	1	North America
+44.7943	-91.5051	4	North America
+55.6229	37.4912	21	Europe
+39.5266	2.49959	1	Europe
+36.8959	-111.467	1	North America
+32.3515	-95.1304	1	North America
+-2.27704	-79.8888	51	South America
+38.6572	-90.0017	9	North America
+30.5516	31.0179	1	Africa
+-21.6782	-45.9046	3	South America
+12.628	-87.135	1	North America
+-6.56158	107.758	4	Asia
+47.3321	5.03236	33	Europe
+51.5106	5.39844	28	Europe
+34.4772	-93.0414	1	North America
+53.9092	-1.66976	4	Europe
+39.0648	-94.3632	3	North America
+-23.5552	-46.972	73	South America
+-20.3975	-43.6687	2	South America
+42.6095	8.86701	1	Europe
+13.6792	-89.2748	33	North America
+36.1624	-121.731	1	North America
+-21.8205	-46.5447	2	South America
+43.5819	-79.5582	9	North America
+47.0732	15.4419	4	Europe
+39.1764	-93.849	1	North America
+51.7728	-0.184883	19	Europe
+53.1548	-6.81533	1	Europe
+42.9604	-85.6485	6	North America
+44.6611	-1.17537	1	Europe
+33.8074	-84.732	14	North America
+-20.1397	-40.3039	55	South America
+51.5719	-2.96361	1	Europe
+50.7444	-1.83886	20	Europe
+1.98789	103.251	1	Asia
+39.1415	-77.4131	2	North America
+19.8044	-96.1443	2	North America
+10.9988	-63.81	2	South America
+52.8327	-9.43986	1	Europe
+48.9958	1.69169	32	Europe
+41.641	15.5666	1	Europe
+38.9654	-78.1883	1	North America
+42.5389	140.396	1	Asia
+-32.018	115.938	13	Oceania
+47.6967	2.01912	3	Europe
+36.7582	-121.749	3	North America
+30.2199	-85.8779	2	North America
+53.4418	-113.426	1	North America
+39.9338	-83.1377	5	North America
+45.4613	9.15934	26	Europe
+54.6611	-5.66643	1	Europe
+-37.928	144.994	8	Oceania
+52.5629	0.0192425	2	Europe
+51.9065	-0.642876	5	Europe
+40.98	27.5268	2	Asia
+33.5914	-112.125	24	North America
+47.5336	6.82311	3	Europe
+6.24266	100.6	1	Asia
+64.1047	27.4529	3	Europe
+41.8766	-79.9733	1	North America
+49.7585	2.35138	6	Europe
+39.1451	-75.3867	7	North America
+42.451	-73.2799	1	North America
+39.983	-82.9773	37	North America
+39.6957	-84.1593	9	North America
+55.4694	9.45451	1	Europe
+-22.9088	-45.2346	7	South America
+49.2295	7.00891	5	Europe
+47.3774	8.53676	8	Europe
+43.2145	-77.9401	1	North America
+11.5423	-72.9204	1	South America
+48.5621	32.3282	2	Europe
+-32.1078	26.465	2	Africa
+48.9409	2.61756	64	Europe
+49.8155	6.1333	2	Europe
+50.6565	12.1345	1	Europe
+37.8038	12.4661	1	Europe
+-24.6146	-51.3215	1	South America
+51.9748	-1.28498	1	Europe
+28.5264	-15.79	1	Europe
+6.16359	-75.6322	6	South America
+-1.84703	109.978	1	Asia
+45.8677	-0.954346	1	Europe
+29.1305	48.1172	6	Asia
+8.44239	99.5314	1	Asia
+56.3537	41.3264	2	Europe
+43.7231	20.6825	2	Europe
+57.2016	52.7806	1	Europe
+54.0431	38.2417	2	Europe
+41.7527	-72.4742	5	North America
+25.9421	-97.4153	8	North America
+-3.78015	-73.2781	1	South America
+33.8246	-118.344	63	North America
+48.9174	11.408	11	Europe
+2.03576	98.9632	3	Asia
+56.0306	-3.79103	8	Europe
+36.1022	-79.5046	2	North America
+51.8643	-2.22588	12	Europe
+-25.4333	-56.4314	1	South America
+32.3329	-116.929	8	North America
+42.473	2.75637	3	Europe
+1.73486	103.887	4	Asia
+49.3534	0.0751004	6	Europe
+46.2267	2.20912	6	Europe
+33.9338	-116.511	7	North America
+58.3715	26.761	1	Europe
+40.5358	-3.64409	6	Europe
+-5.88379	-40.2877	3	South America
+50.1551	-5.50451	2	Europe
+49.3294	8.43412	13	Europe
+13.3384	-87.8473	1	North America
+5.62664	-0.025173	11	Africa
+-26.7242	-53.4817	3	South America
+17.0923	-96.7087	13	North America
+39.4207	26.8072	423	Asia
+-45.8643	170.502	1	Oceania
+13.5341	-89.8194	1	North America
+17.5491	-92.9537	2	North America
+38.0355	-78.6919	1	North America
+41.6853	-111.822	1	North America
+-12.0857	-76.9967	116	South America
+58.1632	8.08222	1	Europe
+-8.65821	-35.6293	1	South America
+50.8182	-1.09673	15	Europe
+53.9657	-1.072	7	Europe
+-6.41219	107.463	15	Asia
+6.3053	99.8518	2	Asia
+53.1333	158.493	1	Europe
+50.6924	2.87905	3	Europe
+37.7937	-121.236	6	North America
+-21.6181	-48.4446	8	South America
+-25.2301	-50.6031	2	South America
+-33.9241	18.4183	6	Africa
+13.9801	100.682	3	Asia
+-26.2617	-48.9665	91	South America
+-2.9497	119.892	4	Asia
+57.6485	-7.39845	1	Europe
+41.2229	-111.973	2	North America
+32.4655	-80.9727	1	North America
+43.3477	3.1659	3	Europe
+-21.0578	-45.661	3	South America
+32.0325	35.7225	1	Asia
+-16.3313	-48.9467	62	South America
+-6.74538	-38.2186	18	South America
+10.5943	-66.9517	5	South America
+30.4099	-91.1721	18	North America
+14.8358	-91.5077	1	North America
+64.5713	40.522	13	Europe
+-28.4795	24.6701	14	Africa
+48.204	2.46894	2	Europe
+52.1255	4.43542	13	Europe
+45.1528	9.70399	3	Europe
+35.4918	139.443	6	Asia
+61.6273	23.1618	1	Europe
+3.60958	98.4333	6	Asia
+64.9117	19.4825	1	Europe
+54.8432	-6.68042	1	Europe
+39.0607	-75.6	3	North America
+34.0337	-78.2613	1	North America
+35.528	-108.69	14	North America
+49.3801	-1.39013	1	Europe
+52.95	7.11599	18	Europe
+37.5521	-77.4567	16	North America
+-25.1839	-48.8404	2	South America
+42.5189	3.10548	3	Europe
+47.5798	-0.88655	1	Europe
+-23.7454	-45.6207	3	South America
+52.2721	10.5286	1	Europe
+46.3572	2.7938	1	Europe
+55.774	37.5329	47	Europe
+-23.3519	-51.1743	7	South America
+-20.4049	-52.1809	2	South America
+-16.1783	-50.1597	1	South America
+39.3909	-76.8218	19	North America
+55.3916	36.7322	1	Europe
+35.4451	-84.6688	1	North America
+-2.94742	-41.7636	13	South America
+-2.87612	-40.496	7	South America
+28.4811	-81.3687	28	North America
+33.5053	-90.3584	2	North America
+-10.1845	-37.5457	1	South America
+37.459	-3.94494	1	Europe
+41.6135	-73.7061	2	North America
+-8.01733	-35.1047	1	South America
+48.4922	32.2022	2	Europe
+52.2797	-1.16127	2	Europe
+26.4599	127.919	2	Asia
+52.5802	21.4896	1	Europe
+35.7431	51.3242	3	Asia
+53.8334	27.6278	9	Europe
+42.7829	-96.9184	1	North America
+43.4471	-80.1152	1	North America
+49.6116	19.3258	2	Europe
+36.9558	-76.2674	17	North America
+-9.39287	-40.5187	1	South America
+-7.268	112.781	487	Asia
+2.06667	45.3667	2	Africa
+34.3088	-79.8184	1	North America
+53.1789	18.595	1	Europe
+-7.59923	110.807	70	Asia
+40.0293	-105.24	3	North America
+51.4844	4.75473	2	Europe
+19.3287	-99.4658	11	North America
+52.673	9.61966	2	Europe
+49.839	2.052	2	Europe
+53.2109	5.67335	2	Europe
+9.89049	8.86458	1	Africa
+-33.2125	-71.3922	1	South America
+48.2215	15.7608	1	Europe
+-23.5859	-48.046	2	South America
+21.277	-157.813	19	North America
+49.8322	24.0155	1	Europe
+45.6971	13.1522	1	Europe
+46.7075	-71.249	1	North America
+30.3449	-81.6831	84	North America
+44.4286	11.1446	2	Europe
+45.4482	3.26856	1	Europe
+0.167774	117.465	3	Asia
+33.9314	-84.1344	16	North America
+-36.1099	-72.7838	1	South America
+43.2996	6.26244	7	Europe
+6.25365	100.429	13	Asia
+31.5709	-91.3458	1	North America
+39.4529	-74.7227	2	North America
+19.9546	-102.437	1	North America
+51.8039	55.1908	5	Europe
+33.2007	-94.9979	3	North America
+26.2405	50.5871	9	Asia
+37.8485	27.8379	1	Asia
+53.2768	5.98029	2	Europe
+40.5498	-84.3973	1	North America
+-20.8357	-40.7224	4	South America
+3.88653	11.5042	18	Africa
+43.6556	51.1565	1	Asia
+55.0767	61.5533	1	Europe
+48.6466	-4.32468	1	Europe
+39.3124	-88.4402	1	North America
+23.9833	38.1947	2	Asia
+32.0999	20.1073	3	Africa
+-15.4253	-54.9404	2	South America
+52.4791	-0.897159	2	Europe
+-14.7578	-39.2738	2	South America
+-22.2387	-49.1125	47	South America
+-7.9725	112.629	211	Asia
+51.0027	2.13943	15	Europe
+-20.5973	-40.5401	10	South America
+52.3417	-2.05038	4	Europe
+56.2936	44.0748	6	Europe
+34.4223	-77.6415	2	North America
+30.5964	-96.2957	8	North America
+55.6641	-1.87466	1	Europe
+37.4526	-77.603	15	North America
+52.9744	-3.09017	3	Europe
+44.9917	0.179534	2	Europe
+5.1846	97.1397	3	Asia
+51.7487	18.0776	4	Europe
+53.9427	30.3563	2	Europe
+30.5847	-91.1529	3	North America
+-36.1589	-71.8153	2	South America
+48.7764	-123.763	23	North America
+51.8317	-1.83587	1	Europe
+-6.9958	110.428	146	Asia
+60.5637	5.10376	1	Europe
+24.6625	-107.342	3	North America
+38.2585	140.336	6	Asia
+-7.65408	111.35	17	Asia
+44.8242	-123.018	2	North America
+-23.8308	-46.8122	5	South America
+19.2671	-98.8728	1	North America
+45.8445	1.32273	40	Europe
+46.8525	-96.8504	1	North America
+47.7953	21.6377	1	Europe
+42.5955	140.56	1	Asia
+0.330222	32.7533	1	Africa
+34.6613	-88.5566	1	North America
+28.3236	-81.4207	8	North America
+50.11	14.273	1	Europe
+29.55	-95.1273	16	North America
+-23.1524	-49.9717	1	South America
+38.5371	-76.7774	1	North America
+52.3876	6.27462	9	Europe
+1.47274	103.63	58	Asia
+30.5594	-97.8599	2	North America
+-51.6923	-57.8595	1	South America
+41.5488	2.09837	4	Europe
+56.1385	40.4177	12	Europe
+33.9666	-84.7873	4	North America
+52.958	-6.39532	1	Europe
+-7.20962	113.461	1	Asia
+14.283	-90.7943	1	North America
+-15.3841	35.3265	4	Africa
+-24.1434	-47.2845	1	South America
+40.2096	-0.426438	1	Europe
+50.9125	4.65022	2	Europe
+26.3563	127.78	5	Asia
+31.7279	-93.1556	1	North America
+35.9705	139.624	2	Asia
+44.5502	38.1802	2	Europe
+61.9794	40.6769	1	Europe
+38.1022	-86.2759	1	North America
+8.62695	-82.9197	5	North America
+36.9759	-122.036	6	North America
+33.7279	-86.5554	1	North America
+39.6514	-75.3288	1	North America
+34.9091	-82.2144	1	North America
+-3.36035	104.626	4	Asia
+-14.3272	35.1419	2	Africa
+-19.8596	-44.9979	1	South America
+20.3296	-97.8959	5	North America
+-16.4304	-39.0702	1	South America
+29.8727	-97.9403	3	North America
+45.1724	-91.1392	2	North America
+52.4309	9.38932	5	Europe
+1.02792	124.723	1	Asia
+45.6449	8.80788	1	Europe
+-26.4195	-51.8397	5	South America
+5.05876	-75.4856	6	South America
+39.0312	-84.6947	2	North America
+35.8048	137.246	1	Asia
+55.0015	82.9557	29	Europe
+45.1751	-72.7785	1	North America
+54.9	37.4159	1	Europe
+10.007	-69.2233	3	South America
+-34.0376	151.097	1	Oceania
+-24.6331	-50.4844	1	South America
+47.3116	-2.20506	2	Europe
+33.9246	-93.5599	2	North America
+39.0107	-94.0348	1	North America
+-23.3804	-46.3128	2	South America
+51.4407	7.01623	9	Europe
+54.5705	100.594	1	Europe
+8.99388	7.36912	1	Africa
+28.263	-81.5982	5	North America
+5.364	-4.08297	12	Africa
+40.6429	-4.72903	16	Europe
+-6.91087	107.472	71	Asia
+-7.62194	110.417	6	Asia
+40.9841	37.9183	1	Asia
+37.0	-79.8692	1	North America
+34.9796	-117.477	1	North America
+20.7988	-104.0	1	North America
+53.2218	6.56477	21	Europe
+12.6374	-8.03254	4	Africa
+50.5025	2.50719	5	Europe
+29.8239	-95.4621	106	North America
+-23.4458	-51.4481	12	South America
+41.2346	-73.1278	3	North America
+46.0275	4.05735	6	Europe
+42.39	9.53038	2	Europe
+48.1968	3.28712	2	Europe
+48.0113	7.38504	4	Europe
+44.2687	-68.5529	1	North America
+59.484	25.0225	1	Europe
+37.5636	-121.981	5	North America
+45.5731	-0.828329	1	Europe
+-32.7412	-71.4823	2	South America
+35.3277	-93.2264	1	North America
+-6.70257	-35.1591	1	South America
+43.539	-0.670387	1	Europe
+46.1855	18.2688	1	Europe
+42.0759	-76.815	2	North America
+-12.5893	28.2171	1	Africa
+51.9765	20.8138	1	Europe
+1.73413	128.01	1	Asia
+36.4441	-85.2451	1	North America
+42.607	-72.5586	1	North America
+42.4085	12.8556	8	Europe
+61.7359	34.4038	4	Europe
+38.0196	-1.22078	1	Europe
+36.1146	-94.135	4	North America
+6.51325	-0.708133	1	Africa
+-31.6758	115.723	7	Oceania
+32.2595	-64.8203	1	North America
+40.403	-79.709	1	North America
+1.39259	103.905	638	Asia
+39.4585	-93.1402	1	North America
+41.9924	9.40485	3	Europe
+40.9295	29.2196	30	Asia
+0.471161	101.463	32	Asia
+-32.7869	26.8497	1	Africa
+38.0397	-4.0475	1	Europe
+6.37052	2.50332	3	Africa
+-12.4223	-41.313	1	South America
+55.4828	9.13242	1	Europe
+5.74333	101.863	1	Asia
+43.2168	5.54037	9	Europe
+52.6791	7.47678	1	Europe
+-23.3548	-46.8802	5	South America
+43.1153	131.89	22	Europe
+30.2288	-95.3486	3	North America
+41.0523	16.7039	2	Europe
+-29.4693	-54.6294	1	South America
+54.1479	45.2109	4	Europe
+-30.7969	27.9638	9	Africa
+47.9163	106.929	2	Asia
+36.0548	-115.217	33	North America
+35.492	-94.2098	1	North America
+31.6396	-91.2002	1	North America
+8.6367	-70.2235	3	South America
+35.9321	-115.091	1	North America
+37.261	-122.03	16	North America
+43.5809	4.99946	17	Europe
+15.3066	-91.5057	1	North America
+52.8448	5.70121	5	Europe
+43.6301	5.16285	3	Europe
+-22.5927	-46.0515	2	South America
+51.0586	-2.77285	4	Europe
+36.7149	2.84143	1	Africa
+41.1199	-74.0406	1	North America
+52.0716	5.74901	2	Europe
+55.9183	-3.26502	18	Europe
+14.8232	120.955	7	Asia
+-22.3872	-43.1873	12	South America
+18.2724	-77.1435	1	North America
+37.1352	-80.5494	2	North America
+-7.62895	111.89	1	Asia
+52.2478	5.58025	16	Europe
+29.6304	-81.8041	1	North America
+41.5965	-93.2402	1	North America
+-28.7303	-51.6044	7	South America
+34.306	-83.6623	1	North America
+41.8338	-87.7319	184	North America
+3.6039	102.262	2	Asia
+47.1187	8.58154	2	Europe
+35.6158	-87.8395	1	North America
+52.2811	-0.214251	3	Europe
+44.9041	5.10977	1	Europe
+56.0589	54.2785	5	Europe
+44.0352	-1.24947	1	Europe
+61.5218	-75.0065	8	North America
+-6.27078	-36.0113	3	South America
+51.0183	2.34338	20	Europe
+40.7212	-76.3215	1	North America
+31.2144	29.9229	11	Africa
+3.59335	116.629	1	Asia
+29.9507	-85.4209	1	North America
+21.6267	-104.873	1	North America
+38.5137	-90.0037	3	North America
+-32.3096	115.766	1	Oceania
+-34.2649	-71.0253	1	South America
+38.2478	-121.315	1	North America
+-22.5519	-43.0473	6	South America
+38.3568	-98.791	1	North America
+-23.6931	-70.4149	4	South America
+61.7757	30.6886	1	Europe
+6.67616	3.15475	2	Africa
+18.447	-90.9227	1	North America
+-27.7658	-51.5708	1	South America
+53.7087	-0.875736	1	Europe
+52.151	-7.55615	2	Europe
+-29.2431	16.8805	1	Africa
+40.3377	-104.98	1	North America
+38.3434	-122.704	3	North America
+-22.3069	-42.4674	2	South America
+35.0774	135.93	2	Asia
+29.5009	-95.5114	7	North America
+43.1336	-93.4399	1	North America
+-4.62202	55.4508	1	Africa
+52.3373	5.77992	3	Europe
+-8.05587	111.737	1	Asia
+50.3881	-4.11457	16	Europe
+38.9375	-94.5246	4	North America
+40.1761	29.0621	4	Asia
+4.53009	-75.6671	2	South America
+40.752	-74.1899	96	North America
+40.4629	-74.4218	18	North America
+49.8963	8.29025	2	Europe
+36.0696	-79.7668	59	North America
+49.9631	2.8552	1	Europe
+43.496	-1.54474	7	Europe
+18.5556	-72.2611	3	North America
+48.0456	37.9705	2	Europe
+4.08145	-76.1946	3	South America
+43.338	11.7634	1	Europe
+-20.3371	-43.3298	5	South America
+26.3612	43.9465	3	Asia
+44.2151	20.9238	145	Europe
+-22.6965	-43.5244	19	South America
+60.4542	15.3997	1	Europe
+35.7228	-86.8927	2	North America
+45.9137	4.70955	1	Europe
+35.0884	-79.4454	24	North America
+-29.2155	-51.9275	4	South America
+25.7543	-100.197	2	North America
+50.1732	3.24142	1	Europe
+26.8967	-105.987	1	North America
+33.5017	-80.6291	1	North America
+7.35496	-2.33846	3	Africa
+30.4013	31.5752	1	Africa
+-17.705	31.0835	3	Africa
+60.9446	76.565	1	Europe
+51.0013	5.25542	1	Europe
+40.8082	-77.8167	7	North America
+18.819	98.9955	5	Asia
+32.0672	-90.008	1	North America
+42.1571	12.6679	1	Europe
+41.0205	-73.9363	5	North America
+35.511	-84.364	2	North America
+32.4532	-85.0233	5	North America
+54.2733	-5.78749	1	Europe
+44.4148	8.88593	2	Europe
+50.5082	-4.9774	1	Europe
+41.8209	123.504	1	Asia
+4.19006	100.948	1	Asia
+50.0463	20.0057	7	Europe
+45.099	-123.086	2	North America
+23.9542	-104.838	1	North America
+43.0375	-82.5212	1	North America
+45.8732	-1.22329	1	Europe
+36.5956	-4.63971	14	Europe
+3.50483	101.924	1	Asia
+48.6792	9.38121	1	Europe
+2.55678	101.869	8	Asia
+20.1889	-100.143	7	North America
+52.4579	-7.21803	1	Europe
+39.7639	-89.661	9	North America
+-6.90558	107.626	564	Asia
+-0.140094	-78.4768	7	South America
+30.2978	-97.7533	25	North America
+36.2536	-120.248	1	North America
+-16.2752	-49.9863	1	South America
+46.8564	142.672	3	Europe
+51.2606	4.35816	5	Europe
+57.1558	-2.20275	14	Europe
+38.6769	-121.748	1	North America
+41.4851	-73.5021	2	North America
+35.7792	-86.3224	3	North America
+50.5841	22.0566	2	Europe
+28.2471	-105.791	1	North America
+44.2706	-88.3971	1	North America
+40.9645	-74.3082	3	North America
+36.0491	-76.5978	1	North America
+34.1876	-112.134	1	North America
+-7.23531	-39.471	9	South America
+33.1998	-87.5639	2	North America
+38.2326	-122.033	5	North America
+39.1278	-76.7407	20	North America
+36.9852	-86.4547	2	North America
+-27.5825	-48.6727	4	South America
+39.8928	-74.927	8	North America
+5.66791	100.972	1	Asia
+-7.65265	112.717	1	Asia
+52.0247	20.5147	1	Europe
+43.8452	10.7301	4	Europe
+2.16722	102.428	9	Asia
+-38.1276	-72.3278	2	South America
+32.491	-84.8741	4	North America
+43.8091	1.56219	1	Europe
+44.0955	-87.6587	3	North America
+50.4147	1.58081	4	Europe
+10.911	76.9942	1	Asia
+39.7302	16.4317	1	Europe
+51.2339	5.87831	25	Europe
+18.4341	-64.6251	1	North America
+34.2059	-92.064	4	North America
+40.128	-3.84441	4	Europe
+31.2955	-89.3204	4	North America
+45.3987	11.8908	10	Europe
+33.0625	-84.1616	3	North America
+39.4806	-121.532	1	North America
+55.862	38.4444	2	Europe
+-5.40059	-47.5474	3	South America
+48.6297	2.44188	117	Europe
+53.2791	34.3808	5	Europe
+51.3658	-1.96311	2	Europe
+-19.7776	-44.0706	3	South America
+51.2362	0.587282	3	Europe
+45.0533	4.81494	2	Europe
+38.8912	16.6113	3	Europe
+10.5351	66.995	1	NULL
+-20.0211	-46.3742	1	South America
+5.75841	102.274	2	Asia
+33.4234	-112.281	3	North America
+47.9985	20.4348	1	Europe
+32.6164	-90.0308	1	North America
+31.5035	-106.151	1	North America
+35.532	-78.2664	2	North America
+53.0928	6.9082	6	Europe
+37.2376	-77.4172	16	North America
+49.1256	-122.696	3	North America
+36.5172	-4.88835	7	Europe
+59.0838	17.5272	6	Europe
+53.5927	-0.575417	1	Europe
+2.64163	101.659	1	Asia
+38.3291	-82.9719	2	North America
+41.7032	-4.75181	7	Europe
+47.5665	34.3712	1	Europe
+33.6251	-79.9582	1	North America
+38.9227	-75.4328	2	North America
+33.4337	-117.62	10	North America
+40.7418	29.8072	6	Asia
+42.5643	27.6059	1	Europe
+29.5197	-97.4567	3	North America
+47.0866	39.434	1	Europe
+-29.4296	-55.5907	1	South America
+41.9195	-88.0752	1	North America
+40.1595	-8.80848	2	Europe
+54.7006	25.253	4	Europe
+4.88918	7.35843	1	Africa
+-5.53194	130.126	2	Asia
+2.83668	117.366	1	Asia
+42.9226	-75.9806	1	North America
+-1.16096	116.877	34	Asia
+-20.9954	-46.1229	1	South America
+36.786	31.4533	25	Asia
+53.0017	-1.41611	1	Europe
+-23.8841	-46.4543	75	South America
+41.6638	-70.9279	6	North America
+-23.0046	-43.3211	1	South America
+45.6376	15.2119	1	Europe
+-6.74895	108.557	23	Asia
+-41.2076	174.93	1	Oceania
+-3.98349	102.425	3	Asia
+-22.2628	-45.9406	2	South America
+16.2345	-93.2764	1	North America
+38.1909	-76.4248	2	North America
+39.3395	-77.2394	1	North America
+-18.1336	-49.0228	1	South America
+41.5008	-99.6809	5	North America
+-1.45003	-48.472	40	South America
+5.95387	104.191	1	Asia
+53.2573	-6.1744	5	Europe
+40.4999	-78.0151	1	North America
+53.1955	6.29097	11	Europe
+36.1523	-95.9091	5	North America
+5.37875	100.553	22	Asia
+25.7817	-97.86	1	North America
+14.8095	100.563	4	Asia
+40.3658	-76.6471	2	North America
+16.776	96.1638	1	Asia
+40.04	-76.3004	3	North America
+-8.11326	112.119	1	Asia
+55.0931	59.9685	1	Europe
+2.81609	-60.6767	3	South America
+37.1804	-3.59799	11	Europe
+58.7283	17.6538	1	Europe
+47.613	-122.342	30	North America
+48.5674	2.00314	1	Europe
+-21.5722	-45.4008	5	South America
+-27.9574	26.8042	1	Africa
+37.2377	-6.91871	3	Europe
+36.2474	-5.96645	2	Europe
+33.3096	-80.5392	1	North America
+45.0287	-93.4549	8	North America
+-6.14776	106.19	8	Asia
+43.6134	2.24476	1	Europe
+34.0128	-84.5663	3	North America
+46.0607	6.2701	2	Europe
+35.6417	-78.8669	1	North America
+35.1624	-77.1589	2	North America
+52.2883	-1.61985	1	Europe
+10.2148	-84.4005	2	North America
+40.7978	-75.9586	1	North America
+-2.78878	-56.9094	2	South America
+43.3215	-0.343157	28	Europe
+-22.647	-47.1855	54	South America
+36.8642	-119.752	5	North America
+30.033	-89.8826	39	North America
+54.8207	56.1261	8	Europe
+-29.8024	-56.7397	2	South America
+48.3884	2.96241	3	Europe
+51.5008	16.0882	1	Europe
+-6.91859	-36.4422	3	South America
+-20.3427	-47.8032	1	South America
+-7.61437	109.38	2	Asia
+-8.4985	140.398	1	Asia
+38.8792	-82.3801	1	North America
+-32.7748	-70.9682	1	South America
+40.2401	-74.5308	1	North America
+28.1322	-82.3776	1	North America
+-1.27436	36.8131	43	Africa
+39.4184	-77.4501	3	North America
+35.0929	-81.6867	1	North America
+53.1752	-1.17742	2	Europe
+15.153	120.598	9	Asia
+-20.2392	57.4592	1	Africa
+33.6163	-7.39152	1	Africa
+36.385	-119.22	4	North America
+-32.8843	27.3973	1	Africa
+-23.6482	-52.8722	2	South America
+35.7141	-6.91635	6	Africa
+-8.21545	-34.9249	5	South America
+41.95	-86.3399	1	North America
+50.5274	21.59	1	Europe
+57.2296	14.5806	1	Europe
+40.9631	-72.1942	1	North America
+33.6287	-117.16	3	North America
+57.7875	38.1483	2	Europe
+26.6416	-81.9978	1	North America
+51.213	6.7822	8	Europe
+54.8902	23.9267	2	Europe
+-29.3583	30.9874	1	Africa
+-19.1468	-44.9291	1	South America
+43.0558	142.62	1	Asia
+-20.3515	-40.2845	44	South America
+35.2088	-97.4442	3	North America
+42.2307	-83.6087	4	North America
+56.2847	43.851	20	Europe
+33.8217	-83.4317	1	North America
+18.2229	-65.9193	2	North America
+-27.9315	-52.909	1	South America
+55.7368	9.57741	1	Europe
+49.7208	9.20846	1	Europe
+34.0042	-96.3799	1	North America
+-12.5584	-41.3875	1	South America
+46.6012	-120.586	1	North America
+34.0344	-80.4909	3	North America
+37.8657	-0.797506	1	Europe
+54.2749	-0.408951	9	Europe
+30.5052	-81.8109	1	North America
+43.3628	-7.07752	1	Europe
+35.709	-77.997	5	North America
+40.6788	-4.09946	2	Europe
+30.8723	28.8781	1	Africa
+40.9875	-79.9755	2	North America
+14.7202	-92.425	1	North America
+44.6385	-112.591	1	North America
+50.2748	-119.274	1	North America
+45.0881	-0.386407	1	Europe
+52.2328	21.0607	47	Europe
+37.697	-97.4362	13	North America
+17.3033	-100.324	1	North America
+-3.45685	102.557	1	Asia
+26.7173	88.3716	1	Asia
+12.5138	-69.9813	1	North America
+34.0358	-117.671	19	North America
+-23.5356	-47.654	4	South America
+52.2844	6.44019	10	Europe
+39.4117	-92.4279	1	North America
+40.8127	-81.3646	5	North America
+33.2526	-8.51436	2	Africa
+-19.4472	-44.2541	2	South America
+55.8	49.275	5	Europe
+69.3595	88.1996	1	Europe
+32.3111	-94.1629	1	North America
+47.9424	21.7009	9	Europe
+-36.93	174.684	9	Oceania
+38.8411	-76.9287	101	North America
+33.0106	-96.9875	2	North America
+54.3316	-6.17056	2	Europe
+10.0146	-84.2427	12	North America
+2.20133	102.248	109	Asia
+13.6198	-87.8987	1	North America
+49.2285	-0.304358	15	Europe
+-37.8715	144.592	1	Oceania
+45.3709	6.5109	1	Europe
+41.3427	-89.2185	1	North America
+33.518	-88.4231	1	North America
+3.38583	101.411	4	Asia
+43.2569	3.28616	11	Europe
+-17.7938	15.7064	2	Africa
+19.8266	-90.5262	11	North America
+3.82254	101.035	2	Asia
+41.6623	26.5993	3	Asia
+33.5745	-81.6945	3	North America
+-12.0206	-45.4874	1	South America
+-31.0192	-54.527	1	South America
+-6.90182	112.06	1	Asia
+5.56007	115.584	1	Asia
+-32.7053	27.1238	1	Africa
+41.3787	-87.448	1	North America
+-22.7442	-51.4132	1	South America
+9.7761	125.478	5	Asia
+-7.35188	108.304	2	Asia
+39.0764	-0.251818	1	Europe
+47.8526	35.114	2	Europe
+47.5328	2.85118	2	Europe
+65.0688	26.0067	1	Europe
+8.76735	-75.8652	2	South America
+41.7837	-87.5886	16	North America
+44.8549	1.24145	1	Europe
+54.4292	-6.29417	1	Europe
+47.4824	19.1295	24	Europe
+28.8002	-82.4864	1	North America
+29.6314	-95.6802	14	North America
+-27.9931	-54.2949	7	South America
+55.5724	37.2801	11	Europe
+-3.12055	119.919	2	Asia
+49.2585	5.97649	2	Europe
+-19.6047	-47.9692	15	South America
+31.8787	-91.1409	1	North America
+-3.28996	102.875	2	Asia
+50.9606	4.18403	4	Europe
+-6.46158	-37.0474	2	South America
+-17.6863	-41.3566	1	South America
+36.6259	-121.832	2	North America
+53.3191	-3.83208	1	Europe
+47.5596	7.58314	1	Europe
+49.8142	73.0804	2	Asia
+41.1621	-8.62191	24	Europe
+35.7885	139.613	7	Asia
+20.5365	-97.4475	12	North America
+36.2943	-109.222	1	North America
+52.089	4.90071	4	Europe
+51.3416	7.4874	1	Europe
+35.7578	-81.5628	1	North America
+41.1179	-77.6047	7	North America
+40.4314	-79.9806	56	North America
+47.8002	12.4896	2	Europe
+26.6464	-80.0681	2	North America
+-29.5564	-49.8927	1	South America
+44.0649	12.5699	2	Europe
+50.2057	12.9611	1	Europe
+49.9434	19.2912	1	Europe
+34.908	135.82	28	Asia
+-23.2102	-46.7565	8	South America
+48.7283	-0.0395019	1	Europe
+-7.84686	113.77	2	Asia
+-36.792	-73.0837	12	South America
+42.6547	-71.3813	9	North America
+49.8739	8.63861	1	Europe
+-7.32762	109.587	4	Asia
+35.1693	139.643	3	Asia
+45.184	5.71568	26	Europe
+34.775	135.307	4	Asia
+18.5025	-67.02	2	North America
+-0.417438	116.978	2	Asia
+30.08	31.3104	31	Africa
+43.0947	6.29607	1	Europe
+0.0188461	-51.0825	231	South America
+45.0979	14.1166	1	Europe
+35.0815	-108.836	1	North America
+50.2786	3.93696	8	Europe
+35.1074	-80.6214	20	North America
+38.909	-90.1466	5	North America
+50.0592	1.38153	5	Europe
+37.8226	-92.1642	2	North America
+53.6799	9.37268	3	Europe
+40.9129	14.7891	1	Europe
+51.858	4.35872	26	Europe
+30.2234	-81.5819	9	North America
+28.9699	-111.498	6	North America
+51.1105	15.6055	1	Europe
+-2.57242	-59.9803	312	South America
+-6.59088	-38.5661	1	South America
+-26.9671	-48.7712	2	South America
+-7.18116	-39.2756	5	South America
+38.3641	-121.962	3	North America
+9.57985	123.729	1	Asia
+26.8774	80.9901	1	Asia
+39.3506	-85.9647	1	North America
+37.994	-97.509	1	North America
+-21.9051	-45.5918	1	South America
+28.3515	36.5924	1	Asia
+-28.1373	-54.7218	1	South America
+47.0881	8.28108	15	Europe
+31.5524	-81.9	1	North America
+46.6431	142.772	4	Europe
+-7.97495	110.284	13	Asia
+39.2832	16.6339	1	Europe
+14.1045	120.953	2	Asia
+44.5326	-93.5745	1	North America
+29.2333	-94.8733	1	North America
+38.9011	22.3686	2	Europe
+54.6016	-5.93007	16	Europe
+29.806	-83.3419	2	North America
+51.681	5.42326	34	Europe
+-30.0016	-52.9029	1	South America
+18.9959	72.8307	16	Asia
+5.72364	102.029	2	Asia
+32.1794	-82.3639	1	North America
+48.1203	-1.40327	1	Europe
+-23.0144	-46.7992	2	South America
+62.0482	26.6718	1	Europe
+37.8843	27.583	1	Asia
+42.4842	-96.3822	9	North America
+33.6015	-91.8411	3	North America
+37.4596	42.7051	1	Asia
+33.0577	-112.046	1	North America
+37.2104	-1.8129	1	Europe
+20.8782	105.76	1	Asia
+53.2975	-3.0686	8	Europe
+34.7829	134.849	1	Asia
+-39.7939	-73.225	1	South America
+46.7899	4.85034	4	Europe
+28.9621	50.8283	1	Asia
+37.2861	-2.18774	1	Europe
+52.3838	4.64301	37	Europe
+-8.78293	115.215	84	Asia
+-21.604	-45.5858	1	South America
+50.3463	7.58951	1	Europe
+26.7902	-80.1319	10	North America
+35.6699	-80.4839	1	North America
+-23.0558	-44.8942	16	South America
+41.8276	2.73584	1	Europe
+29.7959	-95.8299	7	North America
+1.95758	112.542	1	Asia
+-26.3749	25.4619	6	Africa
+53.011	9.03651	5	Europe
+64.8562	-146.276	2	North America
+52.3834	13.1196	16925	Europe
+39.9636	-86.3741	1	North America
+40.5415	-112.313	3	North America
+39.9316	-75.2541	115	North America
+34.0103	-117.069	2	North America
+-7.8459	111.48	1	Asia
+22.7894	-98.5974	1	North America
+40.756	-80.3195	1	North America
+18.0004	-77.0048	2	North America
+-25.2655	-54.0981	2	South America
+32.5254	-92.0619	5	North America
+50.7359	2.29618	3	Europe
+15.4001	74.0057	3	Asia
+31.4322	-100.449	1	North America
+-25.9478	29.2493	1	Africa
+18.4662	-97.4224	1	North America
+9.1799	-79.2721	1	North America
+37.7738	-81.1822	5	North America
+38.5351	-0.824758	1	Europe
+51.6396	-2.67382	1	Europe
+51.4723	-2.81064	4	Europe
+-2.54526	118.03	21	Asia
+-22.916	-43.4474	873	South America
+41.1552	-87.8597	3	North America
+32.8207	-96.7315	59	North America
+40.3311	-75.9682	12	North America
+56.1623	15.5802	1	Europe
+-21.0871	-42.4098	1	South America
+42.163	-84.4681	5	North America
+-25.5359	-54.6271	2	South America
+22.0696	82.1698	1	Asia
+43.2513	76.9028	4	Asia
+4.6122	101.059	1	Asia
+55.102	-1.57826	15	Europe
+39.3119	26.6559	2	Asia
+31.0347	31.3885	2	Africa
+-14.8031	-39.0319	2	South America
+2.0325	102.565	4	Asia
+10.7289	122.551	3	Asia
+62.5165	17.2426	1	Europe
+56.3336	-3.3057	1	Europe
+-21.9722	-47.4137	2	South America
+10.4909	-66.8494	22	South America
+44.884	-93.9736	1	North America
+49.1544	31.4011	1	Europe
+-19.7598	-47.9427	2	South America
+37.4596	-121.156	3	North America
+32.5711	-89.8764	13	North America
+53.478	6.16153	1	Europe
+53.5344	-1.3226	15	Europe
+33.7766	-79.0121	5	North America
+50.7374	4.23258	1	Europe
+22.3496	113.525	1	Asia
+-7.31856	-50.0474	1	South America
+36.5772	36.136	4	Asia
+59.7506	30.5852	1	Europe
+34.7813	138.02	2	Asia
+33.2091	-97.147	2	North America
+-19.2891	-41.9029	1	South America
+46.7459	0.182716	1	Europe
+53.9014	27.4382	10	Europe
+28.8819	76.6311	1	Asia
+53.1343	23.1584	1	Europe
+42.8158	-1.6496	5	Europe
+-12.3512	-38.388	1	South America
+1.56806	110.038	3	Asia
+33.9617	-78.7108	1	North America
+-11.715	-40.1504	1	South America
+19.3558	-99.1902	66	North America
+42.5267	-89.0075	1	North America
+4.73156	118.1	12	Asia
+40.0758	-80.1901	7	North America
+49.3598	1.79644	5	Europe
+43.6008	1.4329	52	Europe
+50.6787	5.60647	6	Europe
+52.4685	4.76867	21	Europe
+41.6525	-74.1178	1	North America
+32.6022	-85.4839	5	North America
+-1.32225	-48.3132	32	South America
+25.6412	-100.294	58	North America
+51.6821	39.2584	20	Europe
+48.8447	2.82584	46	Europe
+-22.7367	-44.3348	1	South America
+19.6283	-69.9035	2	North America
+34.8587	135.482	1	Asia
+43.1077	141.557	3	Asia
+-33.7996	150.909	6	Oceania
+33.3085	44.3738	2	Asia
+46.1451	3.12603	2	Europe
+4.57806	-74.2113	18	South America
+34.2018	-82.1706	15	North America
+42.8459	-82.8832	4	North America
+50.795	-2.61142	11	Europe
+47.2144	16.6126	1	Europe
+41.9782	12.7103	2	Europe
+-21.677	-47.5085	9	South America
+50.4194	2.9587	15	Europe
+44.5554	-64.6905	1	North America
+38.5294	-121.575	10	North America
+-21.2296	-46.5145	6	South America
+54.6851	-1.79769	6	Europe
+56.8327	24.5016	10	Europe
+50.0127	2.08635	1	Europe
+-3.43643	114.83	11	Asia
+36.4373	-95.2685	1	North America
+46.5287	6.65208	97	Europe
+-23.3116	-51.3669	1	South America
+-22.803	-47.4357	224	South America
+53.1614	6.7816	10	Europe
+46.7698	6.6409	1	Europe
+25.3381	55.3868	12	Asia
+51.7357	0.46444	2	Europe
+-3.19443	115.253	1	Asia
+62.649	30.3449	1	Europe
+5.47269	95.2431	1	Asia
+41.6018	-87.7542	19	North America
+40.7246	29.6136	1	Asia
+-37.7362	145.015	44	Oceania
+45.803	-0.774403	1	Europe
+-20.0545	-43.4527	32	South America
+53.6047	10.0399	1	Europe
+60.9342	26.8318	1	Europe
+45.5162	-93.8206	1	North America
+44.228	42.0649	1	Europe
+43.2607	-79.9135	5	North America
+-24.8858	152.357	2	Oceania
+-22.1994	-55.544	6	South America
+-24.4958	-47.8554	47	South America
+35.2111	-118.829	6	North America
+30.1864	31.4883	1	Africa
+7.0894	125.606	9	Asia
+11.2895	124.961	1	Asia
+34.222	-119.034	3	North America
+50.0885	3.43646	1	Europe
+-1.10233	103.024	1	Asia
+-21.5699	-45.7609	3	South America
+40.073	-74.7243	29	North America
+51.6061	16.8895	1	Europe
+38.0651	-75.5556	3	North America
+39.9812	4.09502	1	Europe
+38.0652	-1.73025	3	Europe
+32.7001	-113.962	1	North America
+5.54422	-0.38639	2	Africa
+50.8452	-0.130547	17	Europe
+40.3174	-78.9225	1	North America
+-28.2759	-52.8612	4	South America
+41.6566	-83.5743	8	North America
+19.0367	-98.7904	1	North America
+10.1636	-66.8767	1	South America
+31.8453	-116.6	2	North America
+51.4951	-3.1885	10	Europe
+12.1154	-68.8812	4	North America
+8.87987	-75.6895	1	South America
+53.3742	8.10786	1	Europe
+-21.5824	-51.0714	3	South America
+36.1866	-86.7852	29	North America
+26.6658	-80.7235	2	North America
+28.4832	-16.3138	4	Europe
+51.6121	5.1551	33	Europe
+43.276	-8.2247	1	Europe
+18.5574	-69.2997	2	North America
+54.1306	42.6879	1	Europe
+52.2703	4.46585	26	Europe
+56.5405	-3.88487	1	Europe
+-27.1411	-51.5855	1	South America
+43.9559	4.42351	1	Europe
+-18.8055	-50.5958	3	South America
+45.9836	4.32692	1	Europe
+34.752	-95.0541	1	North America
+52.9014	4.78503	1	Europe
+10.2643	123.822	11	Asia
+13.3272	77.1249	1	Asia
+39.4998	-111.547	1	North America
+-3.436	102.196	1	Asia
+15.5186	-88.0159	4	North America
+42.4881	-83.0346	34	North America
+-17.8586	-42.5919	2	South America
+-21.5453	-42.6605	3	South America
+52.79	-2.13483	3	Europe
+51.16	4.52261	8	Europe
+44.3212	-61.8117	4	North America
+54.1143	12.0646	5	Europe
+44.9816	-122.985	8	North America
+34.2247	-84.4753	1	North America
+34.962	127.526	1	Asia
+41.1318	-77.4482	1	North America
+51.7495	-1.24103	23	Europe
+-33.2704	151.435	1	Oceania
+54.5352	-1.55855	1	Europe
+-23.4062	-50.3577	1	South America
+29.9323	-83.4454	2	North America
+48.5681	7.80744	46	Europe
+37.751	-77.4566	1	North America
+44.8884	-68.6689	1	North America
+55.702	13.2008	1	Europe
+17.0193	54.1149	1	Asia
+29.2397	-98.3022	1	North America
+40.186	23.3872	1	Europe
+38.8778	-99.3181	3	North America
+43.1747	-70.8639	3	North America
+-23.3771	-46.7393	42	South America
+57.384	18.2162	1	Europe
+28.063	-81.7061	2	North America
+43.927	4.7976	10	Europe
+31.7486	-83.6612	1	North America
+41.0473	28.9335	97	Asia
+29.6293	-98.2156	4	North America
+43.8122	142.35	1	Asia
+49.2707	-122.754	44	North America
+34.7846	-85.5418	2	North America
+33.4504	-79.5568	1	North America
+28.3286	-80.6246	3	North America
+-15.8845	-55.1062	4	South America
+38.201	-84.857	1	North America
+-2.42837	106.432	4	Asia
+39.4931	-75.0876	2	North America
+40.2161	-74.7742	6	North America
+34.2007	-118.154	4	North America
+-6.98141	108.312	1	Asia
+-22.5268	-44.1318	6	South America
+50.3802	3.10048	3	Europe
+53.1958	45.0387	9	Europe
+56.4811	23.155	1	Europe
+40.047	-76.4878	2	North America
+35.0451	-85.0448	1	North America
+-0.518988	117.132	30	Asia
+34.7955	-85.003	1	North America
+62.3961	17.3275	1	Europe
+5.69966	-0.235893	15	Africa
+38.6237	-5.66514	1	Europe
+3.40969	102.038	1	Asia
+53.5203	49.4315	18	Europe
+-22.6984	-48.5467	6	South America
+28.6218	-81.1863	11	North America
+52.1148	5.26272	39	Europe
+-7.88019	-34.8294	5	South America
+54.8716	-1.45727	14	Europe
+49.1659	5.86682	1	Europe
+35.9583	-78.5175	3	North America
+30.5617	-97.5792	5	North America
+45.4047	-122.798	17	North America
+61.5382	23.6754	1	Europe
+44.6151	40.1472	1	Europe
+42.6869	-73.0064	1	North America
+14.4659	120.966	110	Asia
+46.8512	-100.908	3	North America
+60.7534	15.8205	1	Europe
+-11.772	-55.4066	3	South America
+30.8784	-102.855	1	North America
+15.427	120.948	7	Asia
+-22.7782	-53.2683	1	South America
+-19.7132	-40.4356	1	South America
+48.7734	2.07451	50	Europe
+-21.242	-51.5713	2	South America
+-6.46645	108.439	1	Asia
+47.4269	8.6711	1	Europe
+35.3325	138.962	2	Asia
+-21.0666	-41.3608	1	South America
+34.4374	-84.92	1	North America
+-7.15768	111.887	1	Asia
+36.5199	-6.11973	3	Europe
+40.9513	-81.4332	1	North America
+42.6691	-84.6784	1	North America
+33.6295	-117.596	1	North America
+4.94955	114.842	19	Asia
+-5.5255	-47.477	1	South America
+63.1979	10.3154	1	Europe
+42.6475	-5.53942	8	Europe
+12.4762	99.969	2	Asia
+44.0822	15.1881	1	Europe
+36.252	-107.618	1	North America
+2.13286	102.784	2	Asia
+52.0842	5.08277	49	Europe
+43.5079	-96.6835	3	North America
+-29.9153	-51.1771	46	South America
+43.4602	1.37758	1	Europe
+26.0397	-80.1753	56	North America
+50.7669	6.23464	1	Europe
+1.60032	-52.378	2	South America
+43.6293	-79.2725	136	North America
+-28.71	-55.8067	2	South America
+59.2176	17.3019	1	Europe
+43.1792	-1.35398	4	Europe
+49.0772	2.21259	15	Europe
+45.5024	1.19881	1	Europe
+-20.9047	-47.0194	5	South America
+43.7697	5.25714	2	Europe
+52.731	15.218	2	Europe
+13.8173	99.8708	1	Asia
+45.7747	15.9467	1	Europe
+3.75441	102.562	3	Asia
+29.0884	-110.979	2	North America
+47.7341	-116.953	1	North America
+-17.991	-49.6681	1	South America
+-22.2407	-45.6868	1	South America
+51.7341	5.28543	16	Europe
+31.0998	29.7707	1	Africa
+-2.56593	112.945	1	Asia
+45.6926	3.83377	1	Europe
+45.6586	2.00509	1	Europe
+-25.4912	-50.8622	4	South America
+58.9017	5.55227	2	Europe
+40.2517	-0.0775025	1	Europe
+-21.9695	-44.9342	3	South America
+6.07036	102.29	41	Asia
+-14.6638	-52.3467	1	South America
+43.65	4.07301	5	Europe
+-3.12394	-47.6536	8	South America
+55.3637	10.467	1	Europe
+-3.38913	104.825	6	Asia
+54.3875	-3.37736	1	Europe
+48.7368	1.36658	8	Europe
+50.2654	-5.06791	2	Europe
+61.2465	46.8807	1	Europe
+48.7712	1.92523	83	Europe
+-27.1211	-48.9046	5	South America
+-6.96009	111.896	3	Asia
+19.2672	-103.699	2	North America
+-13.7089	-76.2018	1	South America
+37.8485	23.7828	1	Europe
+15.4864	120.587	26	Asia
+36.7174	-108.18	3	North America
+13.5549	100.272	2	Asia
+46.2079	-119.149	1	North America
+5.14084	7.35404	1	Africa
+39.1308	-8.89329	1	Europe
+49.6402	11.786	2	Europe
+42.7466	-75.77	32	North America
+50.8708	-1.57762	23	Europe
+-3.33513	114.61	23	Asia
+48.314	2.56907	2	Europe
+-6.21633	-35.3934	1	South America
+30.1234	-93.7599	1	North America
+42.686	9.42378	1	Europe
+41.2451	-85.8263	1	North America
+-21.7554	-48.172	13	South America
+52.8878	-1.81442	1	Europe
+7.39589	3.88256	3	Africa
+-21.4614	-49.5857	3	South America
+-7.46479	112.444	3	Asia
+10.3263	-72.3235	1	South America
+32.8131	-91.19	2	North America
+51.9995	4.36409	36	Europe
+48.383	31.1814	345	Europe
+15.3193	-92.6627	1	North America
+10.4197	-61.4669	2	North America
+-26.7265	-48.9141	1	South America
+-21.3928	-50.1297	9	South America
+36.0802	-120.106	1	North America
+43.7205	-81.6061	2	North America
+55.3506	86.0784	9	Europe
+31.4924	-89.7411	1	North America
+-21.6793	-49.7808	29	South America
+46.8701	35.3876	1	Europe
+57.74	12.0854	1	Europe
+34.7905	-79.2287	2	North America
+-25.8783	-48.5721	1	South America
+51.2216	22.5635	4	Europe
+42.6617	-73.7605	6	North America
+50.6262	6.336	1	Europe
+-4.84337	-43.3454	1	South America
+38.0553	-122.148	3	North America
+32.9429	-97.367	2	North America
+45.9677	5.83158	2	Europe
+32.3888	-90.6695	2	North America
+36.4083	-89.037	1	North America
+47.8954	-3.90081	1	Europe
+28.4501	-81.5203	17	North America
+38.9787	-75.8088	1	North America
+35.7154	-89.5227	1	North America
+50.0648	9.22963	1	Europe
+-7.06031	-35.2031	5	South America
+29.5901	-98.6259	24	North America
+10.4089	-67.0144	4	South America
+-6.18622	106.637	335	Asia
+34.0149	-83.9353	9	North America
+38.022	-3.77527	2	Europe
+-26.9981	-49.2271	1	South America
+5.54298	115.841	3	Asia
+22.2908	113.942	1	Asia
+42.3386	-7.87478	4	Europe
+28.3514	-101.93	2	North America
+40.2298	-83.3489	1	North America
+48.4548	35.0276	7	Europe
+37.1559	-76.5791	3	North America
+-0.216815	100.633	2	Asia
+19.7969	-70.6893	3	North America
+33.1806	-111.575	4	North America
+-25.6054	28.1088	1	Africa
+31.6439	-86.7339	1	North America
+41.5927	-81.5525	34	North America
+-7.72233	109.921	2	Asia
+-20.595	-47.3472	7	South America
+14.7347	100.779	1	Asia
+49.4549	-2.54558	1	Europe
+18.6954	-98.5375	2	North America
+36.0112	-95.7212	1	North America
+53.1042	49.9521	3	Europe
+-16.7124	-49.1029	2	South America
+-5.28852	-35.6104	1	South America
+53.2916	-6.7561	1	Europe
+40.6977	-75.1796	2	North America
+41.9645	-70.7088	1	North America
+-6.61198	107.489	3	Asia
+35.4464	-77.6725	4	North America
+25.7664	-100.409	1	North America
+42.0255	-93.6459	4	North America
+13.8756	-88.6292	1	North America
+39.0298	16.4181	2	Europe
+-17.9733	-67.1338	2	South America
+52.307	104.253	9	Europe
+18.3444	-99.5484	1	North America
+29.1831	47.9099	10	Asia
+50.406	6.83129	2	Europe
+-29.4471	-52.0231	1	South America
+-30.0997	-51.1593	161	South America
+41.1488	-104.821	1	North America
+42.9336	142.053	1	Asia
+38.8745	-6.85618	1	Europe
+-8.48202	115.298	8	Asia
+53.5241	-7.78795	2	Europe
+-19.4526	17.5892	1	Africa
+40.2421	-103.792	1	North America
+53.401	-8.30764	5	Europe
+54.104	22.9291	37	Europe
+30.7019	-88.0889	8	North America
+38.0881	-3.63952	1	Europe
+38.3493	-94.5891	1	North America
+30.4365	-86.6273	1	North America
+48.2063	5.95524	1	Europe
+37.8251	-7.87556	1	Europe
+37.7653	-122.199	11	North America
+32.5409	-93.8288	1	North America
+41.3006	-7.76079	1	Europe
+5.31732	116.188	1	Asia
+47.6588	-117.423	11	North America
+-24.1895	-54.0695	3	South America
+3.88372	-77.0657	3	South America
+56.7294	-2.64487	2	Europe
+28.6982	-99.8353	1	North America
+29.7213	-90.609	1	North America
+53.8224	-1.54536	21	Europe
+38.7391	-75.6046	3	North America
+14.9125	-91.3621	1	North America
+65.8362	24.1097	1	Europe
+30.9856	31.1725	2	Africa
+46.5073	1.44303	1	Europe
+43.6707	4.61163	3	Europe
+41.5572	-87.2713	26	North America
+48.0832	41.2726	4	Europe
+-5.65214	-45.2755	1	South America
+10.6698	-71.6131	33	South America
+29.8499	-82.1583	1	North America
+50.8531	4.35493	81	Europe
+18.4222	-77.1645	1	North America
+-22.7622	-46.8919	2	South America
+0.574921	123.047	4	Asia
+55.7831	-4.04844	1	Europe
+42.8744	74.6067	2	Asia
+-1.87145	106.123	1	Asia
+42.3622	-88.089	4	North America
+-21.1062	-48.0294	3	South America
+32.6782	-83.1783	75	North America
+-19.2362	-43.247	13	South America
+43.6636	-70.2653	1	North America
+36.4925	-6.27167	10	Europe
+32.7237	-97.5	2	North America
+32.7673	-89.0905	1	North America
+-19.0044	-48.3585	64	South America
+-38.2671	145.017	1	Oceania
+1.49117	125.156	10	Asia
+37.2336	-80.4338	2	North America
+42.3345	-122.782	3	North America
+40.4878	-79.5769	1	North America
+52.9032	5.87635	2	Europe
+41.6915	-0.927332	13	Europe
+59.7646	9.92338	1	Europe
+31.4952	-82.8552	1	North America
+-25.8241	25.6123	1	Africa
+56.4373	23.5066	1	Europe
+-27.2422	-52.0333	3	South America
+37.1532	-8.73635	1	Europe
+10.0553	-84.4349	5	North America
+4.23955	103.192	4	Asia
+56.4887	-2.95793	12	Europe
+52.333	4.89077	38	Europe
+-23.5139	-70.402	4	South America
+43.0616	-73.7719	1	North America
+-3.92679	119.799	1	Asia
+57.72	11.9351	4	Europe
+2.98355	101.54	566	Asia
+45.2712	-122.69	2	North America
+5.5633	-0.178071	6	Africa
+45.5224	11.3282	2	Europe
+40.5596	-105.068	2	North America
+11.6039	122.736	2	Asia
+51.1963	0.742771	4	Europe
+4.20177	100.663	11	Asia
+46.5838	-112.036	1	North America
+43.7297	-79.8043	18	North America
+45.5617	4.28996	2	Europe
+57.9099	59.9579	2	Europe
+57.7482	12.971	4	Europe
+41.2019	32.8609	1	Asia
+53.29	83.6478	8	Europe
+7.97585	-75.4207	1	South America
+-7.2484	107.91	6	Asia
+-20.4108	-48.0644	1	South America
+53.0317	-6.90895	1	Europe
+-33.5562	-70.7885	14	South America
+35.5039	-80.8488	2	North America
+66.1799	56.3065	1	Europe
+36.7365	-88.6492	1	North America
+36.1537	139.328	1	Asia
+47.7162	-1.98116	2	Europe
+-7.85961	113.277	2	Asia
+30.0608	140.596	16	Asia
+-18.0346	-49.3699	1	South America
+43.7383	7.42425	9	Europe
+-22.0585	-46.575	13	South America
+57.6954	-4.25096	2	Europe
+13.4746	-88.1831	1	North America
+48.913	1.91326	4	Europe
+-3.76032	-38.6701	3	South America
+19.114	73.0076	13	Asia
+53.8222	-2.71083	9	Europe
+38.1905	-83.4284	3	North America
+55.2557	9.29332	1	Europe
+-8.90188	116.749	2	Asia
+26.1975	49.4893	1	Asia
+43.5398	7.00931	31	Europe
+22.3111	-100.956	18	North America
+39.3632	-7.13544	1	Europe
+24.6083	46.7329	1	Asia
+17.9062	-62.8287	1	North America
+27.4615	-82.4224	1	North America
+35.5626	-5.89977	2	Africa
+47.4866	0.94688	1	Europe
+48.0663	-2.96974	1	Europe
+8.95264	-75.4465	1	South America
+44.1454	-120.583	2	North America
+-8.17182	112.702	8	Asia
+14.7299	121.067	9	Asia
+30.8022	-89.1361	1	North America
+57.1934	9.95934	1	Europe
+33.5884	-86.4319	2	North America
+11.2651	75.7842	2	Asia
+51.0768	13.7725	3	Europe
+40.8716	-72.4103	1	North America
+40.9889	-94.7486	1	North America
+46.1637	9.88617	8	Europe
+40.9368	24.4136	1	Europe
+46.5747	-96.0849	4	North America
+36.7967	-4.68937	22	Europe
+50.5313	12.7696	1	Europe
+-20.5187	-48.6196	7	South America
+37.5388	-82.5864	1	North America
+35.078	-92.4591	5	North America
+47.0935	-1.26501	1	Europe
+46.7619	28.9112	1	Europe
+-7.11117	-38.7853	1	South America
+10.5781	-62.3042	3	South America
+-28.7393	32.0727	1	Africa
+34.1226	-114.302	1	North America
+-37.0149	175.859	1	Oceania
+42.9347	-87.945	7	North America
+48.0753	1.32973	1	Europe
+44.9517	9.73919	2	Europe
+39.0801	-80.5862	1	North America
+38.4092	-82.4789	1	North America
+-24.5886	-54.161	1	South America
+17.6347	-97.7069	1	North America
+42.9692	-85.8899	5	North America
+51.1706	16.5965	2	Europe
+54.1771	-6.34181	1	Europe
+59.1811	17.6576	1	Europe
+-6.32798	-37.7136	1	South America
+-6.45632	107.062	13	Asia
+3.30508	103.121	1	Asia
+51.6682	-0.60076	4	Europe
+45.6025	5.27468	2	Europe
+-20.9095	-47.5773	2	South America
+-35.7254	-71.679	1	South America
+37.9159	139.05	2	Asia
+39.973	-74.0706	1	North America
+-5.57728	-36.9084	1	South America
+3.07867	101.421	20	Asia
+37.1429	-5.92161	3	Europe
+-26.1206	-51.0906	3	South America
+-42.9007	147.328	2	Oceania
+52.9704	36.0825	6	Europe
+45.6009	8.2727	3	Europe
+14.5395	-91.6793	2	NULL
+18.9338	-99.2608	18	North America
+38.1365	-81.1592	1	North America
+55.2914	11.968	2	Europe
+34.8568	32.3629	1	Europe
+33.0051	-82.4034	1	North America
+43.4802	13.2037	3	Europe
+33.034	-115.624	4	North America
+51.9037	-9.03369	3	Europe
+-22.4889	-46.3572	3	South America
+14.3586	100.565	1	Asia
+55.7615	9.40227	1	Europe
+33.516	-86.7487	10	North America
+32.6057	-114.573	1	North America
+33.6885	-117.318	2	North America
+-19.6263	-43.8892	1	South America
+51.7803	5.5854	1	Europe
+42.6281	-79.0825	2	North America
+60.3192	24.9696	2	Europe
+-21.244	55.5417	1	Africa
+37.7599	-121.436	2	North America
+45.3231	9.36708	33	Europe
+31.6888	35.7069	2	Asia
+29.6025	-83.0166	1	North America
+38.8753	-104.757	5	North America
+42.0851	-83.6809	1	North America
+8.57522	-71.1803	5	South America
+14.819	-61.0288	4	North America
+-18.578	-45.4518	5	South America
+34.3943	-99.0104	2	North America
+-4.51112	126.44	2	Asia
+9.86585	-83.9105	4	North America
+38.9545	-81.7569	2	North America
+47.4708	-0.355243	3	Europe
+51.506	-1.12316	1	Europe
+-22.3011	-48.5366	1	South America
+3.45896	98.5429	1	Asia
+62.6531	8.72498	1	Europe
+40.616	-80.2455	2	North America
+40.2206	-85.7642	1	North America
+48.6516	1.82087	1	Europe
+-8.0436	-34.9394	309	South America
+25.5312	-103.525	5	North America
+18.3709	-95.7662	1	North America
+56.2035	15.2779	1	Europe
+40.4767	-90.6911	8	North America
+-27.4399	153.007	31	Oceania
+34.2467	-118.446	34	North America
+38.3169	-77.8476	1	North America
+-23.2875	-50.084	1	South America
+-15.8401	-48.0087	21	South America
+43.0939	-88.0561	35	North America
+50.5027	12.1431	1	Europe
+41.8331	-86.2453	2	North America
+43.2063	0.44727	1	Europe
+44.8981	-91.9326	1	North America
+-21.7765	-48.5554	1	South America
+51.2667	22.8865	9	Europe
+37.3272	127.118	3	Asia
+40.8467	-73.4309	1	North America
+44.7117	142.265	2	Asia
+37.6892	12.639	2	Europe
+41.0217	29.0913	20	Asia
+37.1035	-93.7952	1	North America
+-0.87115	119.891	13	Asia
+36.1422	-86.6208	3	North America
+34.8272	135.68	2	Asia
+31.9334	-81.931	2	North America
+10.2703	-61.4567	2	North America
+-16.3856	-46.8307	1	South America
+42.0715	-88.0454	7	North America
+34.5486	-78.9058	1	North America
+52.3659	-1.28241	2	Europe
+42.6938	23.3264	2	Europe
+-24.6008	24.7362	1	Africa
+33.836	-83.8985	7	North America
+22.2783	114.176	10	Asia
+-5.97877	-38.727	1	South America
+51.2913	1.10212	4	Europe
+42.5487	-83.218	4	North America
+-6.83089	107.924	1	Asia
+6.6041	116.862	2	Asia
+34.9167	33.0189	1	Europe
+45.2217	-123.204	3	North America
+35.486	-96.6973	1	North America
+5.92527	102.23	2	Asia
+4.95875	8.34427	5	Africa
+55.9355	37.8427	3	Europe
+42.4701	-70.9323	11	North America
+50.5258	30.2299	1	Europe
+-34.1777	-70.6909	8	South America
+-3.24283	118.929	1	Asia
+29.2139	-99.777	6	North America
+50.1191	4.70417	2	Europe
+38.9403	-74.9038	2	North America
+47.7791	15.8888	1	Europe
+51.4851	3.95455	1	Europe
+6.10819	100.553	2	Asia
+45.5249	11.6327	1	Europe
+54.6669	-6.79809	1	Europe
+-27.3642	29.878	1	Africa
+44.4006	33.8032	1	Europe
+51.2271	51.3755	1	Asia
+53.4898	-2.08167	1	Europe
+-3.56561	119.775	2	Asia
+43.4346	5.0377	11	Europe
+54.2782	-1.68717	5	Europe
+32.799	-116.954	2	North America
+4.80659	114.654	3	Asia
+4.07671	101.149	1	Asia
+-6.88627	-37.5162	1	South America
+55.6078	-4.68067	1	Europe
+25.6748	-80.3842	53	North America
+23.3338	75.0316	1	Asia
+-8.3285	114.222	2	Asia
+52.3445	6.65941	16	Europe
+15.6392	100.182	1	Asia
+37.6815	-4.85393	1	Europe
+34.9908	-78.5034	1	North America
+15.7339	-88.5993	7	North America
+44.0181	-88.5619	2	North America
+21.4425	-157.753	13	North America
+37.0969	-119.308	2	North America
+-3.3909	-57.7222	1	South America
+41.0945	-80.6395	11	North America
+58.5905	49.6388	6	Europe
+20.6201	-100.175	2	North America
+32.7863	-80.783	1	North America
+42.1297	-75.9113	2	North America
+51.1516	15.0178	2	Europe
+43.6998	-85.5007	1	North America
+32.7978	-117.251	6	North America
+38.1377	13.3472	5	Europe
+56.9558	65.7549	2	Europe
+42.3525	14.4004	1	Europe
+-29.1668	-51.1531	3	South America
+41.2441	-73.6738	1	North America
+50.1935	8.93088	1	Europe
+43.7507	11.6039	3	Europe
+34.7189	-85.9645	1	North America
+36.9714	14.5889	2	Europe
+-23.1211	-46.1654	3	South America
+55.1041	36.5965	2	Europe
+34.336	-78.6884	1	North America
+37.6606	-77.5884	8	North America
+5.54012	-73.3598	10	South America
+43.8427	4.30757	9	Europe
+30.4408	-97.6727	15	North America
+-9.60592	-35.9549	3	South America
+53.5879	15.5522	1	Europe
+39.4113	-84.5052	3	North America
+4.80821	-75.6845	3	South America
+5.83792	102.414	2	Asia
+25.8524	-80.3047	45	North America
+-21.8843	-52.1946	2	South America
+-2.62921	-44.3026	90	South America
+47.1121	5.26017	1	Europe
+-5.04263	-37.0174	1	South America
+38.9399	-8.8576	2	Europe
+44.9022	-0.710472	71	Europe
+-18.7968	-40.0622	1	South America
+34.1362	-118.663	10	North America
+37.2317	32.9564	1	Asia
+38.9636	-9.29372	6	Europe
+51.137	-2.9756	3	Europe
+48.7178	10.7675	1	Europe
+49.412	26.9453	1	Europe
+54.7235	-5.82379	1	Europe
+-26.8728	-49.1096	16	South America
+18.4571	-69.9303	44	North America
+35.9988	138.169	1	Asia
+-7.53753	110.612	3	Asia
+-7.55052	112.232	3	Asia
+52.2346	-0.881253	12	Europe
+-16.5552	-48.0222	2	South America
+-8.24658	115.15	1	Asia
+39.5643	3.21343	1	Europe
+39.7578	141.171	1	Asia
+40.1181	32.634	1	Asia
+30.4032	-87.6599	1	North America
+40.9133	-73.1234	2	North America
+44.8508	142.037	1	Asia
+0.830694	104.072	2	Asia
+56.252	-4.32615	4	Europe
+48.6881	6.17345	18	Europe
+51.5608	15.5169	1	Europe
+2.52792	102.402	1	Asia
+36.4181	-95.599	1	North America
+45.6247	-121.181	2	North America
+21.4857	39.205	14	Asia
+-8.42401	-37.0566	1	South America
+26.274	-80.1272	10	North America
+-34.5089	-58.7412	1	South America
+29.6394	-95.4293	26	North America
+-29.8171	27.2452	1	Africa
+34.8392	-89.6136	1	North America
+32.4457	-93.702	6	North America
+-10.1762	123.63	3	Asia
+56.6469	60.7841	2	Europe
+34.7234	137.436	3	Asia
+38.8916	-79.8527	1	North America
+36.0212	-86.5389	4	North America
+20.6554	-156.418	1	North America
+33.6835	-80.6383	1	North America
+-6.89559	106.644	1	Asia
+-26.2288	28.1799	5	Africa
+39.6427	-74.2038	2	North America
+-5.14383	119.426	227	Asia
+41.122	-75.9529	3	North America
+40.8255	-82.9402	1	North America
+54.782	31.998	14	Europe
+23.249	-106.436	3	North America
+44.6237	21.1752	2	Europe
+36.2329	-115.238	42	North America
+41.8582	-72.6023	1	North America
+16.2586	-92.301	76	North America
+47.5468	-121.54	1	North America
+-28.0014	-50.3477	1	South America
+18.7647	-69.2559	1	North America
+13.6142	101.093	1	Asia
+37.0334	27.4382	6	Asia
+30.5314	-92.0762	3	North America
+48.4072	2.68874	20	Europe
+39.1084	-93.2102	8	North America
+27.7127	-97.3259	25	North America
+-29.7043	-53.1293	1	South America
+6.01225	116.396	62	Asia
+37.6482	-97.3001	11	North America
+-9.53333	-35.6873	62	South America
+34.6864	-79.0973	2	North America
+37.2582	15.0019	1	Europe
+-7.76838	110.389	294	Asia
+-19.1499	-54.4952	1	South America
+38.7575	-77.4284	5	North America
+18.3365	-66.4691	1	North America
+42.2754	-71.8077	10	North America
+48.7587	-122.469	2	North America
+49.097	7.10438	1	Europe
+41.2725	-8.08243	1	Europe
+28.2478	-17.14	3	Europe
+37.6433	135.464	1	Asia
+42.3979	-71.1729	35	North America
+52.2796	43.7265	1	Europe
+53.7974	-9.54298	1	Europe
+54.9016	84.3671	1	Europe
+44.2005	43.1291	5	Europe
+51.2258	22.7492	1	Europe
+8.46052	124.616	18	Asia
+41.2814	16.3496	1	Europe
+-15.4053	-39.4747	6	South America
+20.6139	105.784	1	Asia
+-7.35834	108.535	4	Asia
+55.5855	26.5068	2	Europe
+18.0138	-102.18	1	North America
+18.1163	-66.1405	28	North America
+52.0429	18.3787	2	Europe
+11.6613	4.06438	2	Africa
+16.1784	-95.1944	5	North America
+-20.4545	-49.3333	2	South America
+43.5238	13.5472	6	Europe
+50.8444	0.11724	2	Europe
+35.9644	-77.9641	2	North America
+31.5861	-89.9516	2	North America
+49.778	9.94286	1	Europe
+55.5308	37.0457	1	Europe
+40.1679	-80.5939	1	North America
+37.2068	-7.22977	2	Europe
+-17.3796	-44.866	1	South America
+51.327	3.48969	1	Europe
+51.272	-0.395409	4	Europe
+-27.9234	-52.4302	1	South America
+19.3073	-104.833	1	North America
+-25.926	32.4648	12	Africa
+43.3788	-3.2174	1	Europe
+-28.2499	-54.3217	2	South America
+53.7788	-1.32995	2	Europe
+41.2491	-75.8786	2	North America
+-23.513	-51.0998	64	South America
+-7.52957	-35.4527	1	South America
+55.8867	-3.60894	1	Europe
+48.2162	-122.461	2	North America
+-21.78	-41.3059	3	South America
+6.67359	-1.55977	11	Africa
+47.8001	3.59026	3	Europe
+11.4008	99.5939	1	Asia
+0.0138431	37.0759	1	Africa
+47.4757	-122.095	10	North America
+45.1267	3.94328	1	Europe
+11.51	104.75	1	Asia
+-33.4712	151.385	2	Oceania
+2.37055	101.995	9	Asia
+-17.7853	177.979	1	Oceania
+38.4393	-78.8712	11	North America
+17.9937	-66.7079	7	North America
+51.3344	6.07458	16	Europe
+58.6047	99.1873	1	Europe
+46.7226	-119.908	2	North America
+-13.997	-42.4764	3	South America
+-20.6696	-43.8044	2	South America
+52.8213	-6.92991	1	Europe
+-28.3924	-49.5282	1	South America
+46.1393	9.44084	1	Europe
+47.4317	3.77506	1	Europe
+50.4609	30.773	3	Europe
+-33.4336	-70.6556	53	South America
+-5.48473	-39.8139	1	South America
+56.9665	23.7219	4	Europe
+37.7703	-122.436	107	North America
+-22.162	-41.8158	2	South America
+50.324	11.9524	1	Europe
+-8.05391	112.355	2	Asia
+-8.27649	-35.0926	4	South America
+36.3952	-88.1124	1	North America
+50.9968	5.87186	6	Europe
+40.7405	14.5641	1	Europe
+-34.0923	18.8579	1	Africa
+37.9848	-87.5735	1	North America
+-29.0686	-51.0353	24	South America
+40.6413	-73.6941	3	North America
+25.3417	51.5094	6	Asia
+35.9037	-84.189	2	North America
+18.6067	-90.7345	5	North America
+50.9425	7.30428	1	Europe
+-19.4844	29.8009	1	Africa
+45.9399	-74.1232	1	North America
+33.6005	-80.3514	2	North America
+-22.2895	-48.8787	2	South America
+43.3507	-2.65181	1	Europe
+34.9849	-101.915	1	North America
+-1.71186	113.698	22	Asia
+-24.0958	-46.8159	8	South America
+1.91295	103.015	20	Asia
+-18.7868	-54.929	1	South America
+-36.7374	-71.0353	460	South America
+38.1167	-122.277	7	North America
+-6.91833	-36.8987	2	South America
+55.4767	47.1683	3	Europe
+52.387	0.119397	2	Europe
+35.1801	-111.654	2	North America
+-29.8636	-50.5628	4	South America
+53.9871	27.6189	12	Europe
+29.8597	-97.669	2	North America
+51.2783	-0.974514	2	Europe
+50.8742	6.85095	5	Europe
+44.8408	5.29196	1	Europe
+6.01958	102.071	2	Asia
+53.3433	7.21447	2	Europe
+21.0487	-87.0318	9	North America
+31.9802	-93.9989	1	North America
+47.1168	17.6673	10	Europe
+26.1841	-81.7031	6	North America
+51.9255	5.01355	7	Europe
+-23.6961	-52.3891	1	South America
+8.11377	-80.9641	2	North America
+6.5172	3.35554	12	Africa
+41.6856	-71.1047	1	North America
+-32.2122	-52.378	6	South America
+41.0551	-73.7647	19	North America
+24.9517	67.0464	1	Asia
+53.9528	-2.02432	2	Europe
+59.9935	30.6451	2	Europe
+-23.6828	-46.5955	2321	South America
+-35.1637	149.114	2	Oceania
+56.348	30.4968	1	Europe
+54.8852	38.1006	1	Europe
+22.5437	114.017	1	Asia
+35.3318	33.302	2	Europe
+38.6472	-122.284	1	North America
+41.49	-73.0409	12	North America
+51.1105	23.4647	1	Europe
+40.9532	29.3924	3	Asia
+55.2507	11.784	1	Europe
+48.5859	-3.82946	2	Europe
+-15.3232	-49.1072	82	South America
+35.2302	-89.3557	2	North America
+-7.64807	109.59	3	Asia
+61.3316	23.7565	1	Europe
+37.3053	-6.11304	4	Europe
+52.3021	-0.59975	1	Europe
+43.9536	11.5073	1	Europe
+-7.42692	108.164	11	Asia
+41.0224	-81.6387	13	North America
+-18.9847	-49.5254	4	South America
+40.6252	-75.366	9	North America
+47.3548	8.32699	5	Europe
+49.5892	10.9845	3	Europe
+-5.16104	105.376	6	Asia
+59.5473	30.8645	2	Europe
+36.5542	-82.5419	1	North America
+46.4096	-0.195668	1	Europe
+59.4048	27.2963	1	Europe
+47.2248	-1.63039	30	Europe
+50.8182	-0.580134	2	Europe
+43.4886	-8.22519	4	Europe
+0.421988	101.829	1	Asia
+-35.2179	-71.4219	2	South America
+42.3618	-83.425	4	North America
+-8.15923	114.392	11	Asia
+4.00501	103.283	1	Asia
+29.3454	-98.5501	6	North America
+33.0368	-80.1985	1	North America
+-23.7108	-46.4227	108	South America
+37.0378	-95.6315	1	North America
+20.0301	-102.265	5	North America
+40.4367	-80.1435	6	North America
+52.1311	4.68895	26	Europe
+51.534	4.4394	8	Europe
+35.1046	-120.574	1	North America
+49.3947	5.52196	2	Europe
+48.0199	0.21744	9	Europe
+40.5224	-7.84599	1	Europe
+35.1337	-117.955	1	North America
+48.6785	13.1185	1	Europe
+5.39716	100.315	99	Asia
+-26.0416	-53.0545	2	South America
+-23.4892	-51.7215	6	South America
+43.3734	-8.42428	4	Europe
+37.0739	14.7326	2	Europe
+-7.63351	108.621	4	Asia
+16.0485	108.248	1	Asia
+2.85933	102.985	1	Asia
+39.8635	-77.0543	1	North America
+51.6704	16.044	2	Europe
+-6.24201	-40.1474	2	South America
+-5.18745	-37.3473	17	South America
+40.7642	-89.613	2	North America
+47.0691	-122.931	3	North America
+42.7261	2.97705	14	Europe
+59.1287	37.8988	1	Europe
+-10.392	-45.1398	1	South America
+38.312	-77.5039	2	North America
+39.6742	-74.9611	2	North America
+57.11	24.971	11	Europe
+4.80132	101.057	14	Asia
+56.8544	35.8997	5	Europe
+41.3194	-82.031	2	North America
+37.7541	-100.009	3	North America
+-3.42139	-68.2333	1	South America
+1.36416	110.327	1	Asia
+9.76986	-69.1676	2	South America
+36.7263	-4.44584	19	Europe
+27.29	-80.3374	1	North America
+35.3821	-94.4069	3	North America
+36.3998	-78.1593	3	North America
+37.2734	-97.4162	1	North America
+-28.8567	-51.2781	1	South America
+46.7057	-100.901	1	North America
+48.514	-2.77613	3	Europe
+45.4657	-75.5291	1	North America
+-25.2194	29.0195	3	Africa
+-22.844	-42.0681	1	South America
+39.0957	-84.8509	1	North America
+44.1575	-94.0092	2	North America
+33.5682	-83.3624	1	North America
+-18.6049	-48.2585	1	South America
+45.6459	-122.493	3	North America
+49.4523	-53.9431	1	North America
+58.4924	8.77191	3	Europe
+40.2231	-75.1688	7	North America
+1.63259	110.192	1	Asia
+50.9576	6.96746	3	Europe
+39.6046	-76.4778	1	North America
+-1.85181	116.172	2	Asia
+48.4134	7.39869	1	Europe
+37.2692	-119.307	57	North America
+46.6798	-110.045	1	North America
+48.6922	2.30575	54	Europe
+29.0354	-95.3992	1	North America
+37.5143	126.955	12	Asia
+-5.48052	120.255	6	Asia
+2.26173	117.579	2	Asia
+40.6058	-74.2895	20	North America
+14.4225	103.099	2	Asia
+40.0848	-74.9757	12	North America
+30.9812	-87.2663	1	North America
+-7.83756	-35.441	1	South America
+-3.11985	-59.992	98	South America
+50.8314	-0.388409	1	Europe
+35.8474	-90.6741	2	North America
+41.6743	-86.2713	4	North America
+53.5252	-113.605	3	North America
+33.977	35.6177	6	Asia
+-29.272	31.3599	1	Africa
+49.9551	-119.427	1	North America
+-19.9422	-44.1928	8	South America
+49.8477	3.27921	6	Europe
+56.7426	37.166	1	Europe
+41.2704	-4.93429	2	Europe
+34.152	132.221	1	Asia
+48.6189	2.97564	40	Europe
+35.9608	129.423	2	Asia
+17.8648	-92.9294	1	North America
+54.0765	-1.58976	2	Europe
+18.4512	-69.6625	2	North America
+41.9839	-87.8417	8	North America
+48.2632	2.71856	4	Europe
+32.2956	-96.4757	4	North America
+-30.5872	-52.6778	1	South America
+-21.65	-41.4319	3	South America
+40.2698	18.0456	3	Europe
+46.3826	-120.294	1	North America
+41.6814	-72.941	8	North America
+-4.96538	119.719	1	Asia
+-27.25	-52.3158	1	South America
+35.5794	-82.5775	1	North America
+21.777	-72.2416	1	North America
+-6.56218	106.771	127	Asia
+40.4912	-3.37635	6	Europe
+33.5531	-84.2788	5	North America
+39.5782	-79.8737	13	North America
+51.386	5.12585	1	Europe
+41.1054	-81.5172	11	North America
+34.6245	138.198	1	Asia
+38.957	-121.544	1	North America
+39.3886	-8.50641	12	Europe
+49.9023	2.28832	17	Europe
+-7.71744	113.076	1	Asia
+51.2992	6.46855	2	Europe
+52.6614	-1.95216	1	Europe
+50.957	-114.076	6	North America
+19.1003	-103.657	6	North America
+29.7246	-95.5664	2	North America
+47.2907	7.03242	1	Europe
+38.151	-1.28678	5	Europe
+-22.3597	-48.0295	2	South America
+3.5364	98.8056	1	Asia
+45.375	134.708	4	Europe
+-30.5444	-52.5168	1	South America
+47.9722	-99.0248	2	North America
+53.0847	-2.87307	2	Europe
+-17.7354	-40.5056	2	South America
+59.9724	10.7215	23	Europe
+48.6475	44.3981	24	Europe
+51.054	-1.80081	2	Europe
+34.2749	-118.611	2	North America
+35.8904	-78.7183	12	North America
+14.2872	120.716	1	Asia
+39.2333	-119.943	1	North America
+36.0922	-29.9585	1	NULL
+19.761	-70.5159	1	North America
+34.5563	-117.404	4	North America
+48.9287	24.7039	1	Europe
+0.631816	101.416	22	Asia
+37.9226	-121.304	17	North America
+30.8407	-83.2815	11	North America
+46.8346	0.543198	2	Europe
+53.0091	17.7314	1	Europe
+53.3978	-0.476326	1	Europe
+55.8547	37.6536	13	Europe
+-20.7003	-47.8954	3	South America
+26.1743	91.7803	1	Asia
+27.8514	-82.8442	1	North America
+30.6806	-92.28	1	North America
+56.073	-3.46199	2	Europe
+44.4985	-78.1911	1	North America
+54.7812	18.0266	1	Europe
+34.3957	132.454	1	Asia
+45.1581	7.3865	1	Europe
+-6.69362	106.943	9	Asia
+10.2417	-66.666	1	South America
+38.985	-3.92128	1	Europe
+40.3586	-80.6871	3	North America
+44.8377	-0.574762	14	Europe
+-22.8041	-43.2957	14	South America
+51.4951	8.90705	1	Europe
+53.3933	-2.91859	50	Europe
+31.4162	-103.494	1	North America
+30.9903	-110.206	1	North America
+37.9278	27.3025	1	Asia
+43.6487	3.55241	2	Europe
+34.8522	-117.086	2	North America
+-23.8078	-47.7261	2	South America
+2.17917	111.401	1	Asia
+41.4728	-71.9578	1	North America
+40.3553	-111.985	1	North America
+38.8355	-9.36057	16	Europe
+27.469	-109.948	1	North America
+-21.1893	-45.4411	11	South America
+43.2943	5.40513	99	Europe
+22.0414	-102.356	5	North America
+55.5102	47.4854	2	Europe
+34.784	-86.5739	21	North America
+33.2941	-84.0238	1	North America
+45.5537	2.2941	1	Europe
+32.7164	-97.2309	7	North America
+48.571	16.5622	1	Europe
+32.8974	13.2137	2	Africa
+51.8802	5.9629	41	Europe
+38.5569	27.3113	2	Asia
+45.3919	5.49805	2	Europe
+-21.5007	-48.0284	1	South America
+-0.929007	100.367	38	Asia
+39.3234	-84.3616	2	North America
+40.9132	-88.6304	1	North America
+-22.9365	-46.5619	9	South America
+58.3822	33.9008	1	Europe
+-22.7177	-42.6203	1	South America
+47.4228	18.875	3	Europe
+-6.24007	-36.4424	10	South America
+47.4391	6.58419	1	Europe
+49.2882	-123.073	25	North America
+41.2556	-96.0218	11	North America
+35.1763	-89.7871	4	North America
+-3.62505	-52.4801	1	South America
+48.1129	-96.1658	1	North America
+-32.4029	-53.3233	1	South America
+-33.5793	-70.582	6	South America
+4.68095	103.146	1	Asia
+55.8491	-4.57022	3	Europe
+9.74516	-63.1803	5	South America
+59.2296	39.9013	1	Europe
+-22.8215	-43.0007	20	South America
+35.8832	128.642	1	Asia
+47.9115	1.90608	21	Europe
+3.67766	100.987	1	Asia
+-20.1139	-44.9368	3	South America
+61.6319	23.8303	1	Europe
+29.3333	48.0264	37	Asia
+-40.3813	175.588	1	Oceania
+40.4457	0.404148	2	Europe
+44.1864	4.74301	2	Europe
+3.48492	99.1369	1	Asia
+46.5018	13.5732	1	Europe
+34.6748	-82.8268	4	North America
+-26.6073	27.9387	1	Africa
+35.4227	-86.0212	1	North America
+38.1729	-122.589	4	North America
+51.054	-1.3269	1	Europe
+33.1049	-86.8646	1	North America
+40.7419	-84.1162	2	North America
+-6.01028	-35.8515	3	South America
+40.622	-74.4399	2	North America
+18.2621	-66.8486	12	North America
+53.8026	10.3993	1	Europe
+45.4687	4.50826	3	Europe
+50.4755	4.34585	4	Europe
+15.0316	120.681	2	Asia
+-21.9643	-51.3537	21	South America
+50.6294	4.65573	4	Europe
+46.4355	30.7468	4	Europe
+-6.36561	-37.9775	1	South America
+42.6625	20.2875	2	Europe
+48.9316	7.8798	2	Europe
+70.1992	29.7694	1	Europe
+42.7076	-72.4491	1	North America
+-23.239	-47.5175	6	South America
+56.537	21.0366	5	Europe
+43.6262	4.31024	1	Europe
+-24.1265	-52.366	3	South America
+58.5534	31.2773	11	Europe
+33.588	-79.0377	2	North America
+14.9252	102.014	2	Asia
+0.782224	127.386	10	Asia
+6.89258	79.9812	67	Asia
+-26.4775	-51.4095	1	South America
+43.3113	3.48433	1	Europe
+38.0164	-79.1423	1	North America
+-10.1156	-48.1132	5	South America
+46.6199	9.98317	1	Europe
+36.3023	-82.3654	1	North America
+45.3055	-93.287	3	North America
+29.7604	-94.9491	2	North America
+47.2647	-0.0838025	4	Europe
+40.4453	-86.9201	3	North America
+33.7116	-78.8785	2	North America
+54.0308	41.6153	1	Europe
+-25.4665	-49.0602	5	South America
+42.4265	-8.07867	1	Europe
+39.7602	-75.5427	16	North America
+-21.4837	-43.5431	2	South America
+21.3559	-157.941	8	North America
+33.1373	-96.785	6	North America
+19.0931	-70.6667	1	North America
+-3.1107	-41.4845	72	South America
+33.8524	-98.5197	1	North America
+20.9146	-89.6025	34	North America
+35.3348	137.121	2	Asia
+31.6928	-88.9819	1	North America
+46.1429	0.299417	2	Europe
+46.8763	-114.006	1	North America
+37.9695	-7.85798	3	Europe
+51.2749	0.189141	3	Europe
+38.2753	24.508	112	Europe
+-6.81917	107.128	4	Asia
+37.8223	-85.7682	6	North America
+45.4533	4.7654	4	Europe
+41.9955	-4.56808	1	Europe
+-22.4399	-68.9065	1	South America
+51.2912	13.0955	6	Europe
+-20.2792	-70.1084	5	South America
+57.5613	18.2031	1	Europe
+46.7613	-98.7551	1	North America
+35.1618	-106.676	4	North America
+60.6922	28.7647	4	Europe
+56.1833	13.7187	1	Europe
+5.64727	118.126	5	Asia
+-28.3065	-53.9244	3	South America
+40.9724	-5.66078	3	Europe
+38.4165	-82.7227	1	North America
+41.1023	-8.47804	6	Europe
+59.2774	15.2302	3	Europe
+-27.1669	152.966	1	Oceania
+-20.785	-49.3592	22	South America
+26.3723	-98.1432	2	North America
+35.7489	-5.83511	7	Africa
+-15.4576	-42.8934	1	South America
+14.3256	121.451	1	Asia
+52.1638	5.39544	19	Europe
+33.6109	35.6985	2	Asia
+37.2757	-79.099	5	North America
+20.9892	105.862	9	Asia
+52.2318	10.9964	3	Europe
+26.3004	-80.2957	4	North America
+39.2789	16.2706	1	Europe
+1.69564	103.461	1	Asia
+51.8914	5.22681	6	Europe
+33.6826	-84.5975	3	North America
+41.2924	-73.8879	8	North America
+43.1789	-124.188	1	North America
+56.6102	24.2008	1	Europe
+40.7948	29.357	4	Asia
+43.2628	-4.07193	1	Europe
+38.4554	27.2062	1	Asia
+-21.8793	-47.9053	20	South America
+-1.27549	126.132	3	Asia
+44.8165	20.4519	5	Europe
+48.7763	3.71448	1	Europe
+28.0456	-16.6126	2	Europe
+9.29311	76.5325	1	Asia
+-21.9796	27.8251	1	Africa
+51.2355	5.67891	10	Europe
+-6.69493	-35.5978	9	South America
+2.35915	102.254	15	Asia
+24.3253	54.6373	1	Asia
+46.7964	1.71555	3	Europe
+-35.4146	-71.6522	3	South America
+1.19182	124.892	7	Asia
+42.7898	-78.8104	5	North America
+48.9593	4.37837	4	Europe
+51.3488	7.3145	2	Europe
+27.2013	-81.8163	1	North America
+-13.017	-42.6903	1	South America
+57.8651	14.1586	2	Europe
+-9.50502	-36.9866	5	South America
+38.3553	-0.515529	13	Europe
+42.5781	9.24515	4	Europe
+60.1504	-1.13609	1	Europe
+51.9219	5.77231	5	Europe
+1.34631	102.164	5	Asia
+58.9194	23.6352	1	Europe
+53.5622	-2.33183	2	Europe
+53.1302	18.0379	1	Europe
+43.9866	21.2535	1	Europe
+38.6621	29.3906	3	Asia
+9.89697	-84.0617	21	North America
+37.6291	-0.988277	5	Europe
+58.1238	7.9374	2	Europe
+-5.40306	-37.5589	1	South America
+31.7728	-84.4449	1	North America
+59.8627	17.6739	3	Europe
+48.9703	8.18354	2	Europe
+41.3253	-74.167	9	North America
+-24.3401	-49.7209	1	South America
+38.3405	25.992	1	Europe
+52.7178	6.50351	7	Europe
+33.4896	-81.9531	4	North America
+43.2226	-79.7592	1	North America
+18.467	-66.0907	3	North America
+54.3609	18.6908	7	Europe
+32.8246	-117.109	33	North America
+-12.791	45.2831	1	Africa
+36.0972	-119.569	2	North America
+31.6947	-106.142	1	North America
+43.0843	5.81028	3	Europe

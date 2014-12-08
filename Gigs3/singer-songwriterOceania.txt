@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+singer-songwriter	Oceania	-33.8229	151.251

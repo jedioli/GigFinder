@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+indie	Africa	34.0203	-6.83744

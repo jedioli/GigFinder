@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+indie	North America	34.0209	-118.211

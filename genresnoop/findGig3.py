@@ -67,7 +67,8 @@ for genre in topGenreDict:
 
 locationScoreDict = {}
 locationDict = {}
-for genre in genreContDict:
+top10Genres = ['rock','pop','hip-hop','alternative','rap','indie','electronic','soul','singer-songwriter','dance']
+for genre in top10Genres:
     locationScoreDict[genre] = {}
     locationDict[genre] = {}
     for continent in genreContDict[genre]:
@@ -94,7 +95,7 @@ for genre in genreContDict:
                 locationScoreDict[genre][continent] = score
                 locationDict[genre][continent] = [item1[1],item1[2]]
                 #print locationDict[genre][continent]
-        fileName = "../Gigs/" + genre + continent + ".txt"
+        fileName = "../Gigs2/" + genre + continent + ".txt"
         outFile = open(fileName,'w')
         outFile.write("Genre \t Continent \t Latitude \t Longitude\n")
         outFile.write(genre + "\t" + continent + "\t" + str(locationDict[genre][continent][0]) + "\t" + str(locationDict[genre][continent][1]) + "\n")

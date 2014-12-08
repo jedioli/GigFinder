@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+singer-songwriter	Europe	52.3871	13.1165

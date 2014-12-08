@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+hip-hop	Africa	5.64048	-0.247923

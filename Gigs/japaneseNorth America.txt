@@ -1,0 +1,2 @@
+Genre 	 Continent 	 Latitude 	 Longitude
+japanese	North America	40.0025	-75.118
