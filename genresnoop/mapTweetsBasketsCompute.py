@@ -22,6 +22,7 @@ def round_within(loc1, loc2):
 
 
 genreBox = []
+
 #just did 80s
 #just did all
 #genreBox.append('alternative rock')    #don't need escaped space!
@@ -73,6 +74,7 @@ genreBox = []
 #genreBox.append('techno')
 #genreBox.append('trance')
 #genreBox.append('under 2000 listeners')
+
 genreBox.append('rock')
 genreBox.append('pop')
 genreBox.append('hip-hop')

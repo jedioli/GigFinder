@@ -5,11 +5,11 @@ import sys
 sys.path.append("../../.local/lib/python2.7/site-packages/")
 import pylast
 
-api_key = "5b859fc1368c4238acb1ba14ffc0c330"
-api_secret = "734ea732f54cd69aba43e81434046d59"
+api_key = "<API_key_here>"    #put your Last.fm API key here!
+api_secret = "<API_secret_here>" #put your Last.fm API secret here!
 
-usr_name = "jedi_oli"	#use this for now; usually you would replace with your username
-pw_hash = pylast.md5("blueberry7")	#as above
+usr_name = "<username_here>"	#put your Last.fm username here!
+pw_hash = pylast.md5("<password_here>")	#put your Last.fm password here!
 
 network = pylast.LastFMNetwork(api_key = api_key, api_secret = 
     api_secret, username = usr_name, password_hash = pw_hash)
