@@ -3,6 +3,8 @@ GigFinder
 A super awesome geographic music trend tool!
 
 
+NOTE: All API keys (and referenced usernames and passwords) previously used in this project are now null, void, and deleted. Should you wish to view index.html or run genresnoop2.py, you must obtain your own API keys for Google Maps and Last.fm, respectively.
+
 Summary
 ========
 Our core algorithm consists of three modules:
