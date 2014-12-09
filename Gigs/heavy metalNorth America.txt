@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-heavy metal	North America	49.1994	-122.913

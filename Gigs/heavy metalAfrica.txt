@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-heavy metal	Africa	34.0203	-6.83744

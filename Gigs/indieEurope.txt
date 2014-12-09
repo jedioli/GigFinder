@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-indie	Europe	51.5207	-0.142822

@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-japanese	Oceania	-31.9997	115.92

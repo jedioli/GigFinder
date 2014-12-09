@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-all	NULL	0	0

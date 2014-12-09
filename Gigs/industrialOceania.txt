@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-industrial	Oceania	-32.1097	116.025

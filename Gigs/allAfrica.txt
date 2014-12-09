@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-all	Africa	-28.4795	24.6701

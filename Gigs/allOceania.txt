@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-all	Oceania	-33.9639	151.02

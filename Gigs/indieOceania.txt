@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-indie	Oceania	-37.7467	145.009

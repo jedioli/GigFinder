@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-house	Europe	52.3834	13.1196

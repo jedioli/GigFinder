@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-industrial	Africa	-20.1533	57.5154

@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-house	Antarctica	0	0

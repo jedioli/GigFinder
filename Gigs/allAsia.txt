@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-all	Asia	39.4207	26.8072

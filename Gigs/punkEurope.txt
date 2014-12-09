@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-punk	Europe	51.5207	-0.142822

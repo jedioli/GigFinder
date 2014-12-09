@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-house	Africa	-26.3075	27.9439

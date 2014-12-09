@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-indie	Antarctica	-82.8628	-135

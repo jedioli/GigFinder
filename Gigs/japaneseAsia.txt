@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-japanese	Asia	-6.16896	106.827

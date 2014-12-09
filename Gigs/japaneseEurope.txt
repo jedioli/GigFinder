@@ -1,2 +1,0 @@
-Genre 	 Continent 	 Latitude 	 Longitude
-japanese	Europe	52.3871	13.1165
