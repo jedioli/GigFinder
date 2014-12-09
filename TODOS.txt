@@ -12,6 +12,7 @@ CODE
  - Remove API keys and make GitHub public
  - Clean up code
  - Clean up repository
+   > can get rid of gigs 1 and 2.
 
 DEMO
  - Write (and practice!!) 30-second pitch
