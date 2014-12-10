@@ -7,7 +7,7 @@ NOTE: All API keys (and referenced usernames and passwords) previously used in t
 
 Summary
 ========
-Our core algorithm consists of three modules:
+Our core algorithm consists of five modules:
 
     GenreSnoop
         which uses the Last.fm API to match music artists with genre tags,
@@ -17,6 +17,12 @@ Our core algorithm consists of three modules:
 
     MapTweetsToGenre
         which matches tweet location data to genre by the artist-genre mapping from GenreSnoop.
+    
+    MapTweetsBasketsCompute
+        which finds the number of tweets in a small area and combines them into a single weighted point
+    
+    FindGig
+        which searches through the weighted points for each genre and continent and finds the largest basket
 
 
 Our directories are as follows:
@@ -25,13 +31,22 @@ Our directories are as follows:
         contains our dataset, as well as processed data we use (genres, mappings, etc.)
 
     genresnoop/
-        contains all three of our core algorithm modules: genresnoop2.py, countGenre.py, and mapTweetsToGenre.py
+        contains all five of our core algorithm modules: genresnoop2.py, countGenre.py, mapTweetsToGenre.py, mapTweetsBasketsCompute.py, and findGig4.py
 
     mapData/
         contains formatted tweet location data, sorted into different genre files
 
     dist/
         contains Bootstrap js and css files for our webpage
+    
+    mapBaskets/
+        contains the weighted points without the continent information
+    
+    mapBasketsCnt/
+        contains the wighted points with the continent information
+    
+    Gigs3/
+        contains the location of the highest concentration of points for each genre and continent
 
 
 Dependencies
@@ -54,6 +69,9 @@ Instructions
 2.  Run 'python countGenre.py' which reads in genre tags from 'mmtd/artistGenre.txt',  counts up the frequency of each genre in the dataset, and outputs a sorted list of genres in decreasing frequency order to 'mmtd/topGenre.txt.'
 
 3.  Run 'python mapTweetsToGenre.py'. This script runs on the entire dataset in 'mmtd/mmtd.txt'. First it finds the top 50 genres from 'mmtd/topGenre.txt', which will serve as "buckets" for sorting tweets. It then extracts individual tweets from 'mmtd/mmtd.txt', using only the tweetID, artistID, and location data. Using the mapping in 'mmtd/artistGenre.txt,' the script maps the tweet to the 5 genres corresponding to its artistID. If at least one of those genres are in the top 50, the tweet location is sorted into the corresponding genre bucket(s). Otherwise the location is placed in the "other" genre bucket. Lastly, the genre buckets (including "other") are output as text files with the naming convention 'mapData/<genre>MapData.txt'.
+4.  Run 'python mapTweetsBasketsCompute.py'. This script separates all data points into buckets of localized data points.
+
+5.  Run 'python findGig4.py'. This script finds the largest bucket from the buckets created by mapTweetsBasketsCompute.py.
 
 
 =========
